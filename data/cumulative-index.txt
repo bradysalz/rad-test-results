@@ -1,0 +1,4385 @@
+TEEE RADIATION EFFECTS DATA WORKSHOP
+1992-2017 CUMULATIVE INDEX
+
+ 
+
+1992 Workshop Record
+Editor: H. Eisen
+IEEE Catalog Number 92TH0507-4
+ISBN 0-7803-0930-8
+
+ 
+
+1993 Workshop Record
+Editor: M. DeLaus
+IEEE Catalog Number 93THO657-7
+ISBN 0-7803-1906-0
+
+ 
+
+[1] R. Brown, J. Damato, N. Haddad, B. Posey, T. Scott, S.
+Murrill, J. Groseth, and S. McGregor, “QML Qualified 256K.
+Radiation-Hardened CMOS SRAM, “pp. 72-81 (1992).
+
+[2] M. E. Bumbaugh and D. S. Rosario, “Ionizing Radiation
+Effects on Commercial 256K EEPROM’s, “
+pp. 42-47 (1992).
+
+[3] C. Dufour, P. Garnier, J. Beaucour, and H. Delagrange,
+“Heavy Ion Testing Using the GANIL Accelerator and
+Compilation of Results with Predictions,” pp. 21-26 (1992).
+
+[4] R. Ecoffet, M. Labrunee, S. Duzellier, and D. Falguere,
+“Heavy Ion Test Results on Memories, “pp. 27-33 (1992).
+
+[5] R. Harboe-Sorensen and A. T. Sund, “Radiation Pre-
+Screening of R3000/R3000A Microprocessors,“
+pp. 34-41 (1992).
+
+[6] G. L. Hash, J. R. Schwank, M. R. Shaneyfelt, K. L.
+Hughes, M. P. Connors, J. W. Swonger, N. W. vanVonno,
+and R. L. Martin, “Radiation Characterization of a Monolithic
+Nuclear Event Detector,“ pp. 82-86 (1992).
+
+[7] J. D. Kinnison and R. H. Maurer, “A Summary of Recent
+VLSI SEU and Latch-Up Testing,“ pp. 12-15 (1992).
+
+[8] K. LaBel, E. G. Stassinopoulos, G. J. Brucker, and
+
+C.A. Stauffer, “SEU Test of 80386 Based Flight
+Computer/Data Handling System and of Discrete PROM and
+EEPROM Devices, and SEL Tests of Discrete 80386, 80387,
+PROM, EEPROM, and ASICs,“ pp. 1-11 (1992).
+
+[9] C. L. Lee, R. E. Hill, and K. Nies, “Total Ionizing Dose
+Radiation Characterization of the Natel HSRD 1056RH
+Resolver-to-Digital Converter Hybrid, “pp. 48-52 (1992).
+
+[10] M. C. Maher, “Radiation Design Test Data for Advanced
+CMOS Product,“ pp. 58-66 (1992).
+
+[11] H. Owens, A. Yee, S. Toutounchi, M. Lyu,
+W. C. Schneider, and A. R. Dantas, “1-Om CMOS Gate
+Array Radiation Hardened Technology,“ pp. 67-71 (1992).
+
+[12] K. Sharma and K. Sahu, “Low Dose Rate Radiation testing
+of Advanced CMOS Technology (AC/ACT) Series Parts for
+Space Flight Applications,“ pp. 53-57 (1992).
+
+[13] R. Velazco, S. Karoui, and T. Chapuis, “SEU Testing of
+32-Bit Microprocessors,“ pp. 16-20 (1992).
+
+361
+
+ 
+
+[1] J. Barak, J. Levinson, A. Zentner, D. David, O. Even, M.
+Hass, D. Ilberg, and Y. Lifshitz, “Study of Single-Event
+Upsets in PALI6R8," pp. 33-35 (1993).
+
+[2] J. Beaucour, C. Poivey, C. Dufour, P. Garnier, T.
+
+Carriére, and H. Delagrange, “Heavy Ion testing Using the
+GANIL Accelerator Compilation of Results with Predictions,”
+pp. 20-26 (1993).
+
+[3] S. Duzellier, D. Falguere, J. Bourrieau, and R. Ecoffet,
+“Heavy Ion/Proton Test Results on High Integrated
+Memories,“ pp. 36-42 (1993).
+
+[4] F. Estreme, T. Chapuis, R. Velazco, S. Karoui, R.
+Trigaux, and L. H. Rosier, “SEU and Latch-Up results for
+SPARC Processors,“ pp. 13-19 (1993).
+
+[5] Q. Kim, H. Schwartz, K. McCarty, J. Coss, and C.
+Barnes, “Single-Event Effects on Space Radiation-Hardened
+64K SRAMs at Room Temperature, “pp. 99-106 (1993).
+
+[6] K. A. LaBel, C. M. Crabtree, E. G. Stassinopoulos, and
+D. Wiseman, “Heavy Ion Test Results for Electronic
+Devices,“ pp. 27-32 (1993).
+
+[7] K. A. LaBel, S. Way, E. G. Stassinopoulos, C. M.
+Crabtree, J. Hengemihle, and M. M. Gates, “Solid-State Tape
+Recorders: Spaceflight SEU Data for SAMPEX and
+TOMS/Meteor-3," pp. 77-84 (1993).
+
+[8] C. L. Lee, B. G. Rax, and A. H. Johnston, “Total Ionizing
+Dose Effects in 12-Bit Successive-Approximation Analog-to-
+Digital Converters,“ pp. 112-117 (1993).
+
+[9] D. C. Meshel, G. K. Lum, and P. W. Marshall, “Radiation
+Testing of InGaAsP Fiber Optic Transmitter and Receiver
+Modules,“ pp. 64-76 (1993).
+
+[10] T. L. Miller, D. A. Thompson, M. B. Elzinga, T.-H. Lee,
+and B. C. Passenheim, “Experimental Evaluation of High-
+Speed CCD Imager Radiation Effects Using Co60 and Proton
+Radiation,“ pp. 56-63 (1993).
+
+[11] D. K. Nichols, J. R. Cross, K. P. McCarty, H. R.
+Schwartz, L. S. Smith, G. M. Swift, R. K. Watson, R. Koga,
+W.R. Crain, K. B. Crawford, and S. J. Hansel, “Overview of
+Device SEE Susceptibility from Heavy Ions,”
+
+pp. 1-12 (1993).
+
+[12] D. L. Oberg, J. L. Wert, E. Normand, J. D. Ness, P. O.
+Majewski, and R. A. Kennerud, “Measurement of Single-
+Event Effects in the 87C51 Microcontroller, “ pp. 43-50
+(1993).
+[13] M. Shoga, J. Gorelick, R. Rau, R. Koga, and A. Martinez,
+“Observation of Single Event Latchup in Bipolar Devices, “
+pp. 118-120 (1993).
+
+[14] A. Soubeyran, J. G. Droishagen, L. Levy, A. Matucci, R.
+P. Kensek, and G. Betz, “Deep Dielectric Charging Simulation:
+New Guidelines, “pp. 93-98 (1993).
+
+[15] C. I. Underwood, R. Ecoffet, C. S. Dyer, and A. J. Sims,
+“Observations of Single-Event Upset and Multiple-Bit Upset in
+Non-Hardened High-Density SRAMs in the TOPEX/Poseidon
+Orbit, “pp. 85-92 (1993).
+
+[16] B. D. Weaver, E. M. Jackson, and G. P. Summers,
+“Radiation Damage and Grain-Boundary Effects in High-Tc
+Microwave Devices and Tunnel Junctions,”
+
+pp. 107-111 (1993).
+
+[17 D. Wiseman, J. A. Canaris, S. R. Whitaker, J. Venbrux, K.
+Cameron, K. Arave, L. Arave, M. N. Liu, and K. Liu, “Design
+and Testing of SEU/SEL Immune Memory and Logic Circuits
+in a Commercial CMOS Process, “pp. 51-55 (1993).
+
+ 
+
+1994 Workshop Record
+Editor: D. Emily
+IEEE Catalog Number 94TH06841
+ISBN 0-7803-2022-0
+
+ 
+
+[1] W. E. Combs, J. F. Krieg, P. L. Cole, and B. E. Eiche,
+“Radiation Effects on the AT&T CBIC Linear Bipolar
+Process, “pp. 110-117 (1994).
+
+[2] M. DeLaus and W. E. Combs, “Total-Dose and SEU
+Results for the AD8001, a High-Performance Commercial Op-
+Amp Fabricated in a Dielectrically Isolated, Complementary-
+Bipolar Process, “pp. 104-109 (1994).
+
+[3] R. Ecoffet, S. Duzellier, P. Tastet, C. Aicardi, and
+M. Labrunee, “Observation of Heavy Ion Induced Transients in
+Linear Circuits, “pp. 72-77 (1994).
+
+[4] N. F. Haddad, J. D. Maimon, S. Doyle, L. Jacunski, T.
+Hoang, D. Lawson, D. Jallice, and T. Scott, “Radiation
+Hardened ULSI Technology and Design of IM SRAM,”
+pp. 1-6 (1994).
+
+[5] G. L. Hash, J. R. Schwank, and M. R. Shaneyfelt,
+“Transient and Total Dose Irradiation of BESOI 4K SRAM,”
+pp. 11-14 (1994).
+
+[6] T. Houston, H. Lu, E. Yee, L. Hite, R. Rajgopal, C. C. Shen,
+J-M. Hwang, G. Pollack, and L. Cohn, “A Radiation Hardened
+1-M Bit SRAM on SIMOX Material, “pp. 7-10 (1994).
+
+[7] K. A. LaBel, A. K. Moran, D. K. Hawkins, J. A. Cooley,
+C.M. Seidleck, M. M. Gates, B. S. Smith, E. G. Stassinopoulos,
+P. Marshall, and C. Dale, “Single Event Effect Proton and
+Heavy Ion Test Results for Candidate Spacecraft Electronics,”
+pp. 64-71 (1994).
+
+[8] K. P. McCarty, J. R. Coss, D. K. Nichols, G. M. Swift, and
+K. A. LaBel, “Single Event Effects Testing of the Crystal
+CS5327 16-Bit ADC, “pp. 86-96 (1994).
+
+362
+
+[9] S. G. Mulford, “Total Dose Radiation testing of the
+INTEL 80386DX Microprocessor and 80387DX Math
+Coprocessor Using a Personal Computer Motherboard for
+the Test Fixture, “pp. 26-29 (1994).
+
+[10] D. K. Myers, and R. T. Miller, “Space Radiation
+Characterization of the ART2800 DC/DC Converter Family
+and 7846 Post Regulator, “pp. 97-103 (1994).
+
+[11]W. H. Newman, “Radiation Performance of Harris 64K
+SRAMs, “pp. 15-19 (1994).
+
+[12] D. K. Nichols, K. P. McCarty, J. R. Coss, A. Waskiewicz,
+J. Groninger, D. Oberg, J. Wert, P. Majewski, and R. Koga,
+“Observations of Single Event Failure in Power MOSFETs,”
+pp. 41-54 (1994).
+
+[13] K. Ohsono, T. Kokkubun, S. Morioka, M. Hirata, K.
+Ochi, T. Arimitu, S. Suzuki, M. Uesugi, T. Hada, T. Tamura,
+S. Kuboyama, and S. Matsuda, “A Radiation-Hardened
+CMOS 177k Gate Array Having Libraries Compatible with
+Commercial Ones, “pp. 37-40 (1994).
+
+[14] C. Poivey, P. Garnier, J. Beaucour, T. Liebler, and
+D. Guyomard, “SEP Characterization of IM EEPROMs from
+SEEQ and Hybrid Memory, “pp. 20-25 (1994).
+
+[15] F. W. Sexton, G. L. Hash, M. P. Connors, J. R. Murray,
+J. R. Schwank, P. S. Winokur, and E. G. Bradley, “SEU and
+SEL Response of the Westinghouse 64K E?PROM, Analog
+Devices AD7876 12-Bit ADC, and the Intel 82527 Serial
+Communications Controller, “pp. 55-63 (1994).
+
+[16] A. K. Sharma, K. Sahu, and J. Lander, “An Evaluation of
+the Radiation Tolerance of a 32-Bit Microprocessor for Space
+Applications, “pp. 30-36 (1994).
+
+[17] D. J. Wilson and D. A. Dorn, “Characterization of Single
+Event Effects for the AD677, 16-Bit A/D Converter,”
+pp. 78-85 (1994).
+
+ 
+
+1995 Workshop Record
+Editor: K. LaBel
+IEEE Catalog Number 95-TH8194
+ISBN 0-7803-3100-0
+
+ 
+
+[1] H. R. Andrews, J. S. Geiger, V. T. Koslowsky, H.
+Schmeing, and G. R. Mitchel, “Opportunities for SEE Testing
+and Research at the Chalk River TASCC Heavy Ion Facility,”
+pp. 104-106 (1995).
+
+[2] J. P. Bensoussan, C. Barillot, P. Calvel, and P. Poirot,
+“Total-Dose and Heavy-Ion Evaluation of UC1806 Pulse
+Width Modulator from Unitrode, “pp. 55-59 (1995).
+
+[3] D.H. Brautigam and J. T. Bell, “CRRES Electron
+Omnidirectional Flux Models and CRRESELE Utility,”
+pp. 90 (1995).
+
+[4] S. Buchner, M. Baze, W. Bartholet, J. Melinger, and D.
+MceMorrow, “Confirmation of Calculated Error Rates in ASIC
+Chip Using a Pulsed Laser, “pp. 39-41 (1995).
+[5] T. Corbiere and J.L. Venturin, “Investigation of Dose-Rate
+Effects on CMOS Submicron Technologies, “pp. 85-89 (1995).
+
+[6] G. P. Ginet, R. Biasca, and M. Tautz, “PL-GEOSpace:
+Three-Dimensional Visualization of the Dynamic Space
+Environment, “pp. 91-92 (1995).
+
+[7] R. Harboe-Sorensen, S. Fraenkel, R. Muller, and T. U.
+Braunschweig, “Heavy Ion, Proton, and Co-60 Radiation
+Evaluation of 16 Mbit DRAM Memories for Space
+Application, “pp. 42-49 (1995).
+
+[8] K. A. LaBel, A. K. Moran, D. K. Hawkins, A. B. Sanders,
+E. G. Stassinopoulos, R. K. Barry, C. M. Seidleck, H. S. Kim,
+J. Forney, P. Marshall, and C. Dale, “Single-Event Effect
+Proton and Heavy-Ion Test Results in Support of Candidate
+NASA Programs, “pp. 16-32 (1995).
+
+[9] J. D. Miller, J. Rosario, R. F. Schneider, E. E. Nolting, R.
+A. Stark, V. L. Kenyon, J. D. Sethian, and K. T. Nguyen,
+“Large-Area Electron Beam Mode on Casino,”
+
+pp. 99-103 (1995).
+
+[10] D. K. Nichols, J. R. Coss, K. P. McCarty, H. R. Schwartz,
+G. M. Swift, R. K. Watson, R. Koga, W. R. Crain,
+
+K. B. Crawford, and S. J. Hansel, “Trends in Device SEE
+Susceptibility from Heavy Ions, “pp. 1-15 (1995).
+
+[11] E. Nolting, L. Miles, J. Miller, V. Kenyon II,
+
+W. Spicer, Jr., J. Draper, C. Parsons, F. Warnock, A. Fisher,
+G. Peterson, M. Krishnan, R. Pasad, G. Rondeau, J. Fockler,
+P. Spence, P. Corcoran, J. Sethian, N. Pereira, and R. Smith,
+“Cold X-ray Simulation Capabilities at Phoenix,”
+
+pp. 93-98 (1995).
+
+[12] E. Normand, J. L. Wert, P. O. Majewski, W. B. Bartholet,
+D. L. Oberg, M. Shoga, G. Woffinden, S. A. Wender, “Single-
+Event Upset and Latchup Measurements in Avionics Devices
+Using the WNR Neutron Beam, “pp. 33-38 (1995).
+
+[13] A. H. Pawlikiewicz, A. L. Bishop, and R. C. Jerome,
+“Low noise and High Tolerance to Radiation Effects of
+Complementary Bipolar SOLIC Technology,”
+
+pp. 78-84 (1995).
+
+[14] M. Regula, O. Pedersen, and R. R. Konegen, “Total-Dose
+Characterization of the PACE SOS 1750A Microprocessor
+Chipset, “pp. 64—70 (1995).
+
+[15] D. C. Shaw and C. I. Lee, “Radiation Evaluation of the
+80C186 16-Bit Microprocessor Utilizing a Novel Technique for
+In-Situ Electrical Biasing and Characterization,”
+
+pp. 60-63 (1995).
+
+[16] L. Silverman, G. Kuehner, M. Jupina, and P. Enquist,
+“Rad-Hard Successive Detection Microwave logarithmic
+Amplifiers Employing GaAs Monolithic Chips Using
+Heterojunction Bipolar Transistors, “pp. 71-77 (1995).
+
+[17] M. D. Skipper, K. Atkins, G. R. Hopkinson, and K. A.
+
+LaBel, “Radiation Effects in MICREL MIC4427 MOSFET
+Drivers, “pp. 50-54 (1995).
+
+363
+
+ 
+
+1996 Workshop Record
+Editor: S. Tyson
+IEEE Catalog Number 96TH8199
+ISBN 0-7803-3398-5
+
+ 
+
+[1] C. Barillot, A. Bensoussan, F. Brasseau, and P. Calvel,
+“Heavy Ion Evaluation of GaAs Microwave Devices,”
+pp. 88-93 (1996).
+
+[2] G. Berger, G. Ryckewaert, R. Harboe-Sorenson, and L.
+Adams, “The Heavy Ion Irradiation Facility at CYCLONE —
+A Dedicated SEE Beam Line, “pp.78—-83 (1996).
+
+[3] S. Dowling, “The Total Dose Response of NPN
+Transistors with Different Package Types to Various
+Irradiation Conditions, “pp. 44-48 (1996).
+
+[4] C. C. Foster, S. L. Casey, P. Miesle, N. Sifri, A. H. Skees,
+K. M. Murray, “Opportunities for Single Event and Other
+Radiation Effects Testing and Research at the Indiana
+University Cyclotron Facility, “pp. 84-87 (1996).
+
+[5] D. M. Hiemstra, “Dose Rate and Total Dose Noise
+Performance of a Commercial Off the Shelf Dielectrically
+Isolated Operational Amplifier During Radiation,”
+
+pp. 1-5 (1996).
+
+[6] K. A. LaBel, A. K. Moran, D. K. Hawkins, A. B. Sanders,
+E. G. Stassinopoulos, D. M. Seidleck, H. S. Kim, J. E. Forney,
+P. Marshall, C. Dale, J. Kinnison, and B. Carkhuff, “Current
+Single Event Effect Test Results for Candidate Spacecraft
+Electronics, “pp. 19-27 (1996).
+
+[7] D. Larsen, P. Welling, and W. Tsacoyeanes, “The Effects
+of Ionizing Radiation on the Honeywell HTMOS High
+Temperature Linear CMOS Technology, pp. 55-61 (1996).
+
+[8] S. T. Liu, W. C. Jenkins, “Total Dose Radiation Hard
+0.5um SOI CMOS Transistors and 256K SRAMs,”
+pp. 62-66 (1996).
+
+[9] D. K. Nichols, J. R. Coss, T-Miyahira, J. Titus, D. Oberg,
+J. Wert, and P. Majewski, “Update of Single Event Failure in
+Power MOSFETs, “pp. 67-72 (1996).
+
+[10] A. Y. Nikiforov, O. B. Mavritsky, A. N. Egorov, V. S.
+Figurov, V. A. Telets, P. K. Skorobogatov, and S. A. Polevich,
+““RADON-5E’ Portable Pulsed Laser Simulator: Description,
+Qualification Technique and Results, Dosimetry Procedure,
+“pp. 49-54 (1996).
+
+[11] R. L. Pease, W. E. Combs, A. Johnston, T. Carriére, and
+S. McClure, “A Compendium of Recent Total Dose Data on
+Bipolar Linear Microcircuits, “pp. 28-37 (1996).
+
+[12] C. Poivey, P. Garnier, T. Carriére, and J. Nagel, “Single
+Event Effect Proton and Heavy Ion Test Results for Ethernet
+Local Area Network Commercial Devices, “pp. 73-77 (1996).
+
+[13] K. P. Ray, E. G. Mullen, D. A. Guidice, D. E. Delorey,
+D.C. Marvin, H. B. Curtis, and M. F. Piszezor, “Solar Cell
+Degradation Observed by the Advanced Photovoltaic and
+Electronics Experiments (APEX) Satellite,
+
+pp. 94-102 (1996).
+[14] A. K. Sharma, K. Sahu, and S. Brashears, “Total lonizing
+Dose (TID) Evaluation Results of Low Dose Rate Testing for
+NASA Programs, “pp. 13-18 (1996).
+
+[15] T. L. Turflinger, M. V. Davey, and J. P. Bings, “Radiation
+Effects in Analog CMOS Analog-to-Digital Converter,”
+pp. 6-12 (1996).
+
+[16] G. U. Youk, “Dose Rate Effects of Bipolar A/D Converter,
+“pp. 38-43 (1996).
+
+ 
+
+1997 Workshop Record
+Editor: T. Turflinger
+IEEE Catalog Number 97TH8293
+ISBN 0-7803-4061-2
+
+ 
+
+[1] D. K. Nichols, J. R. Coss, T. F. Miyahira, H. R. Schwartz,
+G. M. Swift, R. Koga, W. R. Crain, K. B. Crawford, and
+
+S. H. Penzin, “Device SEE Susceptibility from Heavy Ions
+(1995-1996), “pp. 1-13 (1997).
+
+[2] K. A. LaBel, A. K. Moran, E. G. Stassinopoulos,
+
+J. M. Barth, C. M. Seidleck, P. Marshall, M. Carts,
+
+C. Marshall, J. Kinnison, and B. Carkhuff, “Single Event Effect
+Test Results for Candidate Spacecraft Electronics,”
+
+pp. 14-21 (1997).
+
+[3] P. L. Layton, D. J. Strobel, J. Parkinson, H. Anthony,
+R. Boss, J. Spratt, and B. Passenheim, “Radiation Testing
+Results of COTS-Based Space Microcircuits,”
+
+pp. 22-27 (1997).
+
+[4] M. Simons, J. Buaron, R. L. Pease, D. M. Fleetwood,
+
+J. R. Schwank, L. C. Riewe, M. Krzesniak, T. Turflinger,
+
+W. T. Kemp, P. W. C. Duggan, A. H. Johnston, M. Wiedeman,
+R. E. Mills, A. G. Holmes-Siedle, L. M. Cohn, H. J. Doane,
+and W. L. Lohmeier, “Common-Source TLD and RADFET
+Characterization of Co-60, Cs-137, and X-Ray Irradiation
+Sources, “pp. 28-34 (1997).
+
+[5] G.L. Hash, M_R. Shaneyfelt, F. W. Sexton, P.S. Winokur,
+“Radiation Hardness Assurance Categories for COTS
+Technologies, “pp. 35-40 (1997).
+
+[6] A. Y. Nikiforov, V. A. Telets, and V. 8. Figurov, “Thin-
+Film Thermo-Resistor Radiation Hardness Experimental
+Results, “pp. 41-43 (1997).
+
+[7] A. Y. Nikiforov, V. N. Guminov, and V. A. Telets,
+“Radiation Hard Bulk CMOS ROM Dose Rate Upset Detailed
+Analysis Technique and Results, “pp. 44-47 (1997).
+
+[8] C. K. Kouba and G. Choi, “Single Event Upset
+Characteristics of the 486-DX4 Microprocessor,”
+pp. 48-52 (1997).
+
+[9] R. Hosken, R. Koga, B. Wilson, J. Marcelli, and L. Laird,
+“Investigation of Non-Independent Single Event Upsets in the
+TAOS GVSC Static RAM, “pp. 53-60 (1997).
+
+[10] D. Thouvenot, P. Trochet, R. Gaillard, and F. Desnoyers,
+
+“Neutron Single Event Effect Test Results for Various SRAM
+Memories, “pp. 61-66 (1997).
+
+364
+
+[11] N. Kerness and A. Taber, “Neutron SEU Trends in
+Avionics, “pp. 67-72 (1997).
+
+[12] S. H. Penzin, W. R. Crain, K. B. Crawford, S. J. Hansel,
+and R. Koga, “The SEU in Pulse Width Modulation Controllers
+with Soft Start and Shutdown Circuits, “pp. 73-79 (1997).
+
+[13] D. M. Hiemstra, “Total Dose Performance of a
+Commercial Off the Shelf Ultra-Low Noise Precision Bipolar
+Operational Amplifier During Irradiation, “pp. 80-83 (1997).
+
+[14] R. Pease, W. Kemp, J. Chavez, N. Islam, and W. Shedd,
+“Total Dose Response of Maxim Analog Multiplexers at Two
+Dose Rates, “pp. 84-89 (1997).
+
+[15] A. K. Sharma and K. Sahu, “Characterization of
+Commercial High Density Memories under Low Dose Rate
+Total Ionizing Dose (TID) Testing for NASA Programs,”
+pp. 90-96 (1997).
+
+[16] C. I. Lee, D. N. Nguyen, and A. H. Johnson, “Total
+Ionizing Dose Effects on 64-Mb 3.3-V DRAMs,”
+pp. 97-100 (1997).
+
+[17] J. M. Benedetto and C. C. Hafer, “Ionizing Radiation
+Response of an Amorphous Silicon Based Antifuse,”
+pp. 101- 104 (1997).
+
+[18] J. M. Benedetto, D. B. Kerwin, and J. Chaffee, “Radiation
+Hardening of Commercial CMOS Processes through Minimally
+Invasive Techniques, “pp. 105-109 (1997).
+
+[19] G. Brown, L. Hoffman, S. Leavy, J. Morgenson, and
+
+J. Brichacek, “Honeywell Radiation Hardened 32-Bit Processor
+(RH32) Central Processing Unit, Floating Point Processor, and
+
+Cache Memory Dose Rate and Single-Event Upset Effects Test
+Results, “pp. 110-115 (1997).
+
+[20] J. P. Spratt, B. C. Passenheim, and R. E. Leadon, “The
+Effect of Nuclear Radiation on P-Channel CCD Imagers,”
+pp. 116-121 (1997).
+
+[21] M. D’Ordine, “Proton Displacement Damage in
+Optocouplers, “pp. 122-124 (1997).
+
+ 
+
+1998 Workshop Record
+Editor: L. Cohn
+IEEE Catalog Number 98TH8385
+ISBN 0-7803-5109-6
+
+ 
+
+[1] J. L. Barth, J. W. Adolphsen, G. B. Gee, “Single Event
+Effects on Commercial SRAMs and Power MOSFETs:
+Final Results of the CRUX Flight Experiment on APEX,”
+pp. 1-10 (1998).
+
+[2] S. C. Leavy, J. A. Mogensen, T. S. Smith, G. J. Freifeld,
+and J. Brichacek, “Honeywell Radiation Hardened 32-Bit
+Processor Single Event Effects Test Results,”
+pp. 11-14 (1998).
+
+[3] J. R. Coss, G. M. Swift, L. E. Selva,.L. Titus, E. Normand,
+D. L. Oberg, and J. L. Wert, “Compendium of Single Event
+Failures in Power MOSFETs, “pp. 15-38 (1998).
+[4] M. V. O’Bryan, K. A. LaBel, R. A. Reed, J. L. Barth,
+
+C. M. Seidleck, P. Marshall, C. Marshall, and M. Carts, “Single
+Event Effect and Radiation Damage Results for Candidate
+Spacecraft Electronics, “pp. 39-50 (1998).
+
+[5] S. H. Crain, W. R. Crain, K. B. Crawford, S. J. Hansel, P.
+Yu and R. Koga, “Single Event Effects Test Results for the
+80C186 and 80C286 Microprocessors and the SMJ320C30 and
+SMJ320C40 Digital Signal Processors, “pp. 51-57 (1998).
+
+[6] S. Bee, G. R. Hopkinson, R. Harboe-Sorensen,L. Adams,
+A. Smith, “Heavy-Ion Study of Single Event Effects in 12- and
+16- Bit ADCs, “pp. 58-67 (1998).
+
+[7] C. Poivey, B. Doucin, M. Briiggemann, and R. Harboe-
+Sorensen, “Radiation Characterization of Commercially
+Available 1Mbit / 4Mbit SRAMs for Space Applications,”
+pp. 68-73 (1998).
+
+[8] R. Harboe-Sorensen, M. Bruggemann, R. Muller, and
+
+F. J. Rombeck, “Radiation Evaluation of 3.3 Volt 16 M-bit
+DRAMs for Solid State Mass Memory Space Applications,”
+pp. 74-79 (1998).
+
+[9] D. B. Kerwin and J. M. Benedetto, “Total Dose and Single
+Event Effects Testing of UTMC Commercial RadHardTM Gate
+Arrays, “pp. 80-85 (1998).
+
+[10] J. M. Benedetto, A. Bishop, M. Martin, and
+
+N. Haddad, “High Total Dose Response of the UTMC Gate
+Array Fabricated at Lockheed Martin Federal Systems,”
+pp. 86-90 (1998).
+
+[11] S. G. Mulford, “Dose Rate, Total Dose and Neutron
+Radiation Testing of COTS and Military Microcircuit
+Devices, “pp. 91-95 (1998).
+
+[12] G. Lyons, “Commercial SOS Technology for Radiation
+Tolerant Space Applications, “pp. 96-99 (1998).
+
+[13] D.N. Nguyen, C.I. Lee, and A.H. Johnston, “Total Ionizing
+Dose Effects on Flash Memories, “pp. 100-103 (1998).
+
+[14] R. C. Lacoe, J. V. Osborn, D. C. Mayer, S. Brown, and D.
+R. Hunt, “Total-Dose Radiation Tolerance of a Commercial
+0.35 jum CMOS Process, “pp. 104-110 (1998).
+
+[15] D. M. Hiemstra, “Dose Rate and Total Dose Dependence
+of the 1/F Noise Perform-ance of an Operational Amplifier
+Fabricated on a Complementary Bipolar Process on Bonded
+Wafer, “pp. 111-116 (1998).
+
+[16] C.I. Lee, A-H. Johnston, and B.G. Rax, “Total Ionizing
+Dose Effects on Voltage-to-Frequency Converters,”
+pp. 117-120 (1998).
+
+[17] J. D. Black, P. H. Eaton, J. R. Chavez, A. L. Wilson, K.
+G. Merkel, and R. L. Pease, “Total Dose Evaluation of Stateof-
+the-Art Commercial Analog to Digital Converters for Space-
+Based Imaging Applications, “pp. 121-126 (1998).
+
+[18] J.D. Gorelick, 8. McClure, and R.L, Pease, “Burn-in
+
+Effects on Total Dose Radiation Sensitivity,”
+pp. 127-131 (1998).
+
+365
+
+[19] C. I. Lee and A. H. Johnston, “Comparison of Total Dose
+Effects on Micropower Op-Amps: Bipolar and CMOS,”
+pp. 132-136 (1998).
+
+[20] O. Quittard, F. Joffre, C. Oudéa, L. Dusseau, J. Fesquet,
+and J. Gasiot, “Effects of Input Bias on Different Commercial
+Technological Lines of CMOS Inverters with Respect to the
+Cumulated Dose, “pp. 137-141 (1998).
+
+[21] A. K. Sharma, K. Sahu, and S. Kniffin, “Evaluation of
+High Performance Converters Under Low Dose Rate Total
+Ionizing Dose (TID) Testing for NASA Programs,”
+
+pp. 142-147 (1998).
+
+[22] A. J. Williams, M. R. McEwen, and A. R. DuSautoy,
+“Radiation Testing for Space Applications at the National
+Physical Laboratory, “pp. 148-151 (1998).
+
+[23] W. Hajdas, A. Zehnder, F. Burri, J. Bialkowski, L.
+Adams, B. Nickson, and R. Harboe-Sorensen, “Radiation
+Effects Testing Facility in PSI Low Energy OPTIS Area,”
+pp. 152-155 (1998).
+
+[24] M. A. McMahan, “Cocktails and Other Libations—The
+88-Inch Cyclotron Radiation Effects Facility,
+pp. 156-16 (1998).
+
+[25] A. S. Artamonov, A. I. Chumakov, N. V. Eremin, V. S.
+Figurov, O. A. Kalashnikov, A.Y. Nikiforov, and A.V. Sogojan,
+“REIS-IE” X-Ray Tester: Description, Qualification Technique
+and Results, Dosimetry Procedure, “pp. 164-169 (1998).
+
+[26] P. J. Layton, H. Anthony, R. Boss and P. Hsu, “Radiation
+Testing Results of COTS Based Space Microcircuits,”
+pp. 170-176 (1998).
+
+[27] M. Ohlsson, P. Dyreklev, K. Johansson, and P. Alfke,
+“Neutron Single Event Upsets in SRAM-Based FPGAs,”
+pp. 177-180 (1998).
+
+ 
+
+1999 Workshop Record
+Editor: M. Foster
+IEEE Catalog Number 98TH8463
+ISBN 0-7803-5660-8
+
+ 
+
+[1] M. V. O’Bryan, K. A. LaBel, R. A. Reed, J. W. Howard,
+J. L. Barth, C. M. Seidleck, P. W. Marshall, C. J. Marshall,
+H. S. Kim, D. K. Hawkins, M. A. Carts, and K. E. Forslund,
+“Recent Radiation Damage and Single Event Effect Results
+for Microelectronics, “pp. 1-14 (1999).
+
+[2] B. G. Henson, P. T. McDonald, and W. J. Stapor, “SDRAM
+Space Radiation Effects Measurements and Analysis,”
+pp. 15-23 (1999).
+
+[3] D. M. MacQueen, D. M. Gingrich, N. J. Buchanan, and P.
+W. Green, “Total Ionizing Dose Effects in a SRAM-Based
+FPGA, “pp. 24-29 (1999).
+
+[4] S. H. Crain, R. Velazco, M. T. Alvarez, A. Bofill, P. Yu, and
+R. Koga, “Radiation Effects in a Fixed-Point Digital Signal
+Processor, “pp. 30-34 (1999).
+[5] S. M. Guertin, G. M. Swift, and D. Nguyen, “Single-Event
+Upset Test Results for the Xilinx XQ1701L PROM,”
+pp. 35- 40 (1999).
+
+[6] G. Lyons, G. Wu, T. Mellissinos, and J. Cable, “A High
+Performance Rad Hard 2-3 GHz Integer N CMOS Phase Lock
+Loop, “pp. 41-45 (1999).
+
+[10] L. Dayaratna, S. S. Seehra, A. Bogorad, and L. G.
+Ramos, “Single Event Upset Characteristics of Some Digital
+Integrated Frequency Synthesizers, “pp. 46-52 (1999).
+
+[11] P. Layton, H. Anthony, R Boss, P. Hsu, C. Land, F.
+Meraz, C. LePage-Woodie, J. Luy, and D. Strobel, “Radiation
+Testing Results of COTS Based Space Microcircuits,”
+
+pp. 53-59 (1999).
+
+[12] J.R. Coss, T.F. Miyahira, L. E. Selva, and G. M. Swift,
+“Device SEE Susceptibility Update: 1996-1998,”
+pp. 60-81 (1999).
+
+[13] R. C. Lacoe, J.V. Osborn, D.C. Mayer, S.C. Witczak, S.
+Brown, R. Robertson, and D. R. Hunt, “Total-Dose Tolerance
+of a Chartered Semiconductor 0.35mm CMOS Process,”
+
+pp. 82-86 (1999).
+
+[14] J. M. Benedetto and A. Jordan, “A Radiation-Hardened
+Cold Sparing Input/Output Buffer Manufactured on a
+Commercial Process Line, “pp. 87-91 (1999).
+
+[15] W. Hajdas, J. Bialkowski, M. Fivian, R. Henneck, A.
+Mchedlishvili, E. Sturcke, K. Thomsen, and A. Zehnder,
+“Components Testing for HESSI Satellite Aspects Modules,”
+pp. 92-95 (1999).
+
+[16] J. J. Wall, R. E. Sharp and L. Pater, “The Effects of
+Space Radiation and Burn-In on Plastic Encapsulated
+Semiconductors, “pp. 96-101 (1999).
+
+[17] J. L. Gorelick, S. 8. McClure, and C. Swink, “Radiation
+Evaluation of Plastic Encapsulated Transistors and
+
+Microcircuits for Use in Space Applications,”
+pp. 102-107 (1999).
+
+[18] K.B. Miller and C. O’ Quinn, “High Energy Electron
+Testing of Silicon and GaAs/Ge Solar Cells,”
+pp. 108-112 (1999).
+
+[19] M. N. Ott, “Electron-Induced Scintillation Testing of
+Commercially Available Optical Fibers for Space Flight,”
+pp.113-116 (1999).
+
+[20] M. Saidoh, M. Fukuda, K. Arakawa, S. Tajima,
+
+H. Sunaga, K. Yotsumoto, T. Kamiya, R. Tanaka, T. Hirao,
+
+I. Nashiyama, T. Oshima, H. Itoh, S. Okada, N. Nemoto,
+
+S. Kuboyama, and S. Matsuda, “The Irradiation Facilities for
+the Radiation Tolerance Testing of Semiconductor Devices for
+Space Use in Japan, “pp. 117-122 (1999).
+
+[21] J. M. Sisterson, J. B. Flanz and J. E. Burns, “A New
+
+Proton Irradiation Facility at the Northeastern Proton Therapy
+Center, “pp. 123-127 (1999).
+
+366
+
+ 
+
+2000 Workshop Record
+Editor: J. Kinnison
+IEEE Catalog Number 00TH8527
+ISBN 0-7803-6474-0
+
+ 
+
+[1] E. W. Blackmore, “Operation of the TRIUMF (20-500
+MeV) Proton Irradiation Facility, “pp. 1-5 (2000).
+
+[2] J. L. Gorelick, S. 8. McClure, “Continuing Radiation
+Evaluation of Commercial-Off-The-Shelf Devices for Space
+Applications, “pp. 6-10 (2000).
+
+[3] P. T. McDonald. B. G. Henson, W. J. Stapor, and M.
+Harris, “Destructive Heavy Ion SEE Investigation of 3 IGBT
+Devices, “pp. 11-15 (2000).
+
+[4] J. M. Benedetto, A. Jordan, and N. LaValley, “The Effects
+of Ionizing Radiation on the Data Retention of Static Random
+Access Memories, “pp. 16-20 (2000).
+
+[5] D. R. Hogue, G. A. Perry, S. R. Rumel, R. Bonebright, J. C.
+Braatz, M. P. Baze, and J. Holic, “A Rad-Hard Analog Cell
+Library, “pp. 21-25 (2000).
+
+[6] G. Tomasch, R. Muller, T. Tzscheetzsch, and R. Harboe-
+Sorensen, “Co-60 Total Dose Test for 14- and 16-Bit ADCs,”
+pp. 26-31 (2000).
+
+[7] D. M. Hiemstra, “High Total Dose Performance of Various
+Commercial-Off-The-Shelf Operational Amplifiers During
+Irradiation, “pp. 32-38 (2000).
+
+[8] D. M. Hiemstra and A. Baril, “Single Event Upset
+Characterization of the Pentium MMX and Celeron
+Microprocessors Using Proton Irradiation, “pp. 39-44 (2000).
+
+[9] R. Koga, S. H. Crain, P. Yu, and K. B. Crawford, “SEE
+Sensitivity Determination of High-Density DRAMS with
+Limited-Range Heavy Ions, “pp. 45-52 (2000).
+
+[10] R. Koga, S. H. Crain, K. B. Crawford, S. C. Moss, S. D.
+LaLumondiere, and J. W. Howard, Jr., “Single Event Transient
+(SET) Sensitivity of Radiation Hardened and COTS Voltage
+Comparators, “pp. 53-60 (2000).
+
+[11] L. Z. Scheick, G. M. Swift, and S. M. Guertin, “SEU
+Evaluation of SRAM Memories for Space Applications,”
+pp. 61-63 (2000).
+
+[12] D. Krawzsenek, P. Hsu, H. Anthony, and C. Land, “Single
+Event Effects and Total Ionizing Dose Results of a Low Voltage
+EEPROM, “pp. 64-67 (2000).
+
+[13] E. Vergnault, R. Ecoffet, R. Millot, S. Duzellier, L.
+Guilbert, J. P. Chabaud, and F. Cotin, “Management of
+Radiation Issues for Using Commercial Non-Hardened Parts
+on the INTEGRAL Spectrometer Project, “pp. 68-73 (2000).
+
+[14] G. R. Hopkinson, M. D. Skipper, and R. Harboe-Sorensen,
+“Radiation Evaluation of Low Power CMOS 12-Bit ADCs,”
+pp. 74-79 (2000).
+[15] M. Van Uffelen, F. Berghmans, B. Brichard, F. Vos,
+
+M. Decreton, A. Nowodzinski, J-C. Lecompte, F. Le Neve, and
+Ph. Jucker, “Long-Term Prediction of Radiation Induced
+Losses in Single Mode Optical Fibers Exposed to Gamma Rays
+Using a Pragmatic Approach, “pp. 80-84 (2000).
+
+[16] S. H. Crain, S. D. La Lumondiere, W. R. Crain,
+
+K. B. Crawford, S. J. Hansel, R. Koga, S. C. Moss, and
+S. W. Miller, “Comparison of Flight and Ground Data for
+Radiation-Induced High Current States in the 68302
+Microprocessor, “pp. 85—88 (2000).
+
+[17] D. Falguere, S. Duzellier, R. Ecoffet, and I. Tsourilo,
+“EXEQ LIV: SEE In-Flight Measurements on the MIR Orbital
+Station, “pp. 89-95 (2000).
+
+[18] D.R. Roth, J.D. Kinnison, B.G. Carkhuff, J.R. Lander,
+G.S. Bognaski, K. Chao, and G. M. Swift, “SEU and TID
+Testing of the Samsung 128 Mbit and the Toshiba 256 Mbit
+Flash Memory, “pp. 96—99 (2000).
+
+[19] S.S. McClure, J.L. Gorelick, R.L. Pease, A-H. Johnston,
+“Dose Rate and Bias Dependency of Total Dose Sensitivity of
+Low Dropout Voltage Regulators, “pp. 100-105 (2000).
+
+[20] M.V. O’Bryan, K.A. LaBel, R.A. Reed, J.W. Howard, Jr.,
+R. Ladbury, J.L. Barth, S.D. Kniffen, C.M. Seidleck, P.W.
+Marshall, C. J. Marshall, H. S. Kim, D. K. Hawkins, A. B.
+Sanders, M. A. Carts, J. D. Forney, D. R. Roth, J. D. Kinnison,
+E. Nhan, K. Sahu, “Radiation Damage and Single Event Effects
+Results for Candidate Spacecraft Electronics,”
+
+pp.106—-122 (2000).
+
+[21] K. A. LaBel, S.D. Kniffen,. A. Reed, H.S. Kim, J.L.
+
+Wert, D.L. Oberrg, E. Normand, A.H. Johnston, G. Lum, R.
+Koga, S. Crain, J. R. Schwank, G.L. Hash, S. Buchner, J. Mann,
+L. Simpkins, M. D’Ordine, C. A. Marshall, M. V. O’Bryan,
+C.M. Seidleck, L. X. Nguyen, M. A. Carts, R. Ladbury, and
+
+J. W. Howard Jr., “A Compendium of Recent Optocoupler
+Radiation Test Data, “pp. 123-146 (2000).
+
+[22] P. Truscott, F. Lei, C. Dyer, C. Ferguson, R. Gurriaran,
+
+P. Nieminen, E. Daly, J. Apostolakis, S. Giani, M. G. Pia,
+
+L. Urban, and M. Maire, “GEANT4—A New Monte Carlo
+Toolkit for Simulating Space Radiation Shielding and Effects,”
+pp. 147-152 (2000).
+
+[23] K. Gill, G. Cervelli, R. Grabit, F. Jensen, and F. Vasey,
+“Radiation Damage and Annealing in 1310 nm InGaAsP/InP
+Lasers, “pp. 153-157 (2000).
+
+[24] K. B. Miller, M. Duncan, C. Van Houten, and J.
+Carbone, “High Energy Electron Effects on Charge Injection
+Devices, “pp. 158-162 (2000).
+
+ 
+
+2001 Workshop Record
+Editor: N. van Vonno
+IEEE Catalog Number 01TH8588
+ISBN 0-7803-7199-2
+
+ 
+
+[1] S .S. McClure, B. G. Rax,. L. Gorelick, R. L. Pease, and
+R. L. Ladbury, “Total Dose Performance of Radiation Hardened
+Voltage Regulators and References, “pp. 1-5 (2001).
+
+367
+
+[2] R. Koga, P. Yu, K. B. Crawford, S. H. Crain, and
+
+V. T. Tran, “Permanent Single Event Functional Interrupts
+(SEFIs) in 128- and 256-Megabit Synchronous Dynamic
+Random Access Memories (SDRAMs), “pp. 6-13 (2001).
+
+[3] D. Guckenberger and D .M. Hiemstra, “Simultaneous
+Cryogenic Temperature (77K) and Total Dose Ionizing
+Radiation Effects on COTS Amplifiers, “pp. 14-18 (2001).
+
+[4] P. Duggan, S. Sampson, R. Burnell, R. Koga, P. Yu,
+
+S. Crain, S. McEndree, J. Tausch, D. Sleeter, and
+
+D. Alexander, “Comparative Testing of ADSP-21020 Digital
+Signal Processors from Multiple Vendors, “pp. 19-25 (2001).
+
+[5] B. P. Alaskiewicz, B. R. Doyle, and W. H. Newman,
+“Characterization of Various SEE Hardened Power
+Management ICs, “pp. 26-31 (2001).
+
+[6] D. M. Hiemstra, 8. Yu, and M. Pop, “Single Event Upset
+Characterization of the Pentium® MMX and Low Power
+Pentium® MMX Microprocessors Using Proton Irradiation,”
+pp. 32-37 (2001).
+
+[7] J. W. Howard Jr., M. A. Carts, R. Stattel, C. E. Rogers, T.
+L. Irwin, C. Dunsmore, J. A. Scarini, and K. A. LaBel, “Total
+Dose and Single Event Effects Testing of the Intel Pentium®
+III (P3) and AMD K7 Microprocessors, “pp. 38-47 (2001).
+
+[8] K. Hirose, H. Saito, M. Akiyama, M. Arakaki, Y. Kuroda,
+S. Ishii, and K. Nakano, “Total-Dose and Single-Event-Upset
+(SEU) Resistance in Advanced SRAMs Fabricated on SOI
+Using 0.2 um Design Rules, “pp. 48-50 (2001).
+
+[9] M. Menichelli, B. Alpat, R. Battiston, M. Bizzarri,
+
+S. Blasko, D. Caraffini, A. Papi, J. Burger, T. Dai, C. Haller,
+A. Kounine, V. Plyaskine, M. Steuer, E. Cortina Gil,
+
+O. Maris, D. Schartd, and R. S. Simon, “SEE Tests for
+Commercial Off-the-Shelf DSPs to Be Used in a Space
+Experiment, “pp. 51-56 (2001).
+
+[10] D. N. Nguyen and L. Z. Scheick, “TID Testing of
+Ferroelectric Nonvolatile RAM, “pp. 57-61 (2001).
+
+[11] L. Z. Scheick, “SEE Evaluation of Digital Analog
+Converters for Space Applications, “pp. 62—66 (2001).
+
+[12] J. M. Benedetto and A. Oliver, “High-Speed Data
+Transmission for Spaceborne Applications, “pp. 67-71 (2001).
+
+[13] R. C. Lacoe, J. V. Osborn, D. C. Mayer, S. Brown, and
+
+J. Gambles, “Total-Dose Tolerance of the Commercial Taiwan
+Semiconductor Manufacturing Company (TSMC) 0.35-4m
+CMOS Process, “pp. 72-76 (2001).
+
+[14] C. M. Castaneda, “Crocker Nuclear Laboratory (CNL)
+Radiation Effects Measurement and Test Facility,”
+pp. 77-81 (2001).
+
+[15] M.V. O’Bryan, C.M. Seidleck, M.A. Carts, K.A. LaBel,
+R. A. Reed, J. L. Barth, C. J. Marshall, D. K. Hawkins, A. B.
+Sanders, S. R. Cox, R. L. Ladbury, S. D. Kniffin, C. Palor, J. W.
+Howard Jr., H .S. Kim, J. D. Forney, C. J. Dunsmore, S. P.
+Buchner, and P .W. Marshall, “Recent Radiation Damage and
+Single Event Effect Results for Candidate Spacecraft
+Electronics, “pp. 82-99 (2001).
+[16] K. Warren, D. Roth, J. Kinnison, and B. Carkuff, “Single
+Event Latchup and Total Dose Testing of Spacecraft Electronic
+Components, “pp. 100-105 (2001).
+
+[17] J. R. Coss, “Device Susceptibility Update: 1999-2000,”
+pp. 106-126 (2001).
+
+[18] R. L. Pease, S. McClure, A. H. Johnston, J. Gorelick,
+
+T. L. Turflinger, M. Gehlhausen, J. Krieg, T. Carriere, and
+M. Shaneyfelt, “An Updated Data Compendium of Enhanced
+Low Dose Rate Sensitive (ELDRS) Bipolar Linear Circuits,”
+pp. 127-133 (2001).
+
+[19] M. W. Savage, T. Turflinger, J. W. Howard Jr., and
+S. Buchner, “A Compendium of Single Event Transient Data,”
+pp. 134-141 (2001).
+
+[20] C. J. Marshall, R. A. Reed, K. A. LaBel, P. W. Marshall,
+M.A. Carts, and S. Baier, “Characterization of Transient Error
+Cross Sections in High Speed Commercial Fiber Optic Data
+Links, “pp. 142-145 (2001).
+
+[21] X. Sun and H. Dautet, “Proton Radiation Damage of Si
+APD Single Photon Counters, “pp. 146-150 (2001).
+
+[22] X. S. Mao, J. C. Liu, and G. Lum, “Photon and Neutron
+Responses of Optical Absorption Dosimeters Used at SLAC,”
+pp. 151-154 (2001).
+
+[23] K. B. Miller, J. Leitch, and C. Lyons-Mandel, “Proton
+Radiation Testing of Optical Elements, “pp. 155-159 (2001).
+
+[24] J. E. Gillberg, D. I. Burton, J. L. Titus, N. Hubbard, and
+C. F. Wheatley, “Responses of Radiation-Hardened Power
+MOSFETs to Neutrons, “pp. 160-166 (2001).
+
+[25] J. Krieg, T. L. Turflinger, and R. Pease, “Manufacturer
+Variability of Enhanced Low Dose Rate Sensitivity (ELDRS)
+ina Voltage Comparator, “pp. 167-171 (2001).
+
+[26] R. A. Reed, C. J. Marshall K. A. LaBel, P. W. Marshall,
+H. Ainspan, H. S. Kim, J. D. Cressler, and G. Niu, “Single
+Event Upset Test Results on a Prescaler Fabricated in IBM’s
+5HP Silicon Germanium Heterojunction Bipolar Transistors
+BiCMOS Technology, “pp. 172-176 (2001).
+
+[27] B. J. Hamilton and T. L. Turflinger, “Total Dose Testing
+of 10-Bit Low Voltage Differential Signal (LVDS) Serializer
+and Deserializer, “pp. 177-181 (2001).
+
+Reprinted from the 2000 Record:
+
+[28] R. Koga, 8S. H. Crain, P. Yu, and K. B. Crawford, “SEE
+Sensitivity Determination of High-Density DRAMs with
+Limited-Range Heavy Ions, “pp. 182-189 (2001).
+
+ 
+
+2002 Workshop Record
+Editor: S. Crain
+IEEE Catalog Number 02TH8631
+ISBN 0-7803-7544-0
+
+ 
+
+[1] S. Duzellier, S. Bourdarie, R. Velazco, B. Nicolescu,
+R. Ecoffet, “SEE In-Flight Data for Two Static 32 KB
+Memories on High Earth Orbit, “pp. 1-6 (2002).
+
+368
+
+[2] B. E. Pritchard, G. M. Swift, A. H. Johnston, “Radiation
+Effects Predicted, Observed, and Compared for Spacecraft
+Systems, “pp. 7-13 (2002).
+
+[3] E. Mikkelson, W. Baba, “Solar Flare Proton Environment
+for Estimating Downtime of Spacecraft CCDs,”
+pp. 14-17 (2002).
+
+[4] G. R. Hopkinson, M. D. Skipper, B. Taylor, “A Radiation
+Tolerant Video Camera for High Total Dose Environments,”
+pp. 18-23 (2002).
+
+[5] M. N. Ott, “Radiation Effects Data on Commercially
+Available Optical Fiber: Database Summary,”
+pp. 24-31 (2002).
+
+[6] J. W. Howard Jr., K. A. LaBel, M. A. Carts, R. Stattel,
+
+C. E. Rogers, T. L. Irwin, “Proton Single Event Effects (SEE)
+Testing of the Myrinet Crossbar Switch and Network Interface
+Card, “pp. 32-40 (2002).
+
+[7] D. M. Gingrich, N. J. Buchanan, L. Chen, S. Liu,
+“Tonizing Radiation Effects in EPF1OK50E and XC28150
+Programmable Logic Devices, “pp. 41-44 (2002).
+
+[8] M. Ceschia, M. Bellato, A. Paccagnella, S.-C. Lee,
+C. Wan, A. Kaminski, M. Menichelli, A. Papi, J. Wyss, “Ion
+Beam Testing of ALTERA APEX FPGAs, “pp. 45—50 (2002).
+
+[9] D. M. Hiemstra, S. Yu, M. Pop, “Single Event Upset
+Characterization of the Pentium® 4, Pentium® IIT and Low
+Power Pentium® MMX Microprocessors using Proton
+Irradiation, “pp. 51-57 (2002).
+
+[10] J. M. Benedetto, “Single Event Effects and Prompt
+Dose Hardness of a Deep Sub-micron Commercial Process,”
+pp. 58-61 (2002).
+
+[11] D. N. Nguyen, L. Z. Scheick, “SEE and TID of
+Emerging Non-Volatile Memories, “pp. 62-66 (2002).
+
+[12] R. Koga, P. Yu, S. Crain, K. Crawford, K. Chao, “Single
+Event Transients (SET) Sensitivity of Advanced BiCMOS
+Technology (ABT) Buffers and Transceivers,”
+
+pp. 67-74 (2002).
+
+[13] M. W. Savage, T. L. Turflinger, J. L. Titus, H. F. Barsun,
+
+A. Sternberg, Y. Boulghassoul, L. W. Massengill, R. L. Pease,
+“Variations in SET Pulse Shapes in the LM124A and LM111,”
+pp. 75-81 (2002).
+
+[14] M. V. O’Bryan, C. M. Seidleck, M. A. Carts, K. A.
+LaBel, R. A. Reed, C. J. Marshall, D. K. Hawkins, A. B.
+Sanders, S. R. Cox, R. L. Ladbury, S. D. Kniffin, M. R. Jones,
+C. D. Palor, J. A. Sciarini, C. Poivey, J. W. Howard Jr., H. S.
+Kim, J. D. Forney, S. P. Buchner, T. L. Irwin, Z. A. Kahric, J.
+P. Bings, J. L. Titus, S. D. Clark, T. L. Turflinger, P. W.
+Marshall, “Current Single Event Effects and Radiation Damage
+Results for Candidate Spacecraft Electronics,”
+
+pp. 82-105 (2002).
+
+[15] K. Warren, D. Roth, J. Kinnison, R. Pappalardo, “Single
+Event Testing of DC/DC Converters for Space Flight,”
+pp. 106-108 (2002).
+[16] J. Lehman, C. Yui, B. G. Rax, T. F. Miyahira,
+
+M. Weideman, P. Schrock, G. M. Swift, A. H. Johnston,
+
+S. Kayali, “Low Dose Failures of Hardened DC-DC Power
+Converters, “pp. 109-114 (2002).
+
+[17] N. Boetti, P. Jarron, B. Kisielewski, F. Faccio,
+“Radiation Performance of the L4913 Voltage Regulator,”
+pp. 115-119 (2002).
+
+[18] Y. Choquette, D. Lessard-Déziel, A. Houdayer,
+
+S. Khanna, L. Varga, D. Estan, M. Giray, G. Brassard,
+“Proton and Electron Radiation Effects on Dry Lithium Metal
+Polymer Batteries, “pp. 120-126 (2002).
+
+[19] Z. Jin, G. Niu, J. D. Cressler, P. W. Marshall, H. S. Kim,
+R. Reed, A. J. Joseph, “Proton Response of Low-frequency
+Noise in 0.20 um 90 GHz ff UH V/CVD SiGe HBTs,”
+
+pp. 127-130 (2002).
+
+[20] C. C. Yui, 8. S. McClure, B. G. Rax, J. M. Lehman,
+
+T. D. Minto, M. D. Wiedeman, “Total Dose Bias Dependency
+and ELDRS Effects in Bipolar Linear Devices,”
+
+pp. 131-137 (2002).
+
+[21] J. E. Gillberg, D. I. Burton, J. L. Titus, N. Hubbard,
+
+C. F. Wheatley, “Updated Responses of Devices from the FSG
+and FSP Radiation-Hardened Power MOSFET Families to 1-
+MeV Equivalent Neutrons, “pp. 138-144 (2002).
+
+[22] S. G. Mulford, D. N. Brown, A. L. McMaster, “Nuclear
+Dose Rate, Total Dose, and Neutron Radiation Testing of
+COTS Devices, “pp. 145-151 (2002).
+
+[23] P. Chambaud, C. Brisset, G. Beuzelin, “Use of COTS
+Components for Dose Rate Measurement from I krad(Si02)/h
+to 200 krad(SiO2)/h, “pp. 152-159 (2002).
+
+[24] W. Hajdas, F. Burri, Ch. Eggel, R. Harboe-Sorensen,
+R. de Marino, “Radiation Effects Testing Facilities in PSI
+during Implementation of the Proscan Project,”
+
+pp. 160-164 (2002).
+
+[25] G. Vizkelethy, B. L. Doyle, F. D. McDaniel, P. Rossi,
+P. E. Dodd, “High LET Radiation Effects Microscopy for
+ICs, “pp. 165-170 (2002).
+
+[26] A. Fernandez Fernandez, H. Ooms, B. Brichard,
+M. Coeck, S. Coenen, F. Berghmans, M. Decréton,
+“SCK*CEN Gamma Irradiation Facilities for Radiation
+Tolerance Assessment, “pp. 171-176 (2002).
+
+[27] W. Abare, F. Brueggeman, R. Pease, J. Krieg, M.
+
+Simons, “Comparative Analysis of Low Dose-Rate,
+Accelerated, and Standard Cobalt-60 Radiation Response Data
+for a Low-Dropout Voltage Regulator and a Voltage
+Reference, “pp. 177-180 (2002).
+
+[28] S. S. McReady, T. H. Harlow, A. S. Heger, K. E.
+Holbert, “Piezoresistive Micromechanical Transducer
+Operation in a Pulsed Neutron and Gamma Ray
+Environment, “pp. 181-186 (2002).
+
+369
+
+[29] C. J. Marshall, K. A. LaBel, R. A. Reed, P. W. Marshall,
+W. B. Byers, C. Conger, J. Peden, E.-S. Eid, M. R. Jones, S.
+Kniffin, G. Gee, J. Pickel, “Heavy Ion Transient
+Characterization of a Hardened-by-Design Active Pixel
+Sensor Array, “pp. 187-193 (2002).
+
+ 
+
+2003 Workshop Record
+Editor: J. L. Wert
+IEEE Catalog Number 03TH8709
+ISBN 0-7803-8127-0
+
+ 
+
+[1] S. S. McClure, J. L. Gorelick, C. C. Yui, B. G. Rax,
+
+M. D. Wiedeman, “Continuing Evaluation of Bipolar Linear
+Devices for Total Dose Bias Dependency and ELDRS
+Effects, “pp. 1-5 (2003).
+
+[2] P. Layton, G. Williamson, E. Patnaude, L. Longden,
+C. Thibodeau, B. Kazak, C. Sloan, “TID Performance
+Degradation of High Precision, 16-bit Analog-to-Digital
+Converters, “pp. 6-10 (2003).
+
+[3] T. Sumita, M. Imaizumi, S. Kawakita, S. Matsuda,
+
+S. Kuwajima, Takeshi Ohshima, T. Kamiya, “Analysis of
+Radiation Effects in Space for Terrestrial Solar Cells on MDS- 1,”
+pp. 11-17 (2003).
+
+[4] D. N. Nguyen, L. Z. Scheick, “TID, SEE and Radiation
+Induced Failures in Advanced Flash Memories,”
+pp. 18-23 (2003).
+
+[5] B. E. Pritchard, B. G. Rax, S. S. McClure, “Recent
+Radiation Test Results at JPL, “pp. 24-33 (2003).
+
+[6] S. Aghara, R. J. Fink, W. S. Charlton, B. Bhuva,
+
+M. R. Samadi, J. A. Ochoa, J. R. Porter, “Degradation of
+Commercially Available DAC ICs in Mixed-Radiation
+Environment, “pp. 34-37 (2003).
+
+[7] J. P. Bings, M. J. Gadlage, S. D. Clark, J. Sheehy,
+
+D. Morgan, R. Steinbach, C. Carney, D. Kelley, H. Kaakani, C.
+Elliott, “Total Dose Results for the AD9225RH Analog-to-
+Digital Converter, “pp. 38-42 (2003).
+
+[8] J. R. Coss, “Update of Integrated Circuit SEE Responses:
+2001-2002, “pp. 43-56 (2003).
+
+[9] D. J. Cochran, S. D. Kniffin, K. A. LaBel, M. V. O'Bryan,
+R. A. Reed, R. L. Ladbury, J. W. Howard, Jr., C. Poivey,
+
+S. P. Buchner, C. J. Marshall, P. W. Marshall, H. S. Kim,
+
+D. K. Hawkins, M. A. Carts, J.D. Forney, A. B. Sanders,
+
+J. Bings, J. Seiler, N. E. Hall, T. Irwin, Z. Kahric, S. R. Cox,
+C. Palor, “Total Ionizing Dose Results and Displacement
+Damage Results for Candidate Spacecraft Electronics for
+NASA, “pp. 57-64 (2003).
+
+[10] M. V. O'Bryan, K. A. LaBel, J. W. Howard Jr., C.
+
+Poivey, R. L. Ladbury, S. D. Kniffin, S. P. Buchner, M.
+Xapsos, R. A. Reed, A. B. Sanders, C. M. Seidleck, C. J.
+Marshall, P. W. Marshall, J. Titus, D. McMorrow, K. Li, J.
+Garbles, R. F. Stone, J. D. Patterson, H. S. Kim, D. K. Hawkins,
+M. A. Carts, J. D. Forney, T. Irwin, Z. Kahric, S. R. Cox,
+
+C. Palor, “Single Event Effects Results for Candidate
+Spacecraft Electronics for NASA, “pp. 65—76 (2003).
+[11] R. Koga, S. Crain, J. George, S. LaLumondiere,
+
+K. Crawford, P. Yu, V. Tran, “Variability in Measured SEE
+Sensitivity Associated with Design Iterations,”
+
+pp. 77-82 (2003).
+
+[12] J. George, R. Koga, K. Crawford, P. Yu, S. Crain,
+V. Tran, “SEE Sensitivity Trends in Non-hardened High
+Density SRAMs with Sub-micron Feature Sizes,”
+
+pp. 83-88 (2003).
+
+[13] S. Shojah-Ardalan, R. Wilkins, H. U. Machado,
+
+B. A. Syed, S. McClure, B. Rax, L. Scheick, M. Weideman,
+C. Yui, M. A. Reed, Z. Ahmed, “Susceptibility of
+“Ultracapacitors” to Proton and Gamma Irradiation,”
+
+pp. 89-91 (2003).
+
+[14] C. C. Yui, G. M. Swift, C. Carmichael, R. Koga,
+J.S. George, “SEU Mitigation of Xilinx Virtex II FPGAs,”
+pp. 92-97 (2003).
+
+[15] T. Langley, R. Koga, T. Morris, “Single-event Effects
+Test Results of 512MB SDRAMs, “pp. 98-101 (2003).
+
+[16] C. Poivey, J. L. Barth, K. A. LaBel, G. Gee,
+
+H. Safren, “In-Flight Observations of Long-Term Single-Event
+Effect (SEE) Performance on Orbview-2 Solid State Recorders
+(SSR). pp. 102-107 (2003).
+
+[17] D. M. Hiemstra, S. Yu, M. Pop, “Single Event Upset
+Characterization of a Personal Computer Micro-Controller
+System-on-a-Chip using Proton Irradiation,”
+
+pp. 108-112(2003).
+
+[18] L. E. Selva, L. Z. Scheick, S. McClure, T. Miyahira,
+S. M. Guertin, S. K. Shah, L. D. Edwards, J. D. Patterson,
+“Catastrophic SEE in High-Voltage Power MOSFETs,”
+pp. 113-120 (2003).
+
+[19] M. W. Savage, T. Turflinger, J. L. Titus, R. L. Pease,
+C. F. Poivey, “Characterization of SET Response of the
+LM124A, the LM111, and the LM6144, “pp. 121-126 (2003).
+
+[20] K. Chiba, I. Nashiyama, K. Sugimoto, N. Nemoto,
+
+H. Asai, Y. lide, H. Shindo, N. Ikeda, S. Kuboyama,
+
+S. Matsuda, “Correlation Between Proton and Heavy-Ion
+SEUs in Commercial Memory Devices, “pp. 127-132 (2003).
+
+[21] J. W. Howard Jr., M. A. Carts, K. A. LaBel, J. D.
+Forney, T. L. Irwin, “Single Event Effects Testing of the
+Linfinity SG1525A Pulse Width Modulator Controller,”
+pp. 133-140 (2003).
+
+[22] S. Nguyen’’Single Event Effects Test Results for Space
+Programs”, n/a (2003).
+
+[23] S. Nguyen, B. Steffan, E. Normandy, P. Storassli,
+
+M.- I. Soto, R. Koga, E. W. Cascio, J. M. Sisterson,
+
+J.B. Flanz, M. S. Wagner, “The Proton Irradiation Program at
+the Northeast Proton Therapy Center, “pp. 141-144 (2003).
+
+[24] N. K. Abrossimov, E. M. Ivanov, Y.T. Mironov,
+
+G. A. Riabov, M. G. Tverskoy, “Proton Beam of Variable
+Energy - The New Tool for Investigation of Radiation Effects
+at PNPI Synchrocyclotron, “pp. 145-148 (2003).
+
+370
+
+[25] E. W. Blackmore, P. E. Dodd, M. R. Shaneyfelt,
+“Improved Capabilities for Proton and Neutron Irradiations at
+TRIUMF, “pp. 149-155 (2003).
+
+[26] J. P. Lintz, L. F. Hoffmann, D. J. Bastyr, G. R. Brown,
+D. K. Nelson, “Single Event Effects Hardening and
+Characterization of Honeywell’s RHPPC Processor Integrated
+Circuit, “pp. 156-164 (2003).
+
+[27] J. Seon, S. J. Kim, S. H. Min, Y. M. Lee, J. W. Park,
+K. W. Min, T. J. Chung, H. J. Chun, “Proton Irradiation
+Testing of ATMEL 68360 Processor and GaAs MMICs,”
+pp. 165-168 (2003).
+
+[28] P. Layton, G. Williamson, E. Patnaude, L. Longden,
+C. Thibodeau, B. Kazak, C. Sloan, “Compendia of TID and
+SEE Test Results of Space Qualified Integrated Circuits,”
+pp. 169-174 (2003)
+
+ 
+
+2004 Workshop Record
+Editor: J. Black
+IEEE Catalog Number 04TH8774
+ISBN 0-7803-8697-3
+
+ 
+
+[1] R. H. Edwards, C. 8. Dyer, E. Normand, “Technical
+Standard for Atmospheric Radiation Single Event Effects
+(SEE) on Avionics Electronics, “pp. 1-5 (2004).
+
+[2] P. Layton, G. Williamson, C. Gilbert, L. Longden,
+E. Patnaude, C. Sloan, “Compendia of TID and SEE Test
+Results of Integrated Circuits, “pp. 6-9 (2004).
+
+[3] M. V. O’Bryan, C. M. Seidleck, M. A. Carts, K. A. LaBel,
+C. J. Marshall, R. A. Reed, A. B. Sanders, D. K. Hawkins, S. R.
+Cox, S. D. Kniffin, R. L. Ladbury, M. Walter, C. Palor, M.
+McCall, S. Meyer, D. Rapchun, J. W. Howard Jr., H. S. Kim, J.
+D. Forney, S. P. Buchner, T. R. Oldham, J. Sutton, T. L. Irwin,
+E. Rodriguez, D. McMorrow, P. W. Marshall, J. Lintz,.Rodgers,
+S. Mohammed, “Current Single Event Effects Results for
+Candidate Spacecraft Electronics for NASA, “pp. 10-18 (2204).
+
+[4] D. J. Cochran, S. P. Buchner, T. L. Irwin, K. A. LaBel,
+C. J. Marshall, R. A. Reed, A. B. Sanders, D. K. Hawkins,
+R. J. Flanigan, S. R. Cox, J. W. Howard Jr., H. S. Kim,
+
+J. D. Forney, S. D. Kniffin, R. L. Ladbury, C. D. Palor,
+
+M. V. O’Bryan, M. A. Carts, C. F. Poivey, P. W. Marshall,
+“Current Total Ionizing Dose Results and Displacement
+Damage Results for Candidate Spacecraft Electronics for
+NASA, “pp. 19-25 (2004).
+
+[5] D. Meshel, D. P. Love, C. Peterson, K. Mil, “Candidate
+Spacecraft Electronics Subjected to ELDRS per Mil-Std-
+883/Method 1019.6 Dose Rate Condition D, 010 mrad/sec,”
+pp. 26-31 (2004).
+
+[6] B. A. Posey, S. Renfrow, M. Davis, R. Steinbach,
+
+D. Morgan, G. Sexton, “Radiation Lot Acceptance Testing
+(RLAT) at High and Low Dose Rates with Neutron Pre-
+Dosing, “pp. 32-35 (2004).
+[7] R. M. Rivas, A. H. Johnston, T. F. Miyahira, B. G. Rax,
+M. D. Wiedeman, “Test Results of Total Ionizing Dose
+Conducted at the Jet Propulsion Laboratory,”
+
+pp. 36-41 (2004).
+
+[8] J. E. Seiler, D. G. Platteter, G. W. Dunham, R. L. Pease,
+M. C. Maher, M. R. Shaneyfelt, “Effect of Passivation on the
+Enhanced Low Dose Rate Sensitivity of National LM124
+Operational Amplifiers, “pp. 42-46 (2004).
+
+[9] R. Koga, V. Tran, J. George, K. Crawford, S. Crain, M.
+Zakrzewski, P. Yu, “SEE Sensitivities of Selected Advanced
+Flash and First-In, First-Out Memories, “pp. 47-53 (2004).
+
+[10] C. Poivey, G. Gee, K. A. LaBel, J. L. Barth, “In-Flight
+Observations of Long-Term Single-Event Effect (SEE)
+Performance on X-ray Timing Explorer (XTE) Solid-State
+Recorders (SSRs), “pp. 54-57 (2004).
+
+[11] T. E. Langley, P. Murray, “SEE and TID Test Results
+of 1Gb Flash Memories, “pp. 58-61 (2004).
+
+[12] S. M. Guertin, J. D. Patterson, D. N. Nguyen, “Dynamic
+SDRAM SEFI Detection and Recovery Test Results,”
+pp. 62-67 (2004).
+
+[13] W.Wester, C. Nelson, J. Marriner, “Proton Irradiation
+Effects on 2 Gb Flash Memory, “pp. 68-71 (2004).
+
+[14] J. George, R. Koga, G. Swift, S. Guertin, C. Carmichael,
+S. Rezgui, “Heavy Ion SEE Testing of Xilinx One-Time
+Programmable Configuration PROMs, “pp. 72-78 (2004).
+
+[15] D. M. Hiemstra, F. Chayab, L. Szajek, “Dynamic Single
+Event Upset Characterization of the Virtex-II and Spartan-3
+SRAM Field Programmable Gate Arrays Using Proton
+Irradiation, “pp. 79-84 (2004).
+
+[16] C. Hafer, R. Lake, A. Jordan, T. Farris, “SEE and TID
+Results for a Commercially Fabricated Radiation Hardened
+Field Programmable Gate Array, “pp. 85-87 (2004).
+
+[17] S. L. Clark, K. Avery, R. Parker, “TID and SEE
+Testing Results of Altera Cyclone Field Programmable Gate
+Array, “pp. 88-90 (2004).
+
+[18] F. J. Franco, Y. Zong, J. A. Agapito, J. Casas-Cubillos,
+M. A. Rodriguez-Ruiz, “Evolution of Lowest Supply
+Voltage and Hysteresis Phenomena in Irradiated Analog
+CMOS Switches, “pp. 91-95 (2004).
+
+[19] N. Nowlin, S. McEndree, D. Butcher, “A Radiation-
+Hardened High-Precision Resolver-to-Digital Converter
+(RDC), “pp. 96-103 (2004).
+
+[20] M. Hartwell, C. Hafer, P. Milliken, T. Farris, “Megarad
+Total Ionizing Dose and Single Event Effects Test Results of
+a RadHard-by-Design 0.25 micron ASIC, “pp. 104-109 (2004).
+
+[21] B. E. Pritchard, J. Underwood, W. D. Murlin, A. Coleman,
+J. Warner, K. D. Wolfram, C. C. Hafer, “Single-Event Effect
+Radiation Test Results of Radiation- Hardened IEEE 1394
+Firewire ASICs, “pp. 110-114 (2004).
+
+371
+
+[22] S. D. Kniffin, A. B. Sanders, R. A. Reed, K. A. LaBel, S.
+T. Liu, C. J. Tabbert, J. W. Swonger, J. F. McCabe, G. A.
+Gardner, J. Lintz, C. Ross, K. Golke, B. Burns, P. W. Marshall,
+H. S. Kim, J. D. Forney, M. A. Carts, “Angular Effects in
+Proton-Induced Single-Event Upsets in Silicon-on-Sapphire and
+Silicon-on-Insulator Devices, “pp. 115-119 (2004).
+
+[23] C. Underwood, M. Unwin, R. H. Sorensen, A. Frydland,
+P. Jameson, “Radiation Testing Campaign for a New
+Miniaturised Space GPS Receiver, “pp. 120-124 (2004).
+
+[24] O. Coumar, P. Poirot, R. Gaillard, F. Miller, N. Buard,
+L. Marchand, “Total Dose Effects and SEE Screening on
+MEMS COTS Accelerometers, “pp. 125-129 (2004).
+
+[25] T. Sumita, M. Imaizumi, S. Kawakita, S. Matsuda,
+S. Kuwajima, T. Ohshima, T. Kamiya, “Terrestrial Solar Cells
+in Space, “pp. 130-136 (2004).
+
+[26] D. Sporea, “Effects of Gamma-Ray Irradiation on
+Quantum-Well Semiconductor Lasers, “pp. 137-144 (2004).
+
+[27] B. von Przewoski, T. Rinckel, W. Manwaring, G. Broxton,
+M. Chipara, T. Ellis, E. R. Hall, A. Kinser, K. M. Murray,
+
+C. C. Foster, “Beam Properties of the New Radiation Effects
+Research Stations at Indiana University Cyclotron Facility, “pp.
+145-150 (2004).
+
+[28] E. W. Cascio, J. M. Sisterson, B. Gottschalk, S. Sarkar,
+“Measurements of the Energy Spectrum of Degraded Proton
+Beams at NPTC, “pp. 151-155 (2004).
+
+[29] M. A. McMahan, D. Leitner, T. Gimpel, J. Morel,B.
+Ninemire, R. Siero, C. Silver, R. Thatcher, “A 16 MeV/nucleon
+Cocktail for Heavy Ion Testing, “pp. 156-159 (2004).
+
+[30] A. V. Prokofiev, L.-O. Andersson, T. Bergmark, O.
+Bystrém, H. Calén, L. Einarsson, C. Ekstrém, J. Fransson,
+
+K. Gajewski, N. Haag, T. Hartman, E. Hellbeck, T. Johansen,
+O. Jonsson, B. Lundstrém, L. Pettersson, D. Reistad, P.-U.
+Renberg, D. Wessman, V. Ziema, J. Blomgren, S. Pomp, M.
+Osterlund, U. Tippawan, “A New Neutron Facility for Single-
+Event Effect Testing, “pp. 160-162 (2004).
+
+ 
+
+2005 Workshop Record
+Editor: M.A. Hopkins
+IEEE Catalog Number 05TH8835
+ISBN 0-7803-9367-8
+
+ 
+
+[1] T-E. Page and J.M. Benedetto, “Extreme Latchup
+Susceptibility in Modern Commercial-off-the-Shelf (COTS)
+Monolithic 1M and 4M CMOS Static Random-Access Memory
+(SRAM) Devices, “pp. 1-7 (2005).
+
+[2] J. George, R. Koga, S. Crain, P. Yu, S. Nguyen, E.
+Normandy, D. Kachuche and B.K. Steffan, “Single Event
+Transients in Operational Amplifiers, “pp. 8-12 (2005).
+
+[3] J.L. Wert, E. Normand, D.L. Oberg, D. Underwood, M.
+Vallejo, C. Kouba, T.E. Page and W.M. Perry, “Single Event
+Effects Test and Analysis Results from the Boeing Radiation
+Effects Laboratory (BREL), “pp. 13-19 (2005).
+[4] J.-L. Wert, E. Normand and C. Hafer, “The Effects of Device
+Metal Interconnect Overlayers on SEE Testing,”
+pp. 20-25 (2005).
+
+[5] M.V. O'Bryan, K.A. LaBel, S.D. Kniffin, C. Poivey,
+J.W. Howard Jr., R.L. Ladbury, S.P. Buchner, T.R. Oldham,
+P.W. Marshall, A.B. Sanders, H.S. Kim, D.K. Hawkins,
+M.A. Carts, J.D. Forney, T. Irwin, CM. Seidleck, S.R. Cox,
+C. Palor, D.Petrick, W. Powell and B.L. Willits, “Recent
+Single Event Effects Results for Candidate Spacecraft
+Electronics for NASA, “pp. 26-35 (2005).
+
+[6] F. Irom and T.F. Miyahira, “Test Results of Single-Event
+Effects Conducted by the Jet Propulsion Laboratory,”
+pp. 36-41 (2005).
+
+[7] D.M. Hiemstra, B. Miladinovic and F. Chayab, “Single
+Event Upset Characterization of the SMJ320C6701 Digital
+Signal Processor Using Proton Irradiation,”
+
+pp. 42-45 (2005).
+
+[8] D.M. Hiemstra and F. Chayab, “Part II: Dynamic Single
+Event Upset Characterization of the Virtex-II Field
+Programmable Gate Array Using Proton Irradiation,”
+
+pp. 46-50 (2005).
+
+[9] F. Chayab, D. Hiemstra and R. Ronge, “Dynamic Single
+Event Upset Characterization of the Virtex-II Pro's Embedded
+IBM PowerPC405 Using Proton Irradiation,”
+
+pp. 51-56 (2005).
+
+[10] R. Koga, K. Crawford, P. Yu, J. George, S. Crain, M.
+Zakrzewski and J.J. Wang, “Heavy ion and proton SEE
+characterization of COTS 0.22 jm Field Programmable Gate
+Arrays, “pp. 57-64 (2005).
+
+[11] H. Rufenacht, D.M. Hiemstra, R. Ronge, T. Klincsek,
+K.A. Le and J. Gazdewich, “Single Event Upset
+Characterization of the ESP603 Single Board Space Computer
+with the PowerPC603r Processor Using Proton Irradiation,”
+pp. 65-69 (2005).
+
+[12] R. Joshi, R. Daniels, M. Shoga and M. Gauthier,
+“Radiation Hardness Evaluation of a Class V 32-Bit Floating-
+Point Digital Signal Processor, “pp. 70-78 (2005).
+
+[13] J. Ampe, V. Thai, S. Buchner, S. Kniffin and W.N.
+Johnson, “COTS ADC & DAC Selection and Qualification
+for the GLAST Mission, “pp. 79-84 (2005).
+
+[14] J-W. Howard Jr., K.A. LaBel, M.A. Carts, C. Seidleck,
+J.W. Gambles and S.L. Ruggles, “Validation and Testing of
+Design Hardening for Single Event Effects Using the 8051
+Microcontroller, “pp. 85-92 (2005).
+
+[15] C. Hafer, V. Schnathorst, J. Pfeil, T. Meade, T. Farris and
+A. Jordan, “SEE and TID Results for a Commercially
+Fabricated Radiation-Hardened Clock Generator Circuit,”
+
+pp. 93-97 (2005).
+
+[16] M. Hartwell, C. Hafer, P. Milliken and T. Farris, “Single
+
+Event Effects Testing of a PLL and LVDS in a Radhard-By-
+Design 0.25 micron ASIC., “pp. 98-101 (2005).
+
+372
+
+[17] J.-M. Lauenstein and J.L. Barth, “Radiation Belt
+Modeling for Spacecraft Design: Model Comparisons for
+Common Orbits, “pp. 102-109 (2005).
+
+[18] S.L. Koontz, P.A. Boeder, C. Pankop and B. Reddell,
+“The Ionizing Radiation Environment on the International
+Space Station: Performance vs. Expectations for Avionics
+and Materials, “pp. 110-116 (2005).
+
+[19] B.M. Haugerud, S. Venkataraman, A.K. Sutton,
+
+A.P. Gnana Prakash, J.D. Cressler, G. Niu, P.W. Marshall
+and A.J. Joseph, “The Impact of Substrate Bias on Proton
+Damage in 130 nm CMOS Technology,”
+
+pp. 117-121 (2005).
+
+[20] V. Re, M. Manghisoni, L. Ratti, V. Speziali and
+
+G. Traversi, “Total Ionizing Dose Effects on the Analog
+Performance of a 0.13 4m CMOS Technology,”
+
+pp. 122-126 (2005).
+
+[21] T.F. Miyahira, B.G. Rax and A.H. Johnston, “Total Dose
+Degradation Low-Dropout Voltage Regulator,”
+pp. 127-131 (2005).
+
+[22] Y. Zong, F.J. Franco, A.H. Cachero, J.A. Agapito,
+A.C. Fernandez, J.G. Marques, M.A. Rodriguez-Ruiz and
+
+J. Casas-Cubillos, “Supervisory Circuits in a Mixed Neutron
+and Gamma Radiation Environment,”\
+
+pp. 132-137 (2005).
+
+[23] F.J. Franco, Y. Zong, J.A. Agapito and A.H. Cachero,
+“Radiation Effects on XFET Voltage References,”
+pp. 138-143 (2005).
+
+[24] R.M. Chavez, B.G. Rax, L.Z. Scheick and A.H. Johnston,
+“Total Ionizing Dose Effects in Bipolar & BiCMOS Devices,”
+pp. 144-148 (2005).
+
+[25] D.J. Cochran, S.D. Kniffin, R.L. Ladbury, M.V. O'Bryan,
+C.F. Poivey, H. Kim, T.L. Irwin, A.M. Phan, M.A. Carts,
+
+J.D. Forney, K.A. LaBel, R.A. Reed, A.B. Sanders,
+
+D.K. Hawkins, S.R. Cox, J.W. Howard Jr., R.C. DiBari,
+
+S. Buchner and C. Palor, “Recent Total Ionizing Dose Results
+and Displacement Damage Results for Candidate Spacecraft
+Electronics for NASA, “pp. 149-155 (2005).
+
+[26] P. Layton, E. Patnaude, G. Williamson, L. Longden and
+C. Sloan, “Compendia of Radiation Test Results of Integrated
+Circuits, “pp. 156-162 (2005).
+
+[27] P.P.K. Lee, D.A. Thompson and D.L. Modney, “Total
+Ionizing Dose Gamma and Proton Radiation Testing on a
+COTS Interline CCD with Microlens,”
+
+pp. 163-169 (2005).
+
+[28] R. Lowell, C. Conger, S. Rainwater, M. Lazo, Y. Bai
+“Rockwell HIRG Silicon PIN Diode Array Gamma and Proton
+Radiation Characterization at Cryo Temperatures,”
+
+pp. 170-174 (2005).
+
+[29] E.W. Cascio, J.M. Sisterson and R. Slopsema,
+“Secondary Neutron Fluence in Radiation Test Beams at The
+Northeast Proton Therapy Center, “pp. 175-178 (2005).
+ 
+
+2006 Workshop Record
+Editor: D.M. Hiemstra
+IEEE Catalog Number 06TH8913
+ISBN 1-4244-0638-2
+
+ 
+
+[1] D.M. Hiemstra, “Guide to the IEEE Radiation Effects
+Data Workshop, “pp.1-5 (2006).
+
+[2] D.J. Cochran, S.D. Kniffin, C. Poivey, M.V. O’Bryan, M.
+
+Berg, H.S. Kim, A.M. Dung-Phan, M.A. Carts, J.D. Forney, T.
+
+Irwin, C.M. Seidleck, M. Friendlich, S.P. Buchner, T.R.
+Oldham, K.A. LaBel, R.L. Ladbury, A.B. Sanders, D.K.
+Hawkins, $.R. Cox, “Compendium of Total Ionizing Dose
+Results and Displacement Damage Results for Candidate
+Spacecraft Electronics for NASA, “pp.6-12 (2006).
+
+[3] P. Layton, C. Gilbert, E. Patnaude, G. Williamson, L.
+Longden, C. Sloan, “Compendia of Radiation Test Results of
+Integrated Circuits, “pp. 13-18 (2006).
+
+[4] M.V. O'Bryan, C. Poivey, S.D. Kniffin, J.W. Howard
+Jr., M. Berg, H.S. Kim, A.M. Dung-Phan, M.A. Carts, J.D.
+Forney, T. Irwin, C.M. Seidleck, M. Friendlich, RL.
+Ladbury, K.A. LaBel, A.B. Sanders, C.J. Marshall, D.K.
+Hawkins, S.R. Cox, R.J. Flanigan, D. Petrick, W. Powell,
+and J. Karsh, S.P. Buchner, T.R. Oldham, P.W. Marshall,
+and M.P. Baze, “Compendium of Single Event Effects
+Results for Candidate Spacecraft Electronics for NASA,”
+pp.19-25 (2006).
+
+[5] C. Kouba, P. O’Neill, C. Bailey, K. Nguyen, Jacobs,
+“Proton Radiation Test Results on COTS-Based Electronic
+Devices for NASA-Johnson Space Center Spaceflight
+Projects, “pp.26-36 (2006).
+
+[6] F. Irom, T.F. Miyahira, “Results of Single-Event Effects
+Measurements Conducted at the Jet Propulsion Laboratory,”
+pp.37-42 (2006).
+
+[7] A.J. Esteban, A.L. Bogorad, J.J. Likar, S. Moyer, R.
+Herschitz, “Single Event Effects of New High Speed Analog
+to Digital Converters, Digital to Analog Converters, Hybrid
+MUXDAC Devices, and Voltage Converters,”
+
+pp.43-49 (2006).
+
+[8] R.M. Chevez, B.G. Rax, A.H. Johnston, “Total Ionizing
+Dose Effects and Bias Dependence in Selected Bipolar
+Devices, “pp.50-56 (2006).
+
+[9] L.E. Selva, H.N. Becker, RM. Chavez, L.Z. Scheick,
+“Effects of Radiation on Commercial Power Devices,”
+pp.57-61 (2006).
+
+[10] A. Appaswamy, B. Jun, R.M. Diestelhorst, G. Espinel,
+A.P.G. Prakash, J.D. Cressler, P.W. Marshall, C.J. Marshall,
+Q. Liang, G. Freeman, T. Isaacs-Smith, J.R. Williams, “The
+Effects of Proton Irradiation on 90nm Strained Silicon CMOS
+on SOI Devices, “pp.62-65 (2006).
+
+[11] S.M. Currie, N.E. Harff, R.G. Pittelkow, B.K. Gilbert,
+E.S. Daniel, P.W. Marshall, J. Bergman, B. Brar, J.B. Hacker,
+A. Gutierrez, C. Monier, “Proton Tolerance of InAs Based
+HEMT and DHBT Devices, “pp.66-71 (2006).
+
+373
+
+[12] T.F. Miyahira, F. Irom, A.H. Johnston, “Measurements
+of Radiation Effects on Optoelectronics Conducted by the Jet
+Propulsion Laboratory, “pp.72-76 (2006).
+
+[13] J.J. Jimenez, M.T. Alvarez, R. Tamayo, J.-M. Oter, J.A.
+Dominguez, I. Arruego, J. Sanchez-Paramo, H. Guerrero,
+“Proton Radiation Effects in High Power LEDs and IREDs
+for Optical Wireless Links for Intra-Satellite Communications
+(OWLS), “pp.77-84 (2006).
+
+[14] R.L. Pease, G. Dunham, J. Seiler, “Total Dose and Dose
+Rate Response of Low Dropout Voltage Regulators,”
+pp.85-93 (2006).
+
+[15] M. Hartwell, K. Ryan, S. Netherton, P. Milliken, D.
+Kerwin, “Total Ionizing Dose Testing of a RadHard-by-
+Design FET Driver in a 0.35,m Triple Well Process, “pp.94-
+100 (2006).
+
+[16] J.J. Wang, G. Kuganesan, N. Charest, and B. Cronquist,
+“Biased-Irradiation Characteristics of the Floating Gate
+Switch in FPGA, “pp.101-104 (2006).
+
+[17] D.M. Hiemstra, F. Chayab, Z. Mohammed, “Single
+Event Upset Characterization of the Virtex-4 Field
+Programmable Gate Array Using Proton Irradiation, “pp. 105-
+108 (2006).
+
+[18] J. George, R. Koga, G. Swift, G. Allen, C. Carmichael,
+C.W. Tseng, “Single Event Upsets in Xilinx Virtex-4 FPGA
+Devices, “pp.109-114 (2006).
+
+[19] G.R. Allen, G.M. Swift, “Single Event Effects Test
+Results for Advanced Field Programmable Gate Arrays,”
+pp.115-120 (2006).
+
+[20] D.N. Nguyen, S.M. Guertin, J.D. Patterson, “Radiation
+Tests on 2Gb NAND Flash Memories, “pp.121-125 (2006).
+
+[21] R.L. Ladbury, K.A. LaBel, M. Berg, H. Kim, M.
+Friendlich, R.A. Reed, R. Koga, J. George, S. Crain, P. Yu,
+“Radiation Performance of a 1 Gbit DDR SDRAMs
+Fabricated in the 90nm CMOS Technology Node,”
+pp.126-130 (2006).
+
+[22] C. Hafer, J. Mabra, D. Slocum, A. Jordan, T. Farris,
+“SEE and TID Results for a RadHard-by-Design 16Mbit
+SRAM with Embedded EDAC, “pp.131-135 (2006).
+
+[23] R.N. Nowlin, C. Salomonson Begay, R.R. Parker, M.P.
+Garrett, T.D. Penner, “Radiation Hardness of Hardened-By-
+Design SRAMs In Commercial Foundry Technologies,”
+pp.136-143 (2006).
+
+[24] R. Koga, J. George, P. Yu, S. Crain, M. Zakrzewski, K.
+Crawford, “Single Event Effects Sensitivity of the Q Series
+Advanced CMOS Technology, “pp.144-149 (2006).
+
+[25] C. Poivey, H. Kim, J. Forney, A. Phan, M.D. Berg, C.
+Seidleck, T. Irwin, K.A. LaBel, M.A. Vilchis, R.K. Saigusa,
+M.R. Mirabedini, R. Finlinson, A. Sukharov, V. Hornback, J.
+Song, J. Tung, “Radiation Characteristics of a 0.11 1m
+Modified Commercial CMOS Process, “pp.150-153 (2006).
+[26] R.M. Chevez, L.Z. Scheick, T.F. Miyahira, A.H.
+Johnston, “Single Event Transients (SETs) in the RH108
+Operational Amplifier in Analog Circuits,”
+
+pp. 154-159 (2006).
+
+[27] M.W. Savage, J.E. Seiler, G.W. Dunham, D. Platterer,
+“Analog Transients In The National VIP-10 and VIP-50
+Process, “pp. 160-164 (2006).
+
+[28] S. Liu, M. Boden, H. Cao, E. Sanchez, J. Titus,
+“Evaluation of Worst-Case Test Conditions for SEE on
+Power DMOSFETs, “‘pp.165-171 (2006).
+
+[29] R. Edwards, J. Woodhouse, “Determination of High
+Energy Neutron Voltage Stress Margins for High Voltage
+IGBT and Diode Pairs from Two Manufacturers using
+Energetic Particle Induced Charge Spectroscopy, EPICS,”
+pp.172-176 (2006).
+
+[30] E.W. Cascio, “The Use of the Compensated Contoured
+Double Scatterer in the Radiation Test Beamline at the
+Francis H. Burr Proton Therapy Center, “pp.177-182 (2006).
+
+[31] MB. Johnson, M.A. McMahan, T.L. Gimpel, W.S.
+Tiffany, “Berkeley Accelerator Space Effects (BASE) Light
+Ion Facility Upgrade, “pp.183-187 (2006).
+
+[32] B. von Przewoski, D.V. Baxter, A. Bogdanov, V.P.
+Derenchuk, T. Ellis, C.M. Lavelle, M.B. Leuschner, N.
+Remmes, T. Rinckel, P.E. Sokol, S. Clark, T. Turflinger,
+“The Neutron Radiation Effects Program (NREP) at Indiana
+University Cyclotron Facility, “pp.188-190 (2006).
+
+[33] X. Zhu, R. Baumann, B. Takala, D. Dohmann, L.
+Martinez, “Correlating Geometry and Shielding Effects on
+Accelerated Soft Errors in 90nm SRAM Using Spallation
+Neutron Beams, “pp.191-194 (2006).
+
+ 
+
+2007 Workshop Record
+Editor: Christian Poivey
+IEEE Catalog Number 07TH8965
+ISBN 1-4244-1464-4
+
+ 
+
+[1] G.P. Ginet, D. Madden, B.K. Dichter, D-H. Brautigam,
+"Energetic Proton Maps for the South Atlantic Anomaly,”
+pp. 1-8 (2007).
+
+[2] M. Sirianni, M. Mutchler, R. Gilliland, J. Biretta, R.
+Lucas, "Radiation Damage in Hubble Space Telescope
+Detectors, “pp. 9-15 (2007).
+
+[3] B. Peters, A. Wardrop, D. Lahti, H. Herzog, T. O’Connor,
+R. DeCoursey, "Flight SEU Performance of the Single Board
+Computer (SBC) Utilizing Hardware Voted Commercial
+PowerPC Processors On-board the CALIPSO Satellite, “pp.
+16-25 (2007).
+
+[4] J. Likar, A. Bogorad, B. Vayner, J. Galofaro, "Influence
+of Solar Cell Shape, Interconnect Shape, and Coverglass
+Coatings on Solar Array Arcing Parameters,"
+
+pp. 26-29 (2007).
+
+374
+
+[5] E.W. Cascio, S. Sarkar, "A Continuously Variable Water
+Beam Degrader For The Radiation Test Beamline at The
+Francis H. Burr Proton Therapy Center, “pp. 30-33 (2007).
+
+[6] M.B. Johnson, M.A. McMahan, M. Galloway, D. Leitner,
+J.R. Morel, T.L. Gimpel, B-F. Ninemire, R. Siero, R.K.
+Thatcher, “Super” Cocktails for Heavy Ion Testing,"
+
+pp. 34-36 (2007).
+
+[7] A. Virtanen, R. Harboe-Serensen, A. Javanainen, H.
+Kettunen, H. Koivisto, I. Rithimaki, "Upgrades for the
+RADEFF Facility, “pp. 38-41 (2007).
+
+[8] A. Holmes-Siedle, F. Ravotti, M. Glaser, "The Dosimetric
+Performance of RADFETs in Radiation Test Beams,"
+pp. 42-57 (2007).
+
+[9] L. Scheick, "Catastrophic SEE Mechanisms and Behavior
+in SiC Diodes, “pp. 58-62 (2007).
+
+[10] R.D. Harris, "SiC vs. Si for High Radiation
+Environments, “pp. 63-67 (2007).
+
+[11] D. Hansen, M. Robinson, F. Lu, "Total-Dose Effects in
+InP Devices, “pp. 68-72 (2007).
+
+[12] J.J. Jiménez, J. Sanchez-Paramo, M.T. Alvarez, J.A.
+Dominguez, J.M. Oter, I. Arruego, R. Tamayo, H. Guerrero,
+"Proton radiation effects on medium/large area Si PIN
+photodiodes for Optical Wireless Links for Intra-Satellite
+Communications (OWLS), “pp. 73-79 (2007).
+
+[13] JW. Shelton, W.J. Thomes, Jr., D.J. Stein, "Pulsed and
+Steady-State Radiation Effects on Single Junction Si and
+Multiple Junction GaAs Photocells, “pp. 80-84 (2007).
+
+[14] O. Gilard, G. Quadri, P. Spezzigu, J.L. Roux, "Bipolar
+Phototransistors Reliability Assessment for Space
+Applications, “pp. 85-91 (2007).
+
+[15] C. Kuznia, J. Ahadian, R. Pommer, R. Hagan, "SEU
+Testing of a Multi-Gbps Fiber Optic Transceiver Operating
+Over Parallel Ribbon Fiber, “pp. 92-95 (2007).
+
+[16] D. Sable, G. Skutt, L.G. Leslie, S.L. Rainwater, "Cost
+Effective Hybrid DC-DC Converter Radiation Performance,"
+pp. 96-100 (2007).
+
+[17] N. van Vonno, J. Gill, "Low Dose Rate Testing of the
+Intersil IS1009RH Hardened Voltage Reference and
+ISL72991RH Negative Low Dropout Regulator,”
+
+pp. 101-106 (2007).
+
+[18] D.P. Love, J. Faul, D. Behrens, C. Peterson, J.
+Parkinson, "ELDRS Study of the LT-1078 for Multiple
+Applications, “pp. 107-112 (2007).
+
+[19] K. Kruckmeyer, R.L. Rennie, D-H. Ostenberg, V.
+Ramachandran, T. Hossain, "Single Event Upset
+Characterization of GHz Analog to Digital Converters with
+Dynamic Inputs Using a Beat Frequency Test Method,"
+pp. 113-117 (2007).
+[20] J. George, R. Koga, "SEE Testing of the DDC BU-
+61583 Advanced Communication Engine,”
+pp. 118-122 (2007).
+
+[21] C. Hafer, M. Lahey, H. Gardner, D. Harris, A. Jordan,
+T. Farris, M. Johnson, "Radiation Hardness Characterization
+of a 130nm Technology, “pp. 123-130 (2007).
+
+[22] C. Xiang, T. Liu, C.A. Yang, P. Gui, W. Chen, J.
+Zhang, P. Zhu, J. Ye, R. Stroynowski, "Total Ionizing Dose
+and Single Event Effect Studies of a 0.25m CMOS
+Serializer ASIC, “pp. 131-134 (2007).
+
+[23] P. Layton, L. Longden, E. Patnaude, "Compendia of
+Radiation Test Results, “pp. 135-140 (2007).
+
+[24] F. Irom, T.F. Miyahira, D.N. Nguyen, I. Jun, E.
+Normand, "Results of Recent 14 MeV Neutron Single Event
+Effects Measurements Conducted by the Jet Propulsion
+Laboratory, “pp. 141-145 (2007).
+
+[25] D.J. Cochran, S.P. Buchner, C.F. Poivey, K.A. LaBel,
+R.L. Ladbury, M. O’Bryan, J.W. Howard, Jr., A. Sanders, T.
+Oldham, "Compendium of Current Total Ionizing Dose
+Results and Displacement Damage Results for Candidate
+Spacecraft Electronics for NASA, “pp. 146-152 (2007).
+
+[26] M.V. O’Bryan, C.F. Poivey, K.A. LaBel, S.P. Buchner,
+R.L. Ladbury, T.R. Oldham, J.W. Howard Jr., A.B. Sanders,
+MLD. Berg, J.L. Titus, "Compendium of Current Single Event
+Effects Results for Candidate Spacecraft Electronics for
+NASA, “pp. 153-161 (2007).
+
+[27] J.P. Lintz, L-F. Hoffmann, M.J. Smith, R.T. Van Cleave,
+R.R. Cizmarik, "Single Event Effects Hardening and
+Characterization of Honeywell’s Pass 3 RHPPC Processor
+Integrated Circuit, “pp. 162-166 (2007).
+
+[28] G.R. Allen, G.M. Swift, G. Miller, "Upset
+Characterization and Test Methodology of the PowerPC405
+Hard-Core Processor Embedded in Xilinx Field
+Programmable Gate Arrays, “pp. 167-171 (2007).
+
+[29] A. Vera, D. Llamocca, M. Pattichis, W. Kemp, W.
+Shedd, D. Alexander, J.W. Lyke, "Dose Rate Upset
+Investigations on the Xilinx Virtex IV Field Programmable
+Gate Arrays, “pp. 172-176 (2007).
+
+[30] H. Quinn, K. Morgan, P. Graham, J. Krone, M. Caffrey,
+"Static Proton and Heavy Ion Testing of the Xilinx Virtex-5
+Device, “pp. 177-184 (2007).
+
+[31] J. Tausch, D. Sleeter, D. Radaelli, H. Puchner, "Neutron
+Induced Micro SEL Events in COTS SRAM Devices,”
+pp. 185-188 (2007).
+
+[32] J. Tausch, S. Tyson, T. Fairbanks, "Multigenerational
+Radiation Response Trends in SONOS-based NROM Flash
+Memories with Neutron Latch-Up Mitigation,"
+
+pp. 189-193 (2007).
+
+[33] D.N. Nguyen, F. Irom, "Total Ionizing Dose (TID) Tests
+
+on Non-Volatile Memories: Flash and MRAM,"
+pp. 194-198 (2007).
+
+375
+
+[34] R. Koga, P. Yu, S. Crain, J. George, "Proton and Heavy
+Ton Induced Semi-Permanent Upsets in Double Data Rate
+SDRAMs, “pp. 199-203 (2007).
+
+[35] R.K. Lawrence, "Radiation Characterization of 512Mb
+SDRAMs, “pp. 204-207 (2007).
+
+[36] D.M. Hiemstra, F. Pranajaya, "Dynamic Single Event
+Upset Characterization of the MT48LC4M32B2TG-6
+SDRAM Using Proton Irradiation,"
+
+pp. 208-210 (2007).
+
+[37] D.M. Hiemstra, "Guide to the 2006 IEEE Radiation
+Effects Data Workshop Record, “pp. 211-214 (2007).
+
+[38] D. Hansen, S. Pong, P. Rosentha, J. Gorelick, "Total
+Ionizing Dose Testing of SiGe 7HP discrete Heterojunction
+Bipolar Transistors for ELDRS Effects,"
+
+pp. 215-220 (2007).
+
+[39] T. Oldham, M. Friendlich, J.W. Howard, Jr., M. Berg,
+H. Kim, T. Irwin, K. LaBel, "TID and SEE Response of an
+Advanced Samsung 4Gb NAND Flash Memory,”
+
+pp. 221-225 (2007).
+
+ 
+
+2008 Workshop Record
+Editor: James A. Felix
+IEEE Catalog Number CFP08422
+ISBN 978-1-4244-2545-7
+
+ 
+
+[1] D. M. Hiemstra, “Guide to the 2007 IEEE Radiation
+Effects Data Workshop Record, “pp. 1-4 (2008).
+
+[2] D. J. Cochran, S. P. Buchner, A. B. Sanders, K. A. LaBel,
+M. A. Carts, C. F. Poivey, T. R. Oldham, R. L. Ladbury, M. V.
+O'Bryan, S. R. Mackey, “Compendium of Recent Total Ionizing
+Dose Results for Candidate Spacecraft Electronics for NASA,
+“pp. 5-10 (2008).
+
+3] M. V. O'Bryan, K. A. LaBel, S. P. Buchner, R. L. Ladbury,
+C. F. Poivey, T. R. Oldham, M. J. Campola, M. A. Carts, M. D.
+Berg, A. B. Sanders, S. R. Mackey, “Compendium of Recent
+Single Event Effects Results for Candidate Spacecraft
+Electronics for NASA, “pp. 11-20 (2008).
+
+[4] G. R. Allen, “Compendium of Test Results of Single
+Event Effects Conducted by the Jet Propulsion Laboratory,”
+pp. 21-30 (2008).
+
+[5] T. R. Oldham, M. Suhail, M. R. Friendlich, M. A. Carts,
+R. L. Ladbury, H. S. Kim, M. D. Berg, C. Poivey, S. P.
+Buchner, A. B. Sanders, C. M. Seidleck, K. A. LaBel, “TID
+and SEE Response of Advanced 4G NAND Flash
+Memories, “pp. 31-37 (2008).
+
+[6] H. Schmidt, D. Walter, F. Gliem, B. Nickson, R.
+Harboe-Sgrensen, A. Virtanen, “TID and SEE Tests of an
+Advanced 8 Gbit NAND-Flash Memory, “pp. 38-41 (2008).
+
+[7] R. Ladbury, M. D. Berg, K. A. LaBel, M. Friendlich, A.
+Phan, H. Kim, “Radiation Performance of 1 Gbit DDR2
+SDRAMs Fabricated with 80-90 nm CMOS,”
+
+pp. 42-46 (2008).
+[8] L, Scheick, S$, Guertin, D. Nguyen, “Investigation of the
+Mechanism of Stuck Bits in High Capacity SDRAMs,”
+pp. 47-52 (2008).
+
+[9] T. F. Miyahira, F. Irom, “Results of Single-Event Latchup
+Measurements Conducted by the Jet Propulsion Laboratory,
+“pp. 53-57 (2008).
+
+[10] F. Irom, T. F. Miyahira, “Results of Single-Event Transient
+Measurements Conducted by the Jet Propulsion Laboratory,
+“pp. 58-63 (2008).
+
+[11] S. S. Seehra, A. J. Ditzler, 8. K. Moyer, “Total Dose and
+Single Event Effect Characterization of ECL Devices,”
+pp. 64-68 (2008).
+
+[12] R. Koga, P. Yu. J. George, “Single Event Effects and Total
+Dose Test Results for TI TLK2711 Transceiver,”
+pp. 69-75 (2008).
+
+[13] R. K. Lawrence, “Single Event Gate Rupture Testing on
+22A Gate Oxide Structures from a 90nm Commercial CMOS
+Process, “pp. 76-81 (2008).
+
+[14] D. A. Adams, H. A. Barnes, M. D. Fitzpatrick, N. P.
+Goldstein, W. L. Hand, W. L. Jackson, R. Koga, M. B.
+Pennock, H. J. Remenapp, J. T. Smith, “A Radiation Hardened
+High Voltage 16:1 Analog Multiplexer for Space Applications
+(NGCP3580), “pp. 82-84 (2008).
+
+[15] C. Hafer, J. Pfeil, D. Bass, A. Jordan, T. Farris, “Single
+Event Transient Event Frequency Prediction Model for a Next
+Generation PLL, “pp. 85-89 (2008).
+
+[16] A. Vera, D. Llamocca, J. Fabula, W. Kemp, R. Marquez,
+W. Shedd, D. Alexander, “Xilinx Virtex V Field Programmable
+Gate Array Dose Rate Upset Investigations, “pp. 90-93 (2008).
+
+[17] A. Manuzzato, S. Gerardin, A. Paccagnella, L. Sterpone,
+M. Violante, “On the Static Cross Section of SRAM-Based
+FPGAs, “pp. 94-97 (2008).
+
+[18] G. M. Swift, G. R. Allen, C. W. Tseng, C. Carmichael,
+G. Miller, J. S. George, “Static Upset Characteristics of the
+90nm Virtex-4QV FPGAs, “pp. 98-105 (2008).
+
+[19 ]. P. Peronnard, R. Velazco, G. Foucard, V. Pouget, G.
+Berger, F. Charlier, F. Boldrin, “Remote SEE Testing
+Capabilities with Heavy Ions and Laser Beams at
+CYCLONEFHIF and ATLAS Facilities, “pp. 106-109 (2008).
+
+[20] K. Kruckmeyer, L. McGee, B. Brown, D. Hughart,
+“Low Dose Rate Test Results of National Semiconductor’s
+ELDRS-free Bipolar Amplifier LM124 and Comparators
+LM139 and LM193, “pp. 110-117 (2008).
+
+[21] J. S. George, R. Koga, M. A. McMahan, “Neutron Soft
+Errors in Xilinx FPGAs at Lawrence Berkeley National
+Laboratory, “pp. 118-123 (2008).
+
+[22] A. L. Bogorad, J. J. Likar, S. K. Moyer, A. J. Ditzler, G.
+P. Doorley, R. Herschitz, “Total Ionizing Dose and Dose Rate
+Effects in Candidate Spacecraft Electronic Devices,”
+
+pp. 124-130 (2008).
+
+376
+
+[23] G. Quadri, O. Gilard, J. L. Roux, P. Spezzigu, L. Bechou,
+M. Vanzi, Y. Ousten, D. Gibard, “Evaluation of Static and
+Dynamic Performance of Silicon-Based Bipolar
+Phototransistors Under Radiation, “pp. 131-134 (2008).
+
+[24] M. A. McMahan, E. Blackmore, E. W. Cascio, C.
+Castaneda, B. von Przewoski, H. Eisen, “Standard Practice for
+Dosimetry of Proton Beams for use in Radiation Effects Testing
+of Electronics, “pp. 135-141 (2008).
+
+[25] W. R. Boley, “Compendia of TID and Neutron Radiation
+Test Results of Selected COTS Parts, “pp. 142-147 (2008).
+
+[26] A. B. Sanders, H. S. Kim, A. Phan, “TID and SEE
+Response of Optek Hall Effect Sensors, “pp. 148-151 (2008).
+
+ 
+
+2009 Workshop Record
+Editor: Sarah Armstrong
+IEEE Catalog Number CFP09422
+ISBN 978-1-4244-5092-3
+
+ 
+
+[1] D. M. Hiemstra, MDA Corporation, “Guide to the 2008
+IEEE Radiation Effects Data Workshop Record,’’pp. 1-5 (2009).
+
+[2] J. M. Bird, R. Davies, K. Scott, J. Evans, M. Cabanas-
+
+Holmen, T. R. Morris, Ball Aerospace & Technologies Corp.,
+“Compendium of Total Ionizing Dose Radiation Test Results
+from Ball Aerospace & Technologies Corp., “pp. 6-11 (2009).
+
+[3] J. M. Bird, R. Davies, K. Scott, J. Evans, M. Cabanas-
+Holmen, T. R. Morris, Ball Aerospace & Technologies Corp.,
+“Compendium of Single Event Effects Radiation Test Results
+from Ball Aerospace & Technologies Corp., “pp. 12-14 (2009).
+
+[4] M. V. O'Bryan, H. S. Kim, M. J. Campola, D. Chen, M. D.
+Berg, MEI Technologies Inc., c/o NASA/GSFC; K. A. LaBel, J.
+A. Pellish, R. L. Ladbury, J.-M. Lauenstein, A. B. Sanders, C. J.
+Marshall, M. A. Xapsos, NASA/GSFC; S. P. Buchner,
+Formerly with Perot Systems Government Services, Inc.; T. R.
+Oldham, Perot Systems Government Services, Inc.; P. W.
+Marshall, Consultant; K. Kruckmeyer, National Semiconductor;
+M. Leftwich, M. Leftwich, Space Photonics Inc.; J. M.
+Benedetto, Radiation Assured Devices, “Single Event Effects
+Compendium of Candidate Spacecraft Electronics for NASA,
+“pp. 15-24 (2009).
+
+[5] D. J. Cochran, D. Chen, H. S. Kim, M. J. Campola, M. V.
+O'Bryan, MEI Technologies Inc. c/o NASA/GSFC; S. P.
+Buchner, Formerly with Perot Systems Inc.; K. A. LaBel, R.
+
+L. Ladbury, C. Marshall, A. B. Sanders, M. A. Xapsos,
+NASA/GSFC; T. R. Oldham, Perot Systems Inc. c/o
+NASA/GSFEC, “Total Ionizing Dose and Displacement Damage
+Compendium of Candidate Spacecraft Electronics for NASA,
+“pp. 25-31 (2009).
+
+[6] A. J. Kenna, B. G. Rax, D. O. Thorbourn, R. D. Harris, S. S.
+McClure, Jet Propulsion Laboratory, California Institute of
+Technology, “Compendium of Recent Total Ionizing Dose Test
+Results Conducted by the Jet Propulsion Laboratory from 2003
+through 2009, “pp. 32-38 (2009).
+[7] A. D. Tipton, C. H. Pham, R. H. Maurer, D. R. Roth, The
+Johns Hopkins University Applied Physics Laboratory,
+“Radiation Test Results of Candidate Spacecraft Parts for the
+Applied Physics Laboratory, “pp. 39-41 (2009).
+
+[8] G. Chaumont, B. Cornanguer, P. Briand, C. Prugne,
+STMicroelectronics; F. Malou, Centre National d'Etudes
+Spatiales, “TID and SEE Characterizations of New Radiation-
+Hardened Bipolar Operational Amplifiers,”
+
+pp. 42-46 (2009).
+
+[9] K. Kruckmeyer, L. McGee, B. Brown, L. Miller, National
+Semiconductor, “Low Dose Rate Test Results forNational
+Semiconductor’s ELDRS-Free LM136-2.5 Bipolar Reference,
+“pp. 47-50 (2009).
+
+[10] M. T. Alvarez, J. A. Dominguez, C. Hernando, C. P.
+Fernandez, I. Arruego, INTA, “Low Dose Rate Testing on
+Commercial Low Dropout Voltage References,”
+
+pp. 51-58 (2009).
+
+[11] K. Kruckmeyer, L. McGee, T. Trinh, National Semi-
+conductor; J. Benedetto, Radiation Assured Devices, “Low
+Dose Rate Test Results of National Semiconductor’s ELDRS-
+Free Bipolar Low Dropout (LDO) Regulator, LM2941 at Dose
+Rates of 1 and 10 Mrad(Si)/S, “pp. 59-64 (2009).
+
+[12] K. Kruckmeyer, National Semiconductor; S. P. Buchner,
+Global Strategies Group (North America); S. DasGupta,
+Vanderbilt University, “Single Event Transient (SET)
+Response of National Semiconductor’s ELDRS-Free LM139
+Quad Comparator, “pp. 65-70 (2009).
+
+[13] R. K. Lawrence, J. A. Zimmerman, J. F. Ross, BAE
+Systems, “Single Event Gate Rupture Testing on 90 nm Bulk
+CMOS Deep Trench Oxide Capacitors,”
+
+pp. 71-75 (2009).
+
+[14] L. E. Selva, L. Z. Scheick, Jet Propulsion Laboratory-
+CIT; N. Ikeda, Japan Aerospace Exploration Agency,
+“SEGR/SEB Test Results on Emerging Hi-Rel Power
+MOSFETs, “pp. 76-81 (2009).
+
+[15] L. Scheick, L. Selva, JPL-CIT, “Sensitivity to LET and
+Test Conditions for SEE Testing of Power MOSFETs,”
+pp. 82-93 (2009).
+
+[16] C. Oudea, EADS Astrium Space Transportation; P. Poirot,
+R. Gaillard, Infoduc; C. Poivey, ESA/ESTEC; L. Marchand,
+“Single Event Effects in MEMS Accelerometers,”
+
+pp 94-98 (2009).
+
+[17] C. Poivey, J. P. Armengol, R. H. Sorensen, A. Zadeh,
+ESA ESTEC; J. Blasco, O. Navasquillo, S. De La Rosa,
+DAS Photonics, “Radiation Prescreening of SIOS Optical
+Link, “pp. 99-102 (2009).
+
+[18] R. R. Katti, J. Lintz, L. Sundstrom, Honeywell
+International, Inc.; T. Marques, S. Scoppettuolo, Charles Stark
+Draper Laboratory; D. Martin, NSWC-Crane, “Heavy-Ion and
+Total Ionizing Dose (TID) Performance of a 1 Mbit
+Magnetoresistive Random Access Memory (MRAM),”
+
+pp. 103-105 (2009).
+
+377
+
+[19] J. J. Schaefer, R. S. Owen, P. M. Rutt, C. Miller, SEAKR
+Engineering, Inc., “Observations from the Analysis of On-Orbit
+Data from DRAMs Used in Space Systems,”
+
+pp. 106-113 (2009).
+
+[20] T. R. Oldham, Perot Systems/NASA GSFC; M. R.
+Friendlich, C. M. Seidleck, H. S. Kim, M. D. Berg, MEI; A.
+B. Sanders, NASA GSFC; K. A. LaBel, “TID and SEE
+Response of Advanced Samsung and Micron 4G NAND Flash
+Memories for the NASA MMS Mission,”
+
+pp. 114-122 (2009).
+
+[21] R. K. Lawrence, J. F. Ross, N. F. Haddad, D. R. Albrecht,
+BAE Systems; R. A. Reed, Vanderbilt University, “Soft Error
+Sensitivities in 90 nm Bulk CMOS SRAMs, “pp. 123-126 (2009).
+
+[22] R. Koga, P. Yu, K. Crawford, J. George, M.
+Zakrzewski, Aerospace, “Synergistic Effects of Total
+Ionizing Dose on SEU Sensitive SRAMs,”
+
+pp. 127-132 (2009).
+
+[23] D. M. Hiemstra, MDA Corporation, “Single Event
+Upset Characterization of the TMS320C6713 Digital Signal
+Processor Using Proton Irradiation,”
+
+pp. 133-135 (2009).
+
+[24] D. A. Adams, M. D. Fitzpatrick, E. C. Folk, N. P.
+Goldstein, W. L. Hand, J. J. Horner, P. B. Shea, R. D. Lewis,
+J. T. Smith, P. L. Peyton, J. J. Sheehy, J. A. Dame, G. L.
+Grant, C. N. Elliot, G. Wang, M. H. White, Northrop
+Grumman Corporation, “A Radiation Data Set for the NGC
+W28C0108 SONOS 128kx8 EEPROM,”
+
+pp. 136-139 (2009).
+
+[25] J. S. George, R. Koga, M. Zakrzewski, The Aerospace
+Corporation, “Single Event Effects Tests on the Actel
+RTAX2000S FPGA, “pp. 140-147 (2009).
+
+[26] C. Hafer, S. Griffith, J. Nagy, F. Sievert, Aeroflex
+Colorado Springs; S. Guertin, NASA JPL/Caltech; J. Gaisler,
+S. Habine, Aeroflex Gaisler, “LEON 3FT Processor
+Radiation Effects Data, “pp. 148-151 (2009).
+
+[27] M. J. Campola, D. Chen, MEI Technologies, Inc.; K. A.
+LaBel, NASA-GSFC, “Two Post-Irradiation Temperature
+Techniques for Total Ionizing Dose,”
+
+pp. 152-156 (2009).
+
+[28] E. W. Blackmore, TRIUMF, “Development of a Large
+Area Neutron Beam for System Testing at TRIUMF,”
+pp. 157-160 (2009).
+
+[29] E. W. Cascio, Massachusetts General Hospital; B.
+Gottschalk, Harvard University, “A Simplified Vacuumless
+Faraday Cup for the Experimental Beamline at the Francis H.
+Burr Proton Therapy Center, “pp. 161-165 (2009).
+
+[30] A. V. Prokofiev, Uppsala University; J. Blomgren,
+Vattenfall; M. Majerle, Nuclear Physics Institute; R. Nolte, S.
+R6ttger, Physikalisch-Technische Bundesanstalt; S. P. Platt,
+X. X. Cai, University of Central Lancashire; A. N. Smirnov,
+V. G. Khlopin Radium Institute, “Characterization of the
+ANITA Neutron Source for Accelerated SEE Testing at the
+Svedberg Laboratory, “pp. 166-173 (2009).
+ 
+
+2010 Workshop Record
+Editor: Leif Z. Scheick
+IEEE Catalog Number CFP10422-PRT
+ISBN 978-1-4244-8402-7
+
+ 
+
+[1] D. M. Hiemstra, MDA Corporation, “Guide to the 2009
+IEEE Radiation Effects, “pp. 1-4 (2010).
+
+[2] S. M. Guertin, Farokh Irom, NASA/JPL, “Recent Results
+for PowerPC Processor and Bridge Chip Testing,”
+pp. 5-12 (2010).
+
+[3] D. M. Hiemstra, G. Battiston, P. Gill, MDA Corporation,
+“Single Event Upset Characterization of the Virtex-5 Field
+Programmable Gate Array Using Proton Irradiation,”
+
+pp. 13-16 (2010).
+
+[4] R. Koga, P. Yu, J. George, S. Bielat, The Aerospace
+Corporation, “Sensitivity of 2 Gb DDR2 SDRAMs to Protons
+and Heavy Ions, “pp. 17-22 (2010).
+
+[5] R. K. Lawrence, J-F. Ross, N.E. Wood, BAE Systems,
+“90-nm Digital Single Event Transient Pulsewidth
+Measurements, “pp. 23-27 (2010).
+
+[6] C. Hafer, B. Baranski, J. Larsen, F. Sievert, A. Jordan,
+Aeroflex Colorado Springs, “SEE Results for a 4-Port
+SpaceWire Router, “pp. 28-31 (2010).
+
+[7] M. V. O'Bryan, D. Chen, H. S. Kim, A. M. Phan, M. D.
+Berg, MEI Technologies Inc. ; K. A. LaBel, J. A. Pellish, J.-
+M. Lauenstein, C. J. Marshall, R. L. Ladbury, M. A. Carts, A.
+B. Sanders, M. A. Xapsos, NASA GSFC; T. R. Oldham,
+Perot Systems Government Services, Inc.; S. P. Buchner,
+Global Defense Technology and Systems, Inc.; P. W.
+Marshall, Consultant; F. Irom, NASA JPL; L. G. Pearce, E. T.
+Thomson, T. M. Bernard, H. W. Satterfield, A. P. Williams,
+N. W. van Vonno, Intersil Corporation; J. F. Salzman, Texas
+Instruments; S. Burns, R. S. Albarian, Linear Technology,
+“Current Single Event Effects Compendium of Candidate
+Spacecraft Electronics for NASA, “pp. 32-43 (2010).
+
+[8] S. S. McClure, G. R. Allen, F. Irom, L. Z. Scheick, P. C.
+Adell, T. F. Miyahira, Jet Propulsion Laboratory,
+“Compendium of Test Results of Recent Single Event Effect
+Tests Conducted by the Jet Propulsion Laboratory,”
+pp. 44-49 (2010).
+
+[9] E. Normand, Boeing; L. Dominik, Honeywell, “Cross
+Comparison Guide for Results of Neutron SEE Testing of
+Microelectronics Applicable to Avionics, “pp. 50-57 (2010).
+
+[10] C. Hafer, M. Von Thun, M. Leslie, F. Sievert, A.
+Jordan, Aeroflex, “Commercially Designed and
+Manufactured SDRAM SEE Data, “pp. 58-62 (2010).
+
+[11] K. Kruckmeyer, R. Eddy, A. Szczapa, B. Brown, T.
+
+Santiago, National Semiconductor, “SEE Testing of National
+Semiconductor's LM98640QML System on a Chip for Focal
+Plane Arrays and Other Imaging Systems, “pp. 63-70 (2010).
+
+[12] J. Heidecker, G. Allen, D. Sheldon, Jet Propulsion
+
+Laboratory, California Institute of Technology, “Single Event Latchup
+(SEL) and Total Ionizing Dose (TID) of a 1 Mbit Magnetoresistive
+Random Access Memory (MRAM), “pp. 71-74 (2010).
+
+378
+
+[13] G. Chaumont, A. Uguen, C. Prugne,
+STMicroelectronics; Florence Malou, CNES, “TID and SEE
+Responses of Rad-Hardened A/D Converters,”
+
+pp. 75-79 (2010).
+
+[14] N. W. van Vonno, L. G. Pearce, J. S. Gill, H. W.
+Satterfield, E. T. Thomson, T. E. Fobes, A. P. Williams, P. J.
+Chesley, Intersil, “Total Dose and Single Event Testing of a
+Hardened Point of Load Regulator, “pp. 80-87 (2010).
+
+[15] N. W. van Vonno, L. G. Pearce, G. M. Wood, J. D.
+White, E. J. Thomson, T. M. Bernard, P. J. Chesley, R.
+Hood, Intersil, “Total Dose and Single Event Testing of a
+Hardened Single-Ended Current Mode PWM Controller,”
+pp. 88-93 (2010).
+
+[16] A. T. Kelly, P. R. Fleming, R. D. Brown, BAE Systems;
+Frankie Wong, Space Systems Loral, “Single Event and Low
+Dose-Rate TID Effects in the DS16F95 RS-485
+
+Transceiver, “pp. 94-99 (2010).
+
+[17] A. Schiittauf, S. Rakers, C. Daniel, EADS ASTRIUMST,
+“Radiation Test of 8 Bit Microcontrollers ATmegal28 &
+AT90CAN128, “pp. 100-103 (2010).
+
+[18] R. D. Harris, S. S. McClure, B. G. Rax, D. O.
+Thornbourn, K. B. Clark, T.-Y. Yan, Jet Propulsion
+Laboratory; Aaron J. Kenna, Northrop Grumman Space
+Technology, “ELDRS Characterization for a Very High
+Dose Mission, “pp. 104-110 (2010).
+
+[19] D. Chen, J. D. Forney, A. M. Phan, M. A. Carts,
+MEI/NASA-GSFC; Ronald L. Pease, RLP Research; S. R.
+Cox, K. LaBel, NASA-GSFC; K. Kruckmeyer, National
+Semiconductor; S. Burns, R. Albarian, Linear Technology; B.
+Holcombe, B. Little, J. Salzman, Texas Instruments; G.
+Chaumont, H. Duperray, A. Ouellet, ST Microelectronics,
+“The Effects of ELDRS at Ultra-Low Dose Rates,
+
+pp. 111-116 (2010).
+
+[20] D. J. Cochran, D. Chen, H. S. Kim, M. J. Campola, M.
+V. O'Bryan, MEI Technologies, Inc.; T. R. Oldham, Dell
+Perot Systems ; A. B. Sanders, K. A. LaBel, C. J. Marshall, J.
+A. Pellish, M. A. Carts, NASA/GSFC ; S. P. Buchner, Global
+Defense Technology and Systems, Inc., “Total Ionizing Dose
+and Displacement Damage Compendium of Candidate
+Spacecraft Electronics for NASA, “pp. 117-124 (2010).
+
+[21] D. N. Nguyen, F. Irom, NASA/CalTech/Jet Propulsion
+Lab, “Comparison of TID Response of Micron Technology
+Single-Level Cell High Density NAND Flash Memories,”
+pp. 125-128 (2010).
+
+[22] K. E. Holbert, Arizona State University ; A. Sharif Heger,
+S. S. McCready, Los Alamos National Laboratory,
+“Performance of Commercial Off-the-Shelf
+Microelectromechanical Systems Sensors in a Pulsed Reactor
+Environment, “pp. 129-136 (2010).
+
+[23] R. Dumitru, C. Hafer, T.-W. Wu, R. Rominger, H.
+Gardner, P. Milliken, K. Bruno, T. Farris, Aeroflex Colorado
+Springs, “Radiation Hardness Characterization of a 130nm
+ASIC Library Technology, “pp. 137-141 (2010).
+[24] D. Chen, A. Phan, H. Kim, MEI/NASA-GSEC; J. Pellish,
+K. LaBel, NASA-GSFC ; S. Burns, R. Albarian, Linear
+
+B. Holcombe, B. Little, J. Salzman, Texas Instruments;
+P.Marshall, Consultant, “Radiation Performance of Commercial
+SiGe HBT BiCMOS High Speed Operational Amplifiers, “
+
+pp. 142-146 (2010).
+
+[25] A. R. Jones, D. O'Connor, E. Thiemann, V. A. Drake, G.
+Newcomb, N. White, S. Dooley, S. Finkelstein, P. Haskins,
+V. Wei Hsu, B. Kirby, T. Reese and P. Soto Hoffmann,
+University of Colorado; Dean D. Aalami, Space Instruments;
+Henry L. Clark, Texas A&M University; Raymond L.
+Ladbury, NASA; Barbara von Przewoski, Indiana University,
+“Radiation Testing a Very Low-Noise RHBD ASIC
+Electrometer, “pp. 147-152 (2010).
+
+[26] R. Fuller, W. Morris, D. Gifford, R. Lowther, J. Gwin,
+Silicon Space Technology; J. Salzman, Texas Instruments; D.
+Alexander, K. Hunt, AFRL, “Hardening of Texas Instruments!
+VC33 DSP, “pp. 153-157 (2010).
+
+[27] D. L. Hansen, A. Le, K. Chesnut, E. Miller, S. Pong, S.
+Sung, J. Truong, Boeing, “SEU Testing of SiGe Bipolar and
+BiCMOS Circuits, “pp. 158-163 (2010).
+
+[28] K. Kruckmeyer, E. Morozumi, R. Eddy, T. Trinh, T.
+Santiago, National Semiconductor; P. Maillard, Vanderbilt
+University, “Single Event Transient and ELDRS
+Characterization Test Results for LM4050QML 2.5V
+Precision Reference, “pp. 164-169 (2010).
+
+ 
+
+2011 Workshop Record
+Editor: Craig Hafer
+IEEE Catalog Number CFP11422-PRT
+ISBN 978-1-4577-1282-1
+
+ 
+
+[1] N. W. van Vonno, L. G. Pearce, A. L. Northen, J. R.
+Touvell, J. C. Brewster, J. S. Gill, E. T. Thomson, P. J. Chesley,
+Intersil; D. Schettler, Hopewell Designs, Inc., “Wafer by Wafer
+Low Dose Rate Qualification in a Production Environment,”
+pp. 1-7 (2011).
+
+[2] R. K. Lawrence, C. L. Ocheltree, BAE Systems, “Total
+Ionizing Dose Considerations in Space Bound Electronics
+Subjected to Real Time X-Ray Radioscopic Examinations,”
+pp. 8-12 (2011).
+
+[3] E. W. Cascio, The Francis H. BurMassachussetts General
+Hospital; E. H. Bentefour, Ion Beam Applications s.a, “The Use
+of Diodes as Dose and Fluence Probes in the Experimental
+Beamline at the Francis H. Burr Proton Therapy Center,”
+
+pp. 13-18 (2011).
+
+[4] D. M. Hiemstra, MDA, “Guide to the 2010 IEEE Radiation
+Effects Data Workshop Record, “pp. 19-22 (2011).
+
+[5] D. J. Cochran, M. V. O'Bryan, MEI Technologies; A. J.
+Boutte, M. J. Campola, M. A. Carts, M. C. Casey, D. Chen,
+K. A. LaBel, R. L. Ladbury, J-M. Lauenstein, C. J. Marshall,
+J. A. Pellish, A. B. Sanders, M. A. Xapsos, NASA/GSFC; T.
+R. Oldham, Dell Perot 5, “Recent Total Ionizing Dose and
+Displacement Damage Compendium of Candidate Electronics
+for NASA Space Systems, “pp. 23-32 (2011).
+
+379
+
+[6] M. V. O'Bryan, H. S. Kim, A. M. Phan, M.D. Berg, MEI
+Technology Inc.; K. A. LaBel, J. A. Pellish, J-M. Lauenstein,
+D. Chen, C. J. Marshall, M. J. Campola, A. B. Sanders, M.
+A. Xapsos, NASA Goddard Space Flight Center; T.R.
+Oldham, Petot Systems Government, “Recent Single Event
+Effects Compendium of Candidate Electronics for NASA
+Space Systems, “pp. 33-45 (2011).
+
+[7] J. N. Bowles-Martinez, D. O. Thorbourn, B. G. Rax, R.
+D. Harris, L. Z. Scheick, G. R. Allen, S. S. McClure, Jet
+Propulsion Laboratory - California Institute of Technology;
+A. J. Kenna, Northrop Grumman Aerospace Systems,
+“Compendium of Recent Total Ionizing Dose Test Results
+Conducted by the Jet Propulsion Laboratory from 2009-
+2011, “pp. 46-56 (2011).
+
+[8] K. Avery, J. Finchel, J. Mee, R. Netzer, Air Force
+Research Laboratory; W. Kemp, SAIC; D. Elkins,
+Microelectronics Research and Development Corporation; B.
+Zufelt, COSMIAC; D. Alexander, David R. Alexander/LLC,
+“Total Dose Test Results for CubeSat Electronics,”
+
+pp. 57-64 (2011).
+
+[9] R. E. Lombardi, A. L. Bogorad, J. J. Likar, A. S. Rubin,
+C. F. Camacho, Lockheed Martin, “A Summary of Single
+Event Upset Testing of CD4000 Series Devices,”
+
+pp. 65-68 (2011).
+
+[10] C. Hafer, M. Lahey, D. Harris, J. Larsen, F. Sievert, T.
+Sims, S. Meyer, R. Dumitru, A. Jordan, P. Milliken, Aeroflex
+Colorado Springs, “Heavy Ion Single Event Effects
+Performance of RadHard Devices Migrated to an Alternate
+Wafer Fab, “pp. 69-76 (2011).
+
+[11] N. W. van Vonno, L. G. Pearce, J. S. Gill, E. T.
+Thomson, P. J. Chesley, Intersil, “Results of Low Dose Rate
+Testing of Legacy Intersil Products, “pp. 77-84 (2011).
+
+[12] M. A. Jacobson, S. P. Buchner, H. L. Hughes, Naval
+Research Laboratory, P. J. MeMarr, SDS, “SEE and TID
+Results for Commercial Non-Optogalvanic Isolators for Space
+Application, “pp. 85-87 (2011).
+
+[13] D. M. Hiemstra, P. Gill, MDA, “Single Event Upset
+Characterization of a Mixed-Signal Field Programmable Gate
+Array Using Proton Irradiation, “pp. 88-91 (2011).
+
+[14] C. Poivey, ESA ESTEC; M. Grandjean, F. X. Guerre,
+HIREX Engineering, “Radiation Characterization of
+Microsemi ProASIC3 Flash FPGA Family, “pp. 92-96 (2011).
+
+[15] G. R. Allen, California Institute of Technology/Jet
+Propulsion Laboratory; G. Madias, E. Miller, Boeing SIS; G.
+Swift, Xilinx, “Recent Single Event Effects Results in
+Advanced Reconfigurable Field Programmable Gate Arrays,”
+pp. 97-102 (2011).
+
+[16] R. Koga, J. George, S. Bielat, P. Yu, The Aerospace
+Corporation, “Single Event Sensitivity of High-Speed
+Differential Signaling Devices to Heavy Ions and Protons,”
+pp. 103-109 (2011).
+[17] R. Monreal, Southwest Research Institute; C.
+Carmichael, G. Swift, Xilinx, Inc., “Single-Event
+Characterization of Multi-Gigabit Transceivers (MGT) in
+Space-Grade Virtex-5QV Field Programmable Gate Arrays
+(FPGA), “pp. 110-117 (2011).
+
+[18] C. Pham, H. Malcolm, R. Maurer, D. Roth, K.
+Strohbehn, Johns Hopkins Applied Physics Lab, “LEON3FT
+Proton SEE Test Results for the Solar Probe Plus Program,”
+pp. 118-121 (2011).
+
+[19] S. M. Guertin, NASA/JPL; C. Hafer, S. Griffith,
+Aeroflex, “Investigation of Low Cross Section Events in the
+RHBD/FT UT699 Leon 3FT, “pp. 122-129 (2011).
+
+[20] A. Wilson, D. Kerwin, T. Richardson, Q. Ton, K.
+Merkel, G. Koziuk, C. Hafer, Aeroflex Colorado Springs,
+“Radiation and Reliability Characterization of a Multiplexer
+Family Using a 0.35ym Triple-Well CMOS Technology,”
+pp. 130-136 (2011).
+
+[21] R. Dumitru, C. Hafer, T-W. Wu, R. Rominger, P.
+Milliken, K. Bruno, T. Farris, Aeroflex Colorado Springs,
+“130nm Single Event Upset Performance Evaluation:
+Commercial vs. Hardened by Design Architectures,”
+
+pp. 137-142 (2011).
+
+[22] F. Irom, D. N. Nguyen, Jet Propulsion Laboratory,
+“SEE and TID Response of Spansion 512Mb NOR Flash
+Memory, “pp. 143-146 (2011).
+
+[23] K. Griirmann, D. Walter, M. Herrmann, F. Gliem, TU
+Braunschweig; H. Kettunen, University of Jyviskyla;V.
+Ferlet-Cavrois, European Space Agency, “SEU and MBU
+Angular Dependence of Samsung and Micron 8-Gbit SLC
+NAND-Flash Memories under Heavy-Ion Irradiation,”
+
+pp. 147-151 (2011).
+
+[24] T. R. Oldham, Dell Services Federal Government; M.
+Berg, M. Friendlich, T. Wilcox, C. Seidleck, MEI--NASA
+GSFC; K. A. LaBel, NASA GSFC; F. Irom, JPL; S. P.
+Buchner, D. McMorrow, NRL; D. G. Mavis, P. H. Eaton, J.
+Castillo, Micro-RDC, “Investigation of Current Spike
+Phenomena during Heavy Ion Irradiation of NAND Flash
+Memories, “pp. 152-160 (2011).
+
+[25] H. Puchner, Cypress Semiconductor; J. Tausch, JD
+Instruments, R. Koga, The Aerospace Corporation, “Proton-
+Induced Single Event Upsets in 90nm Technology High
+Performance SRAM Memories, “pp. 161-163 (2011).
+
+[26] H. Quinn, P. Graham, T. Fairbanks, Los Alamos
+National Laboratory, “SEEs Induced by High-Energy
+Protons and Neutrons in SDRAM, “pp. 164-168 (2011).
+
+[27] S. E. Michalak, A. J. DuBois, C. B. Storlie, H. M.
+Quinn, W. N. Rust, D. H. DuBois, D. G. Modl, S.P.
+Blanchard, Los Alamos National Laboratory; A. Manuzzato,
+Universita degli Studi di Padova, “Neutron Beam Testing of
+High Performance Computing Hardware,”
+
+pp. 169-176 (2011).
+
+380
+
+[28] R. D. Harris, L. Z. Scheick, J. P. Hoffman, T.
+Thrivikraman, M. Jenabi, Y. Gim, T. Miyahira, Jet
+Propulsion Laboratory, “Radiation Characterization of
+Commercial GaN Devices, “pp. 177-181 (2011).
+
+[29] L. Z, Scheick, JPL/CIT; M. Gauthier, B. Gauthier, B.
+Triggs, Semicoa Corporation, “Recent Power MOSFET Test
+Results, “pp. 182-187 (2011).
+
+[30] S. Koontz, B. Reddell, NASA Johnson Space Center; P.
+Boeder, The Boeing Company, “Calculating Spacecraft Single
+Event Environments with FLUKA: Investigating the Effects
+of Spacecraft Material Atomic Number on Secondary Particle
+Showers, Nuclear Reactions, and Linear Energy Transfer
+(LET) Spectra, Internal to Spacecraft Avionics Material,”
+pp.188-195 (2011).
+
+[31] A. Barnard, Stellenbosch University; C. Nwosa, South
+African Astronomical Observatory, “COTS Based On-Board-
+Computer on South Africa's Sumbandilasat: A Radiation and
+In-Orbit Performance Analysis, “pp. 196-199 (2011).
+
+[32] P. Pourrouquet, J-C. Thomas, P-F. Peyrard, TRAD; R.
+Ecoffet, G. Rolland, CNES, “FASTRAD 3.2: Radiation
+Shielding Tool with a New Monte Carlo Module,”
+
+pp. 200-204 (2011).
+
+[33] M. Wind, P. Beck, AIT Austrian Institute of Technology;
+J. Boch, L. Dusseau, Université Montpellier 2; M. Latocha,
+AIT Austrian Institute of Technology; M. Poizat, A. Zadeh,
+ESA/ESTEC, TEC-QCA, “Applicability of the Accelerated
+Switching Test Method - A Comprehensive Survey,”
+
+pp. 205-212 (2011).
+
+[34] K. Kruckmeyer, T. Trinh, National Semiconductor; A.
+T. Kelly, BAE Systems; L. McGee, National Semiconductor,
+“Impact of Reference Voltage on the ELDRS Characteristics
+of the LM4050 Shunt Voltage Reference,”
+
+pp. 213-217 (2011).
+
+ 
+
+2012 Workshop Record
+Editor: Paul Eaton
+IEEE Catalog Number CFP12422-PRT
+ISBN 978-1-4673-2732-9
+
+ 
+
+[1] D. M. Hiemstra, MDA Corporation, “Guide to the 2011
+IEEE Radiation Effects Data Workshop Record,”
+pp. 1-6 (2012).
+
+[2] K. Scott, J. Bird, R. Davies, Ball Aerospace &
+Technologies Corp., “Compendium of Radiation Test Results
+from Ball Aerospace & Technologies Corp.,”
+
+pp. 7-12 (2012).
+
+[3] D. J. Cochran, E. P. Wilcox, M. V. O'Bryan, MEI
+Technologies, Inc.; A. J. Boutte, D. Chen, J. A. Pellish, R. L.
+Ladbury, M. C. Casey, M. J. Campola, K. A. LaBel, J.-M.
+Lauenstein, D. A. Batchelor, NASA/GSFC; T. R. Oldham, Dell
+Perot Systems Inc., “Compendium of Total Ionizing Dose and
+Displacement Damage for Candidate Spacecraft Electronics for
+NASA, “pp. 13-21 (2012).
+[4] M. V. O'Bryan, R. A. Gigliuto, H. S. Kim, A. M. Phan, M.
+D. Berg, E. P. Wilcox, MEI Technologies, Inc.; K. A. LaBel, J.
+A. Pellish, J.-M. Lauenstein, D. Chen, C. J. Marshall, M. C.
+Casey, A. B. Sanders, R. L. Ladbury, A. J. Boutte,
+NASA/GSEC; P. W. Marshall, Consultant; T. R. Oldham,
+Perot Systems Government Services, Inc.; P. L. Musil, G. A.
+Overend, MS Kennedy Corporation, “Compendium of Single
+Event Effects for Candidate Spacecraft Electronics for
+
+NASA, “pp. 22-30 (2012).
+
+[5] G. R. Allen, S. M. Guertin, L. Z. Scheick, F. Irom, Jet
+Propulsion Laboratory, California Institute of Technology; S.
+Zajac, Stoney Brook University, “Compendium of Recent
+Test Results of Single Event Effects Conducted by the Jet
+Propulsion Laboratory, “pp. 31-40 (2012).
+
+[6] K. K. Allums, P. M. ONeill, B. D. Reddell, C. R. Bailey,
+K. V. Nguyen, NASA Johnson Space Center, “Radiation Test
+Results on COTS and Non-COTS Electronic Devices for
+NASA Johnson Space Center Spaceflight Projects,”
+
+pp. 41-49 (2012).
+
+[7] F. Irom, S. G. Agarwal, Jet Propulsion Laboratory,
+California Institute of Technology, “Compendium of Single-
+Event Latchup and Total Ionizing Dose Test Results of
+Commercial Analog to Digital Converters, “pp. 50-63 (2012).
+
+[8] J. Wert, D. Russell, B. Bartholet, M. Clemen Jr., J.
+Koehn, B. Schasteen, E. Cannon, M. Cabanas-Holmen, The
+Boeing Company, “Low-Energy Proton Testing Using the
+Boeing Radiation Effects Laboratory 2.2 MeV Dynamitron,”
+pp. 64-68 (2012).
+
+[9] A. N. Egorov, A. I. Chumakov, A. A. Pechenkin, A. V.
+Yanenko, Specialized Electronic Systems; O. B. Mavritskiy,
+D. O. Koltsov, National Research Nuclear University MEPhI,
+“"PICO-4" Single Event Effects Evaluation and Testing
+Facility Based on Wavelength Tunable Picosecond Laser,”
+pp. 69-72 (2012).
+
+[10] V. S. Anashin, A. E. Kozyukov, JSC Institute of Space
+Device Engineering; V. V. Emeliyanov, A. I. Ozerov, A. S.
+Vatuev, A. V. Besetskiy, Research Institute of Scientific
+Instruments; V. A. Skuratov, Flerov Laboratory of Nuclear
+Reactions, Joint Institute for Nuclear Research; A. S.
+Bakerenkov, V. V. Belyakov, Department of Micro- and
+Nanoelectronics, Moscow Engineering Physics Institute,
+“Equipment and Test Results of the Electronic Components to
+SEE in the Temperature Range, “pp. 73-77 (2012).
+
+[11] M. C. Casey, A. J. Boutte, M. J. Campola, M. A. Carts,
+C. J. Marshall, W. A. Powell, M. A. Xapsos, NASA/GSFC; E.
+P. Wilcox, A. M. Phan, MEI Technologies, Inc., “A
+Comparison of High-Energy Electron and Cobalt-60 gamma-
+Ray Radiation Testing, “pp. 78-82 (2012).
+
+[12] J. Hofman, R. Sharp; Synergy Health Sterilisation UK
+Ltd., “Measurement Methods for Total Ionising Dose Testing:
+In-Situ versus Standard Practice, “pp. 83-86 (2012).
+
+[13] S. M. Guertin, G. R. Allen, D. J. Sheldon, NASA/JPL,
+“Programmatic Impact of SDRAM SEFI, “pp. 87-94 (2012).
+
+381
+
+[14] R. Koga, J. George, S. Bielat, The Aerospace
+Corporation, “Single Event Effects Sensitivity of DDR3
+SDRAMs to Protons and Heavy Ions, “pp. 95-102 (2012)
+
+[15] F. Irom, D. N. Nguyen, G. R. Allen, S. A. Zajac, Jet
+Propulsion Laboratory, California Institute of Technology,
+“Scaling Effects in Highly Scaled Commercial Nonvolatile
+Flash Memories, “pp. 103-108 (2012).
+
+[16] R. K. Lawrence, BAE Systems, “Electrical Test
+Conditioning Influence on Total Ionizing Dose Response of
+SRAMs, “pp. 109-113 (2012).
+
+[17] K. Griirmann, M. Herrmann, F. Gliem, Technische
+Universitét Braunschweig; H. Schmidt, Astrium GmbH; G.
+Leibeling, Fraunhofer-Institut f'ur Angewandte Optik und
+Feinmechanik IOF; H. Kettunen, University of Jyvaskyla; V.
+Ferlet-Cavrois, ESA, “Heavy Ion Sensitivity of 16/32-Gbit
+NAND-Flash and 4-Gbit DDR3 SDRAM,”
+
+pp. 114-119 (2012).
+
+[18] C. Hafer, M. Von Thun, M. Mundie, D. Bass, F. Sievert,
+Aeroflex Colorado Springs, “SEU, SET, and SEFI Test Results
+of a Hardened 16Mbit MRAM Device, “pp. 120-123 (2012).
+
+[19] D. M. Hiemstra, V. Kirischian, MDA Corporation,
+“Single Event Upset Characterization of the Virtex-6 Field
+Programmable Gate Array Using Proton Irradiation,”
+
+pp. 124-127 (2012).
+
+[20] H. Quinn, P. Graham, K. Morgan, Z. Baker, M. Caffrey,
+D. Smith, LANL; R. Bell, DOE, “On-Orbit Results for the
+Xilinx Virtex-4 FPGA, “pp. 128-135 (2012).
+
+[21] P. Rech, C. Aguiar, R. Ferreira, L. Carro, UFRGS; M.
+Silvestri, University of Bristol; A. Griffoni, OSRAM; C. Frost,
+STFC, “Neutron-Induced Soft Errors in Graphic Processing
+Units, “pp. 136-141 (2012).
+
+[22] S. E. Stone, R. E. Lombardi, S. S. Seehra, J. J. Likar, J.
+Begovic, R. Herschitz, Lockheed Martin Space Systems
+Company, “Single Event Effects Characterization of Maxwell
+7846B DAC, “pp. 142-144 (2012).
+
+[23] D. Lambert, X. Vega, Nucletudes; D. Gauthier, EASII-IC;
+B. Azais, DGA, “Radiation Effect Characterization on the
+QorlQ P2010 Microprocessor, “pp. 145-148 (2012).
+
+[24] J. W. Swonger, G. Horvath, A. Singh, Peregrine
+Semiconductor, “Radiation-Hardened Point-of-Load Buck
+Regulators for Space Applications, “pp. 149-156 (2012).
+
+[25] L. A. Tambara, T. R. Balen, P. C. C. de Aguirre, M. S.
+Lubaszewski, Escola de Engenharia, PPGEE, UFRGS; F. L.
+Kastensmidt, Instituto de Informatica, PGMICRO, UFRGS; E.
+C. P. F. Junior, O. L. Gongalez, Instituto de Estudos
+Avancados; I. Arruego, Instituto Nacional de Técnica
+Aeroespacial, “TID in a Mixed-Signal System-on-Chip:
+Analog Components Analysis and Clock Frequency Influence
+in Propagation-Delay Degradation, “pp. 157-162 (2012).
+
+[26] M. Alvarez, J. J. Jiménez, M. Gonzélez-Guerrero, C.
+Hernando, H. Guerrero, INTA, “Total Ionizing Dose Radiation
+Test on the Temperature Sensor TMP36 from Analog
+
+Devices, “pp. 163-169 (2012).
+[27] N. W. van Vonno, L. W. Pearce, K. C. Knudsen, E. J.
+Thomson, T. M. Bernard, P. J. Chesley, Intersil Corporation,
+“Total Dose and Single Event Testing of the Intersil
+ISL75051SRH Low Dropout Regulator, “pp. 170-175 (2012).
+
+[28] N. W. van Vonno, R. A. Hood, O. Mansilla, E. J.
+Thomson, F. C. Ballou, Intersil Corporation, “Results of
+Displacement Damage Testing of the Intersil ISL70227SRH
+Dual Operational Amplifier, “pp. 176-180 (2012).
+
+[29] A. Zanchi, S. Hisano, C. Hafer, D. B. Kerwin, Aeroflex
+Colorado Springs, “Total Ionizing Dose and Single Event
+Latch-Up Characterization of a 16-Bit A-to-D Converter
+Fabricated in 0.18,4m Triple-Well CMOS Process,”
+
+pp. 181-188 (2012).
+
+[30] N. W. van Vonno, K. Knudsen, R. Hood, O. Mansilla, T.
+M. Bernard, P. J. Chesley, Intersil Corporation, “Rebound
+Testing of Intersil Bipolar and BiCMOS Parts,”
+
+pp. 189-195 (2012).
+
+[31] L. Z. Scheick, JPL/CIT, “Recent Power MOSFET Single
+Event Testing Results, “pp. 196-204 (2012).
+
+[32] N. E. Lourenco, R. L. Schmid, K. A. Moen, S. D.
+
+Phillips, T. D. England, J. D. Cressler, Georgia Institute of
+Technology; J. Pekarik, J. Adkisson, R. Camillo-Castillo, P.
+Cheng, J. E. Monaghan, P. Gray, D. Harame, Q. Liu, A.
+Vallett, B. Zetterlund, V. Jain, V. Kaushal, IBM
+Microelectronics; M. Khater, IBM Research, “Total Dose and
+Transient Response of SiGe HBTs from a New 4th-Generation,
+90 nm SiGe BiCMOS Technology, “pp. 205-209 (2012).
+
+[33] S. S. McClure, R. D. Harris, B. G. Rax, D. O. Thorbourn,
+Jet Propulsion Laboratory, “Characterization of Radiation
+Hardened Bipolar Linear Devices for High Total Dose
+Missions, “pp. 210-215 (2012).
+
+[34] D. Chen, R. Ladbury, K. LaBel, NASA/GSFC; A.
+Topper, J. Forney, MEI Technologies, Inc.; B. Triggs, T.
+Kazmakites, SEMICOA Corp.; R. Pease, RLP Research,
+“Evaluation of Enhanced Low Dose Rate Sensitivity in
+Discrete Bipolar Junction Transistors, “pp. 216-222 (2012).
+
+ 
+
+2013 Workshop Record
+Editor: Philippe Paillet
+IEEE Catalog Number CFP13422-PRT
+ISBN 978-1-4799-1136-3
+
+ 
+
+[1] David M. Hiemstra, MDA Space Missions, “Guide to the
+2012 IEEE Radiation Effects Data Workshop Record,”
+pp. 1-6 (2013).
+
+[2] Alvin J. Boutte, Dakai Chen, Michael J. Campola, Jonathan
+A. Pellish, Raymond L. Ladbury, Jean-Marie Lauenstein,
+Kenneth A. LaBel, NASA Electronic Parts and Packaging
+Program; Donna J. Cochran, Robert A. Gigliuto, Edward P.
+Wilcox and Martha V. O'Bryan, MEI Technologies, Inc.,
+“Compendium of Recent Total Ionizing Dose and Displacement
+Damage for Candidate Spacecraft Electronics for NASA,”
+
+pp. 7-15 (2013).
+
+382
+
+[3] Tom Fairbanks, Heather Quinn, John Michel, Adam
+Warniment, and Nick Dallmann, Los Alamos National
+Laboratory, “Compendium of TID, Neutron, Proton and Heavy
+Ion Testing of Satellite Electronics for Los Alamos National
+Laboratory, “pp. 16-21 (2013).
+
+[4] Martha V. O'Bryan, MEI Technologies Inc., Dakai Chen,
+Michael J. Campola, Megan C. Casey, Kenneth A. LaBel,
+Jonathan A. Pellish, Jean-Marie Lauenstein, Raymond L.
+Ladbury, NASA/GSFC; Alyson D. Topper, Robert A. Gigliuto,
+Edward P. Wilcox, Melanie D. Berg, MEI Technologies, Inc.;
+Robert R. Davies, Ball Aerospace & Technologies Corporation,
+“Compendium of Recent Single Event Effects for Candidate
+Spacecraft Electronics for NASA, “pp. 22-29 (2013).
+
+[5] Vasily S. Anashin, Alexander S. Kuznetsov, Alexander E.
+Kozyukov, Linaris R. Bakirov, Anatoly A. Kazyakin and Kirill
+A. Artemyev, Joint - Stock Company Institute of Space Device
+Engineering (JSC ISDE), “Compilation of Electronic
+Components SEE Test Results, “pp. 30-32 (2013).
+
+[6] G. Spiezia, M. Brugger, E. Fadakis, G. Foucard, R. Losito,
+A. Masi, J. Mekki, P. Peronnard, G. Ruggiero and R. Secondo,
+European Organization for Nuclear Research (CERN); S. Danzeca,
+R. Garcia Alia, European Organization for Nuclear Research
+(CERN) and IES; P. Oser, European Organization for Nuclear
+Research (CERN) and Karlsruhe University of Applied Sciences;
+R. Gaillard, IEEE senior member, “Compendium of Radiation-
+Induced Effects for Candidate Particle Accelerator Electronics,
+“pp. 33-39 (2013).
+
+[7] Slawosz Uznanski, Benjamin Todd, Arend Dinius, Quentin
+King, Karol Motala, Markus Brugger, Giovanni Spiezia,
+Evangelia Gousiou, European Organization for Nuclear
+Research, “SEE and TID Test Results of Candidate Electronics
+for LHC Power Converter Control, “pp. 40-44 (2013).
+
+[8] Marc Poizat, Christian Erd, Christian Poivey, Veronique
+Ferlet-Cavrois, Cesar Boatella-Polo and Ali Zadeh, European
+Space Agency; Maryse Sauvagnac, Anne Samaras, Yannick
+Padié, Pierre Garcia, Benjamin Renaud, Lionel Gouyet, Jean
+Paul Abadi, Fabien Widmeer, Enoal Le Goulven, Maxime
+Vaille, Benjamin Vandevelde, Thomas Caunes, Ludovic
+Puybusque, Gaél Vignon, Lionel Salvy, Alexandre Rousset,
+Christian Chatry, The Netherlands TRAD, “Compendium of
+Total Ionizing Dose, Displacement Damage and Single Event
+Transient Test Data of Various Optocouplers for ESA,”
+
+pp. 45-50 (2013).
+
+[9] R. Kingsbury, F. Schmidt, K. Cahoy and D. Sklair,
+
+W. Blackwell, I. Osarentin, R. Legge, Lincoln Laboratory
+Massachusetts Institute of Technology, “TID Tolerance of
+Popular CubeSat Components, “pp. 51-54 (2013).
+
+[10] S. M. Guertin, G. R. Allen, S. S. McClure, K. A. LaBel, Jet
+Propulsion Laboratory, California Institute of Technology, “TID
+Test Results for 4th Generation iPad™, “pp. 55-60 (2013).
+
+[11] Yuyuan Chen, Lynbrook High School, “Cosmic Ray
+Effects on Personal Entertainment Applications for
+Smartphones, “pp. 61-64 (2013).
+[12] L. Hoffmann and V. Lam, Honeywell International,
+“Qualification of an Automotive-Grade, State-of-the-Art ASIC
+for Natural Space Applications, “pp. 65-72 (2013).
+
+13] David M. Hiemstra and Valeri Kirischian, MDA, “Single
+Event Upset Characterization of the Spartan-6 Field
+Programmable Gate Array Using Proton Irradiation, “
+
+pp. 73-76 (2013).
+
+[14] Roberto Monreal, Space Sciences, Southwest Research
+Institute; Gary Swift, Y. C. Wang, Xilinx, Inc., Michael
+Wirthlin and Brent Nelson, NSF Center for High Performance
+Reconfigurable Computing (CHREC ), “Single Event Effect
+Rate Analysis and Upset Characterization of FPGA Digital
+Signal Processors, “pp. 77-84 (2013)
+
+[15] B. Wie, M. K. Plante, A. Berkley and R. J. Nejad, Integrity
+Applications Incorporated; S. M. Guertin, Jet Propulsion
+Laboratory, “Static, Dynamic, and Application-Level SEE
+Results for a 49-Core RHBD Processor, “pp. 85-93 (2013).
+
+[16] Heather Quinn, Tom Fairbanks, Justin L. Tripp, Los
+Alamos National Laboratory; Andrea Manuzzato, University
+of Milan, Department of Physics, “The Reliability of Software
+Algorithms and Software-Based Mitigation Techniques in
+Digital Signal Processors, “pp. 94-101 (2013).
+
+[17] Alexander Harding, Kevin Ellsworth, Brent Nelson and
+Michael Wirthlin, Brigham Young University,
+“Characterization and Mitigation of the MGT-Based Aurora
+Protocol in a Radiation Environment, “pp. 102-105 (2013).
+
+[18] Steven A. Rogacki, Jonathan A. Pellish, NASA Goddard
+Space Flight Center, Steven Persyn, John Stone, Southwest
+Research Institute (SwRI); Paul W. Marshall, NASA Consultant,
+“VCSEL and Photodiode Proton Test Results for an Optical
+Communications Link, “pp.106-112 (2013).
+
+[19] Farokh Irom, Duc N. Nguyen and Gregory R. Allen,
+California Institute of Technology, “Single Event Effect and
+Total Ionizing Dose Results of Highly Scaled Flash Memories,
+“pp. 113-116 (2013).
+
+[20] Timothy R. Oldham, Dell Services Federal Government Inc,
+now with Ball Aerospace; Edward P. Wilcox and Mark R.
+Friendlich, “Single Event Response of the Samsung 16G
+NAND Flash, “pp. 117-121 (2013).
+
+[21] N. W. van Vonno, B. Williams, R. Hood, E. J. Thomson
+and S. K. Bernard, Intersil Corporation, “Total Dose and Single
+Event Effects Testing of the Intersil ISL70444SEH Hardened
+Operational Amplifier, “pp. 122-128 (2013).
+
+[22] N. W. van Vonno, S. D. Turner, E. J. Thomson, B.
+Williams, S. J. Schulte, L. G. Gough, Intersil Corporation; J. E.
+Shick, Honeywell Aerospace ESEA, “Radiation Testing Results
+for the Intersil ISL71590SEH Temperature Sensor,”
+
+pp. 129-132 (2013).
+
+383
+
+[23] Trevor J. Thornton, William Lepkowski, Seth J. Wilk,
+Arizona State University and SJT Micropower Inc.; Michael
+Goryll, Bo Chen, Jason Kam, Bertan Bakkaloglu and Keith
+Holbert, Arizona State University, “Radiation Tolerant
+MESFET-CMOS Low Dropout Linear Regulator for Integrated
+Power Management at the 45nm Node, “pp. 133-135 (2013)
+
+[24] Razvan Gaza and Jaime Cooper, Lockheed Martin IS&GS,
+“Single Event Transient (SET). Susceptibility of the Texas
+Instruments LM139 Quad Comparator under Proton Irradiation,
+“pp. 136-138 (2013)
+
+[25] R. Koga, C. Paul, D. Romeo, V. Petrosyan and J. George,
+The Aerospace Corporation, “Single Event Effects Sensitivity of
+180 and 350 nm SiGe HBT Microcircuits, “pp. 139-145 (2013).
+
+[26] Stephen E. Stone, Alexander L. Bogorad, Justin J. Likar,
+Robert E. Lombardi and Roman Herschitz, Lockheed Martin
+Space Systems Company, “Effects of Ion Energy on Single
+Event Effect Performance of LM139 and AD9042,
+
+pp. 146-149 (2013).
+
+[27] Kirby Kruckmeyer, Thang Trinh and Linton Park, Texas
+Instruments, “Total Ionizing Dose Characterization of the
+Calibration Circuit of Texas Instruments’
+ADC12D1600CCMLS, 12b, 3.2 GSPS Analog-to-Digital
+Converter.” pp. 150-153 (2013).
+
+[28] David B. Kerwin, Younes Lotfi, Alfio Zanchi, Ken Merkel,
+Anthony Wilson and Craig Hafer, Aeroflex Colorado Springs,
+“Single Event Characterization of a Family of Voltage
+Supervisors Designed in a 0.35-um Triple-Well CMOS
+Technology, “pp. 154-160 (2013).
+
+[29] F. Toscano, A. Ouellet, STMicroelectronics Company;
+F. Tilhac and T. Lagarrigue, Hirex Engineering, “Dose Rate
+Effects on Bipolar Components, “pp. 161-166 (2013).
+
+[30] Jeffrey S. George, Rocky Koga, Robert M. Moision, The
+Aerospace Corporation; Arturo Arroyo, International Rectifier
+“Single Event Burnout Observed in Schottky Diodes,”
+
+pp. 167-174 (2013).
+
+[31] R. Marec, A. Bensoussan, J. L. Muraro, L. Portal,
+
+P. Calvel, C. Barillot, Thales Alenia Space; M. G. Perichaud,
+L. Marchand, European Space Agency (ESA/ESTEC),
+
+G. Vignon, TRAD, Tests and Radiation, “Specific
+Characterization for Destructive Single Event Effects on GaAs
+Power P-HEMT MMIC, “pp. 175-179 (2013).
+
+[32] Seth J. Wilk, William Lepkowski, Trevor J. Thornton, SJT
+Micropower Inc., and Arizona State University; Bo Chen, Jason
+Kam, Michael Goryll, Keith Holbert, Arizona State University,
+“Radiation Effects of High Voltage MESFETs at the 45nm
+Node, “pp. 180-182 (2013).
+
+[33] Jean-Marie Lauenstein, Megan C. Casey, Kenneth A.
+LaBel, NASA/GSFC; Alyson D. Topper, Edward P. Wilcox,
+Anthony M. Phan, Hak S. Kim, MEI Technologies, Inc.,
+“Recent Radiation Test Results for Power MOSFETs,”
+pp. 183-188 (2013)
+[34] Ray Benson, Paul Resch, Aeroflex Inc.; Randall
+Milanowski, Milanowski & Associates, “Characterization and
+Analyses of RadHard-by-Design CMOS Quad Operational
+Amplifiers, “pp. 189-195 (2013).
+
+[35] Kenneth A. LaBel, Martin A. Carts, NASA Goddard Space
+Flight Center; Robert A. Gigliuto, MEI Technologies, Inc.; Carl
+M. Szabo Jr., Dell Services Federal Government; Matthew Kay,
+Timothy Sinclair, Matthew Gadlage, Adam Duncan and Dave
+Ingalls, NAVSEA Crane, “Hardness Assurance for Total Dose
+and Dose Rate Testing of a State-of-the-Art Off-Shore 32 nm
+CMOS Processor, “ pp. 196-201 (2013).
+
+[36] Martin Herrmann, Kai Griirmann, Fritz Gliem, Hagen
+Schmidt and Véronique Ferlet-Cavrois, “In-Situ TID Test of 4-
+Gbit DDR3 SDRAM Devices, “pp. 202-208 (2013).
+
+[37] Jin Hofman, “In-Situ, Low Dose Rate, TID Test of the
+Power Supply Block of RadEx, a CubeSat Class Radiation
+Experiment Module, “pp. 209-212 (2013).
+
+[38] Leif Z. Scheick, Greg R. Allen and Larry D. Edmonds, Jet
+Propulsion Laboratory, “Single-Event Effect Qualification of 24
+Bit Analog-to-Digital Converters, “pp. 213-217 (2013).
+
+[39] John Bird, Rob Davies, David DuVal, Forrest Gasdia,
+Charlie Hamp, Richard Horton, Tim Koval, Jennifer Lee,
+Kristin Marino, Timothy O'Connor, Ball Aerospace &
+Technologies Corp.; Sana Rezgui, Linear Technologies; Dakai
+Chen, Megan C. Casey, NASA GSFC; Hak S. Kim, Anthony
+M. Phan, MEI Technologies, Inc., “Compendium of Single
+Event Effects Radiation Test Results from Ball Aerospace &
+Technologies Corp., “pp. 218-222 (2013).
+
+ 
+
+2014 Workshop Record
+Editor: Farokh Irom
+IEEE Catalog Number CFP14422-PRT
+ISBN 978-1-4799-5883-2
+
+ 
+
+[1] D. M. Hiemstra, MDA Space Missions, “Guide to the 2013
+IEEE Radiation Effects Data Workshop Record,”
+pp. 1-5 (2014).
+
+[2] D. M. Hiemstra, V. Kirischian, MDA Space Missions,
+“Single Event Upset Characterization of the Kintex-7 Field
+Programmable Gate Array Using Proton Irradiation,”
+
+pp. 6-9 (2014).
+
+[3] D. S. Lee, Sandia National Laboratories; M. Wirthlin,
+Brigham Young University; G. Swift, Swift Engineering &
+Radiation Services; A. C. Le, Boeing, “Single-Event
+Characterization of the 28 nm Xilinx Kintex-7 Field-
+Programmable Gate Array under Heavy Ion Irradiation,”
+pp. 10-14 (2014).
+
+[4] N. Rezzak, J. J. Wang, C. K. Huang, V. Nguyen, and G.
+Bakker, Microsemi SOC, “Total Ionizing Dose Characterization
+of 65 nm Flash-Based FPGA, “ pp. 15-19 (2014).
+
+[5] H. Quinn, T. Fairbanks, J. L. Tripp, G. Duran, and B. Lopez,
+
+Los Alamos National Laboratory, “Single-Event Effects in
+Low-Cost, Low-Power Microprocessors, “pp. 20-28 (2014).
+
+384
+
+[6] C. Hafer, Member, IEEE; S. M. Guertin, NASA
+JPL/Caltech; B. Baranski and G. Butler, Aeroflex; J. Nagy, Self;
+S. Griffith and A. Jordan, Aeroflex, “SEE Results of a Next
+Generation LEON 3FT Microprocessor, “pp. 29-34 (2014).
+
+[7] C. Hafer, Self; J. Mabra, C. Mnich, M. Leslie, and A.
+Jordan, Aeroflex, “Radiation Effects Characterization of a High
+Density SSRAM, “pp. 35-37 (2014).
+
+[8] S. M. Guertin and M. Amrbar, JPL/Caltech - NASA, “SEE
+Test Results for P2020 and P5020 Freescale Processors, “
+pp. 38-44 (2014).
+
+[9] M. J. Tostanoski, T. F. Deaton, R. E. Strayer, R. Goldflam,
+Aeroflex RAD, Inc.; T. Z. Fullem, Bechtel Marine Propulsion
+Corporation, Bettis Atomic Power Laboratory, “Neutron
+Induced Single Event Upset (SEU) Testing of Static Random
+Access Memory (SRAM) Devices, “pp. 45-52 (2014).
+
+[10] F. Villa, LPSC, M. Baylac, S. Rey and O. Rossetto, LPSC,
+Université Grenoble-Alpes, CNRS/IN2P3; W. Mansour, P.
+Ramos and R. Velazco, Université Grenoble-Alpes & CNRS,
+TIMA; Guillaume Hubert, French Aerospace Laboratory
+(ONERA), “Accelerator-based neutron irradiation of integrated
+circuits at GENEPI2 (France), “pp. 53-57 (2014).
+
+[11] J. L. Autran, D. Munteanu, and S. Sauze, Aix-Marseille
+University; G. Gasiot and P. Roche, STMicroelectronics,
+“Altitude and Underground Real-Time SER Testing of SRAMs
+Manufactured in CMOS Bulk 130, 65 and 40 nm, “
+
+pp. 58-65 (2014).
+
+[12] R. Koga, J. George, and S. Bielat, The Aerospace
+Corporation, “Charged Particle Induced Degradation of Trench
+Type n-channel Power MOSFETs, “pp. 66-72 (2014).
+
+[13] L. Z. Scheick and L. Edmonds, Jet Propulsion Laboratory,
+California Institute of Technology, “Investigation of the Cosine
+Law for Lateral Power MOSFETs, “ pp. 73-76 (2014).
+
+[14] D. Lambert, F. Desnoyers, and D. Thouvenot, Nucletudes;
+Bruno Azais, DGA, “Single Event Effects in Power MOSFETs
+and IGBTs due to 14 MeV and 25 meV neutrons,”
+
+pp. 77-84 (2014).
+
+[15] A. M. Zafrani and M. Rearwin, microsemi corp; A. Lidow,
+A. Nakata, and J. Strydom, EPC, “Single-Event and Radiation
+Effect on Enhancement Mode Gallium Nitride FETs,”
+
+pp. 85-90 (2014).
+
+[16] K. Rashed, R. Wilkins, R. C. Dwivedi, and B. B. Gersey,
+Prairie View A&M University; A. Akturk, CoolCAD LLC,
+“Terrestrial Neutron Induced Failure in Silicon Carbide Power
+MOSFETs, “pp. 91-94 (2014).
+
+[17] K. Kruckmeyer and T. Trinh, Texas Instruments, United
+States, “Single Event Effects Characterization of Texas
+Instruments ADC12D1600CCMLS, 12 bit, 3.2 GSPS Analog-
+to-Digital Converter with Static and Dynamic Inputs, “
+
+pp. 95-101 (2014).
+
+[18] K. Kruckmeyer and T. Trinh, Texas Instruments, “ELDRS
+Characterization of Texas Instruments LM185, 1.2V Precision
+Reference: Retrograde Behavior Demonstrates Why Taking
+Interim Test Points Is Important, “pp. 102-105 (2014).
+[19] N. W. van Vonno, B. Williams, S$. D. Turner, E. J.
+Thomson, S. K. Bernard, and D. N. Goodhew, Intersil, “Total
+Dose and Single Event Effects Testing of the Intersil
+ISL71090SEH and ISL71091SEH Precision Voltage
+References, “ pp. 106-111 (2014).
+
+[20] N. W. van Vonno, P. W. Traynham, F. C. Ballou, and J. S.
+Gill, Intersil; J. E. Shick, Honeywell, “Displacement Damage
+Testing Results for Intersil Bipolar and BiCMOS Analog Parts,
+“pp. 112-116 (2014).
+
+[21] Z. Wang, Z. Xiao, B. He, S. Huang, B. Tang and M. Liu,
+Northwest Institute of Nuclear Technology, “Total Dose
+Radiation Effects on COTS Array CCDs at Low Dose Rate,
+“pp. 117-120 (2014).
+
+[22] D. A. Thompson, B. C. Fodness, and P. P. K. Lee, Exelis,
+United States, “Radiation Performance of Interline CCD Arrays,
+“pp. 121-127 (2014).
+
+[23] S. Gissot, A. BenMoussa, and B. Giordanengo, Royal
+Observatory of Belgium; Ali Soltani, Institut d'Electronique, de
+Microelectronique et de Nanotechnologie; T. Saito, Tohoku
+Institute of Technology; U. Schuehle, M. Planck Institute for
+Solar System Research; U. Kroth and A. Gottwald,
+Physikalisch-Technische Bundesanstalt, “Design and Radiation
+Hardness of Next Generation Solar UV Radiometers,”’
+
+pp. 128-133 (2014).
+
+[24] J. Cesari, D. Gomez, A. Pineda, Integrated circuits Malaga
+S.L.; M. Roca, E. Isern, and E. Garcia-Moreno, Universidad de
+las Islas baleares, “Floating Gate P-MOS Radiation Sensor
+Charging Cycles Characterization, “pp. 134-137 (2014).
+
+[25] L. Gomez Rojas, T. Clatworthy, M. Skipper, and M.
+Chang, Surrey Satellite Technology Ltd; N. Nelms and A. Perez
+Albinana, European Space Agency, “Radiation Effects in
+Thermal Image Sensors for Earth Observation Missions, “
+
+pp. 138-142 (2014).
+
+[26] F. Malou, Centre National d'Etudes Spatiales (CNES),
+France; G. Gasiot, R. Chevallier, L. Dugoujon, and P. Roche,
+STMicroelectronics, “TID and SEE characterization of Rad-
+Hardened 1.2GHz PLL IP from new ST CMOS 65nm space
+technology, “ pp. 143-150 (2014).
+
+[27] A. A. Novikov, A. A. Pechenkin, and A. I. Chumakov,
+National Research Nuclear University MEPhI (Moscow
+Engineering Physics Institute), “The Behavior of SEE
+Sensitivity at Various TID Levels, “pp. 151-154 (2014).
+
+[28] D. A. Adams, H. A. Barnes, N. P. Goldstein, D. C. Harms,
+J. J. Horner, and C. E. Sherman, Northrop Grumman; C.
+Stodart, International Rectifier, “A Total Ionizing Dose Dataset
+for Vertical NPN Transistors, “ pp. 155-157 (2014).
+
+[29] R. Netzer, K. Avery, AFRL; W. Kemp, Leidos Corp.; A.
+Vera, B. Zufelt, and D. Alexander, COSMIAC, “Total Ionizing
+Dose Effects on Commercial Electronics for Cube Sats in Low
+Earth Orbits, “ pp. 158-164 (2014).
+
+[30] B. J. Whiteside, P. Brown, T. J. Beek, T. S. Horbury, and
+C. M. Carr, Imperial College London, United Kingdom, “TID
+Response of a Hybrid AMR Vector Magnetometer,”
+
+pp. 165-168 (2014).
+
+385
+
+[31] J. L. Mesa, A. B. Fernandez, C. Hernando, M. T. Alvarez,
+and M. Diaz-Michelena, Instituto Nacional de Técnica
+Aeroespacial (INTA); M. McHenry, Carnegie Mellon
+University; C. Aroca, Universidad Politécnica de Madrid,
+“Effects of gamma-Ray Radiation on Magnetic Properties of
+NdFeB and SmCo Permanent Magnets for Space Applications,
+“pp. 169-172 (2014).
+
+[32] M. Boutillier, O. Gilard, and G. Quadri, Centre National
+des Etudes Spatiales (CNES), France; S. Lhuillier, Adveotec; L.
+S. How, Adveotec; S. Hernandez, European Space Agency
+(ESA), “Commercial Light Emitting Diodes sensitivity to
+protons radiations, “pp. 173-178 (2014).
+
+[33] F. Faccio, G. Blanchot, C. Fuentes, S. Michelis, S. Orlandi,
+and I. Troyano, CERN, Switzerland; S. Saggini, Udine
+University, “FEAST2: a radiation and magnetic field tolerant
+Point-of-Load buck DC/DC converter,”
+
+pp. 179-185 (2014).
+
+[34] R. Gomaa, Egyptian Nuclear and Radiological Regulatory
+Authority; I. Adly, British University in Egypt; K. Sharshar,
+National Center for Radiation Research and Technology; A.
+Safwat, Azher University; H. Ragai, Ain Shams University,
+“Radiation Tolerance Assessment of Commercial ZigBee
+Wireless Modules, “pp. 186-190 (2014).
+
+[35] P. Resch and R. Benson, Aeroflex Inc.; R. Milanowski,
+M&A, Inc.; J. Swonger, UltraSemi LLC, United States,
+“Characterization and Analyses of RadHard-By-Design CMOS
+Open Drain Quad Comparators,”
+
+pp. 191-196 (2014).
+
+[36] R. H. Horton, T. R. Oldham, J. Lee, R. R. Davies, Ball
+Aerospace; R. Koga, Aerospace Corp.; D. Chen, NASA GSFC,
+“Compendium of Ball Aerospace TID, DDD, and SEE Test
+Results, “pp. 197-201 (2014).
+
+[37] M. Alvarez, C. Hernando, J. J. Jimenez, F. J. Alvarez, I.
+Martin, and D. Escribano, INTA, “TID test Results of optical
+materials and photodiodes for SIS instrument (Dreams project),
+“pp. 202-204 (2014).
+
+[38] F. Irom, S. G. Agarwal, and M. Amrbar, Jet Propulsion
+Laboratory, “Compendium of Single-Event Latchup and Total
+Ionizing Dose Test Results of Commercial and Radiation
+Tolerant Operational Amplifiers, “pp. 205-212 (2014).
+
+[39] K. A. LaBel, D. Chen, M. J. Campola, M. C. Casey, J. A.
+Pellish, J. M. Lauenstein, R. L. Ladbury, A. J. Boutte, and D. P.
+Violette, NASA GSFC; M. V. OBryan, E. P. Wilcox, A. D.
+Topper, M. D. Berg, R. A. Gigliuto, and D. J. Cochran, AS&D,
+Inc., Stephen P. Buchner, NRL, “Compendium of Single Event
+Effects, Total Ionizing Dose, and Displacement Damage for
+Candidate Spacecraft Electronics for NASA,”
+
+pp. 213-224 (2014).
+
+[40] P. Oser, G. Spiezia, M. Brugger, S. Danzeca, G. Foucard,
+R. Garcia Alia, R. Losito, A. Masi, J. Mekki, P. Peronnard, R.
+Secondo, and K. Stachyra, CERN; R. Gaillard, Consultant; G.
+Ruggiero and E. Fadakis, “Compendium of Radiation-Induced
+Effects for Candidate Particle Accelerator Electronics, “
+
+pp. 225-232 (2014).
+[41] G. V. Chukov, V. V. Elesin, G. N. Nazarova, A. Y.
+Nikiforov, D. V. Boychenko, V. A. Telets, A. G. Kuznetsov,
+and K. M. Amburkin, National Research Nuclear University
+MEPHI, “SEE Testing Results for RF and Microwave ICs,”
+pp. 233-235 (2014).
+
+[42] L. N. Kessarinskiy, D. V. Boychenko, A. G. Petrov, P. V.
+Nekrasov, A. V. Sogoyan, National Research Nuclear
+University MEPhI (Moscow Engineering Physics Institute); V.
+S. Anashin and P. A. Chubunov, The JSC Institute of Space
+Device Engineering, “Compendium of TID comparative results
+under X-ray, Gamma and LINAC irradiation,”
+
+pp. 236-238 (2014).
+
+[43] C. Daniel, A. Schiittauf, and C. Plettner, Airbus DS; F.
+Tonicello, C. Poivey and M. Triggianese, ESA/ESTEC, “Laser
+Pulse Tests of Bipolar Junction Transistors (BJTs) for SET
+Analysis, “pp. 239-246 (2014).
+
+[44] A. N. Egorov, A. I. Chumakov, O. B. Mavritskiy, A. A.
+Pechenkin, D. V. Savchenkov, V. A. Telets, and A. V.
+Yanenko, National Research Nuclear University MEPhI,
+“Femtosecond Laser Simulation Facility for SEE IC Testing,
+“pp. 247-250 (2014).
+
+[45] A. Stolz, G. Bollen, D. Leitner, W. Mittig, F. Pellemoine,
+R. Ronningen, M. Steiner, Michigan State University, “Swift
+Heavy Ion Irradiation Capabilities at the National Superconducting
+Cyclotron Laboratory at Michigan State University, “
+
+pp. 251-254 (2014).
+
+[46] K. I. Tapero, A. S. Petrov, and V. N. Ulimov, Research
+Institute of Scientific Instruments; V. S. Anashin and P. A.
+Chubunov, Branch of URSC - ISDE, “Roscosmos Test
+Facilities for Total Ionizing Dose Testing of Electronic
+Component, “ pp. 255-257 (2014).
+
+[47] A. Artamonov, A. A. Sangalov, A. Y. Nikiforov, V. A.
+Telets, and D. V. Boychenko, National Research Nuclear
+University MEPhI, Russian Federation, “The New Gamma
+Irradiation Facility at the National Research Nuclear University
+MEPHI, “pp. 258-261 (2014).
+
+[48] S. Duzellier, G. Hubert, and R. Rey, ONERA; F. Bezerra,
+CNES, “Mirage: a new proton facility for the study of direct
+ionization in sub-100nm technologies, “pp. 262-266 (2014).
+
+[49] Y. Morilla, G. Mufiiz, and J. Praena, Centro Nacional de
+Aceleradores (Universidad de Sevilla, CSIC, JA); M.
+Dominguez, P. Martin, J. Jiménez, and E. Mufioz, ALTER
+Technology (TUV NORD); C. L Sanchez-Angulo, Centro
+Nacional de Aceleradores (Universidad de Sevilla, CSIC, JA);
+G. Fernandez, ALTER Technology (TUV NORD), “New
+gamma-radiation facility for device testing in Spain,”
+
+pp. 267-271 (2014).
+
+[50] N. H. Medina, V. A. P. Aguiar, E. L. A. Macchione, N.
+Added, Instituto de Fisica da Universidade de SAo Paulo; R.
+Giacomini, M. A. A. de Melo, R. B. Santos, and M. A. G.
+Silveira, Centro Universitario da FEI, Sao Bernardo do Campo;
+and L. E. Seixas Jr., Centro de Tecnologia da Informagio;
+Renato Archer, Campinas, “First successful SEE measurements
+with heavy ions in Brazil, “pp. 272-274 (2014).
+
+386
+
+[51] E. W. Blackmore and M. Trinczek, TRIUMF, “Intensity
+Upgrade to the TRIUMF 500 MeV Large-Area Neutron Beam,
+“pp. 275-279 (2014).
+
+[52] V. S. Anashin, A. E. Koziukov, A. A. Kazyakin, A. S.
+Kuznetsov, L. R. Bakirov, V. S. Korolev, K. A. Artemyev, and
+K. Zh. Faradian, Branch of URSC - ISDE, “SEE Test Results of
+Electronic Components Performed on Roscosmos Test
+Facilities, “ pp. 280-283 (2014).
+
+[53] V. S. Anashin, G. A. Protopopov, O. S. Kozyukova, P. V.
+Binyukov, and A. P. Polinkin, Branch of URSC - ISDE,
+“Analysis of Space Environment Measurement Carried Out by
+the Roscosmos Monitoring System Elements,”
+
+pp. 284-286 (2014).
+
+[54] V. S. Anashin and G. A. Protopopov, Branch of URSC -
+ISDE; P. A. Shatov and S. V. Tasenko, Fiodorov Institute of
+Applied Geophysics, “Analysis of Geostationary and Polar
+Orbit Space Environment Data Processed by the Russian
+Federal Space Agency (Roscosmos) Monitoring System,”
+pp. 287-289 (2014).
+
+[55] A. Keating, P. Gongalves, M. Pimenta, J. Martins, LIP -
+Laboratério de Instrumenta¢4o e Fisica Experimental de
+Particulas; Sérgio Coutinho, Cyberoffice; A. Zadeh and E. Daly,
+European Space Agency (ESA), ESTEC, “Simulation of Single
+Event Effects and Rate Prediction: CODES an ESA Tool,”
+
+pp. 290-293 (2014).
+
+[56] D. Nufiez, J. Jiménez, E. Mufioz, and M. Dominguez,
+ALTER Technology TUV NORD S.A.U; M. Poizat, European
+Space Agency, “Enhanced Low Dose Rate Sensitivity Analysis,
+“ pp. 294-299 (2014).
+
+[57] V. Raja P. and N. V. L. Narasimha Murty, IIT
+Bhubaneswar; C.V.S Rao and M. Abhangi, Institute of Plasma
+Research, “Effect of D-T Fusion-produced Neutron Irradiation
+on X-ray Spectral Characteristics of PIPS Detectors,”
+
+pp. 300-303 (2014).
+
+[58] H. Kettunen, M. Rossi, A. Bosser, J. Jaatinen, A.
+Javanainen, and A. Virtanen, University of Jyvaskyla; V. Ferlet-
+Cavrois, ESA/ESTEC; P. Roche and G. Gasiot,
+STMicroelectronics; Francois-Xavier Guerre and Frédéric
+Lochon, Hirex Engineering, “Low energy protons at RADEF —
+Application to Advanced eSRAMs, “ pp. 304- (2014).
+
+ 
+
+2015 Workshop Record
+Editor: Keith Avery
+IEEE Catalog Number CFP15422-CDR
+ISBN: 978-1-5090-0060-9
+
+ 
+
+[1] M. Amrbar, F. Irom, S.M. Guertin and G. Allen,"Heavy Ion
+Single Event Effects Measurements of Xilinx Zynq-7000
+FPGA“, pp. 1-4 (2015).
+
+[2] D. Dsilva, J.-J. Wang, N. Rezzak and N. Jat,"Neutron SEE
+Testing of the 65nm SmartFusion2 Flash-Based FPGA“,
+pp. 5-9 (2015).
+[3] J.A. Maharrey, J.S. Kauppila, R.C. Quinn, T. D.Loveless,
+E.X. Zhang, W. T. Holman, B. L. Bhuva and L. W. Massengill,
+"Heavy-Ion Induced SETs in 32nm SOI Inverter Chains",
+
+pp. 10-14 (2015).
+
+[4] P. Maillard, M. Hart, J. Barton, P. Jain and J. Karp, "Impact
+of Temperature and Vcc Variation on 20nm Kintex UltraScale
+FPGAs Neutron Soft Error Rate “, pp. 15-19 (2015).
+
+[5] N. W. van Vonno, L. G. Pearce, K. S. Bernard and
+E. J. Thomson," SEE Testing of the Intersil ISL71840SEH 16-
+Channel Analog Multiplexer“, pp. 20-24 (2015).
+
+[6] N. Rezzak, D. Dsilva, J.-J. Wang and N. Jat, "SET and SEFI
+Characterization of the 65 nm SmartFusion2 Flash-Based FPGA
+under Heavy Ion Irradiation“, pp. 25-28 (2015).
+
+[7] L. A. Tambara, F. L. Kastensmidt, N. H. Medina, N. Added,
+V.A.P. Aguiar, F. Aguirre, E. L. A. Macchione and M. A. G.
+Silveira, “Heavy Ions Induced Single Event Upsets Testing of
+the 28 nm Xilinx Zynq-7000 All Programmable SoC,
+
+pp. 29-34 (2015).
+
+[8] A. Wilson, S. Zarev and M. Kazmier, “Radiation Effects
+Characterization of a 3.125Gbps 90nm SerDes IP”,
+pp. 35-39 (2015).
+
+[9] R. C. Quinn, J. S. Kauppila, T. D. Loveless, J. A. Maharrey,
+J. D. Rowe, M. W. McCurdy, E. X. Zhang, M. L. Alles, B. L.
+Bhuva, R. A. Reed, W. T. Holman, M. Bounasser, K. Lilja and
+L. W. Massengill, “Heavy Ion SEU Test Data for 32nm SOI
+Flip-Flops”, pp. 40-44 (2015).
+
+[10] M. V. O'Bryan, K. A. LaBel, D. Chen, M. J. Campola, M.
+C. Casey, J. M. Lauenstein, J. A. Pellish, R. L. Ladbury and M.
+D. Berg, “Compendium of Current Single Event Effects for
+Candidate Spacecraft Electronics for NASA”,
+
+pp. 45-53 (2015).
+
+[11] G. R. Allen, L. Z. Scheick, F. Irom, S. M. Guertin,
+
+P. C. Adell, M. Amrbar, S. Vartanian and M. O'Connor, “2015
+Compendium of Recent Test Results of Single Event Effects
+Conducted by the Jet Propulsion Laboratory’s Radiation Effects
+Group”, pp. 54-66 (2015).
+
+[12] M. J. Campola, D. J. Cochran, A. J. Boutte, D. Chen,
+
+R. A. Gigliuto, K. A. LaBel, J. A. Pellish, R. L. Ladbury,
+
+M. C. Casey, E. P. Wilcox, M. V. O'Bryan, J. -M. Lauenstein,
+D. Violette and M. A. Xapsos, “Compendium of Current Total
+Ionizing Dose and Displacement Damage for Candidate
+Spacecraft Electronics for NASA”, pp. 67-75 (2015).
+
+[13] D. M. Hiemstra and V. Kirischian, “Single Event Upset
+Characterization of the Zynq-7000 ARM® Cortex™-A9
+Processor Unit Using Proton Irradiation”, pp. 76-78 (2015).
+
+[14] D. M. Hiemstra, “Guide to the 2014 IEEE Radiation
+Effects Data Workshop Record”, pp. 79-86 (2015).
+
+[15] J. Brelski and D. M. Hiemstra, “Predicting Optocoupler
+
+Life with Radiation Damage in Various Circuits”,
+pp. 87-92 (2015).
+
+387
+
+[16] J. Cesari, A. Barbancho, A. Pineda, G. Ruy and H. Moser,
+“Floating Gate Dosimeter Measurements at 4M Lunar Flyby
+Mission”, pp. 93-96 (2015).
+
+[17] H. Hughes, P. McMarr, M. Alles, E. Zhang, C. Arutt,
+
+B. Doris, D. Liu, R. Southwick and P. Oldiges, “Total Ionizing
+Dose Radiation Effects on 14 nm FinFET and SOI UTBB
+Technologies”, pp. 97-102 (2015).
+
+[18] L. N. Kessarinskiy, D. V. Boychenko and A. Y. Borisov,
+“Electrical Mode Influence on TID Sensitivity of Integrated and
+Hybrid DC-DC Converters”, pp. 103-106 (2015).
+
+[19] R. Koga, S. Bielat, J. George and S. Davis, “Proton and
+Heavy Ion Sensitivity of Commercial Reference Voltage and
+Voltage Regulator Devices”, pp. 107-114 (2015).
+
+[20] A. Akturk, R. Wilkins and J. McGarrity, “Terrestrial
+Neutron Induced Failures in Commercial SiC Power MOSFETs
+at 27C and 150C”, pp. 115-119 (2015).
+
+[21] B. D. Olson, J. D. Ingalls, C. H. Rice, C. C. Hedge,
+
+P. L. Cole, A. R. Duncan and S. E. Armstrong, “Leakage
+Current Degradation of Gallium Nitride Transistors Due to
+Heavy Ion Tests”, pp. 120-129 (2015).
+
+[22] S. E. Armstrong, K. Bole, H. Bradley, E. Johnson, J.ames
+Staggs, W. Shedd, P. L. Cole, C. H. Rice, J. D. Ingalls,
+
+C. C. Hedge, A. R. Duncan and B. D. Olson, “Heavy Ion
+Testing of Commercial GaN Transistors in the Radio Frequency
+Spectrum”, pp. 130-135 (2015).
+
+[23] E. Simova and P. A. Rochefort, “Ionizing Radiation Effects
+in Non-Radiation-Tolerant Commercial Video Cameras”,
+pp. 136-141 (2015).
+
+[24] V. S. Anashin, A. E. Koziukov, L. R. Bakirov, T. A.
+Maksimenko, A. I. Ozerov, G. A. Protopopov and P. A.
+
+Chubunov, “Test Results Obtained on the Low and High
+Energies Heavy Ion Test Facilities”, pp. 142-145 (2015).
+
+[25] M. W. McCurdy, M. H. Mendenhall, R. A. Reed,
+
+B. R. Rogers, R. A. Weller and R. D. Schrimpf, “Vanderbilt
+Pelletron - Low Energy Protons and Other Ions for Radiation
+Effects on Electronics”, pp. 146-151 (2015).
+
+[26] S. M. Guertin, M. Amrbar and S. Vartanian, “Radiation
+Test Results for Common CubeSat Microcontrollers and
+Microprocessors”, pp. 152-160 (2015).
+
+[27] B. A. Dahl, J. Cruz-Colon, R. C. Baumann,
+
+J. A. Rodriguez, C. Zhou, J. Rodriguez-Latorre, S. Khan,
+T. San and T. Trinh, “Radiation Evaluation of Ferroelectric
+Random Access Memory Embedded in 180nm CMOS
+Technology”, pp. 161-166 (2015).
+
+[28] Z. Zhang, Z. Lei, Z. Yang, X. Wang, B. Wang, J. Liu,
+Y. En, H. C. and B. Li, “Single Event Effects in COTS
+Ferroelectric RAM Technologies,“ pp. 167-171 (2015).
+
+[29] Farokh Irom and Mehran Amrbar, “Heavy Ion Single
+Event Effects Measurements of 512Mb ISSI SDRAM”,
+pp. 172-177 (2015).
+[30] F. Irom, G. R. Allen and B. G. Rax, “Proton Displacement
+Damage Measurements in Commercial Optocouplers”,
+pp. 178-182 (2015).
+
+[31] F. Irom and S. G. Agarwal, “Compendium of Single-Event
+Latchup and Total Ionizing Dose Test Results of Commercial
+Digital to Analog Converters”, pp. 183-190 (2015).
+
+[32] M. Alvarez, J. J. Jiménez, D. Escribano, P. Manzano,
+
+I. Arruego, V. Apéstigue, M. Gonzalez-Guerrero, I. Martin and
+D. M. Gonzalez-Castaifio, “Low Dose Rate Testing of
+ADXL327 Accelerometer for a Mars Mission”, pp. 191-193
+(2015).
+
+[33] K. Kruckmeyer and T. Trinh, “ELDRS Characterization up
+to 300 Krad of Texas Instruments High Speed Amplifiers,
+LM7171 and LM6172”, pp. 194-198 (2015).
+
+[34] A. S. Tararaksin, L. N. Kessarinskiy, A. A. Pechenkin,
+A. V. Demidova, A. V. Yanenko, D. V. Boychenko and
+
+A. Y. Nikiforov, “Experimental Investigation of SELs in
+SiT8003 MEMS-Oscillators”, pp. 199-202 (2015).
+
+[35] C. M. Szabo Jr., A. Duncan, K. A. LaBel, M. Kay,
+
+P. Bruner, M. Krzesniak and L. Dong, “Preliminary Radiation
+Testing of a State-of-the-Art Commercial 14nm CMOS
+Processor / System-on-a-Chip”, pp. 203-210 (2015).
+
+[36] N. Rezzak, J. -J. Wang, D. Dsilva and N. Jat, “TID and
+SEE Characterization of Microsemi's 4th Generation Radiation
+Tolerant RTG4 Flash-Based FPGA,“ pp. 211-216 (2015).
+
+[37] M. Bagatin, S. Gerardin, A. Paccagnella, C. Sellier, P. X.
+Wang, V. Ferlet-Cavrios and C. Poivey, “SEE Tests of the
+NAND Flash Radiation Tolerant Intelligent Memory Stack”,
+pp. 217-221 (2015).
+
+[38] D. S. Lee, G. R. Allen, G. Swift, M. Cannon, M.ichael
+Wirthlin, J.effrey S. George, R. Koga and K. Huey, “Single-
+Event Characterization of the 20 nm Xilinx Kintex UltraScale
+Field-Programmable Gate Array under Heavy Ion Irradiation’,
+pp. 222-227 (2015).
+
+[39] P. Maillard, M. Hart, J. Barton, P. Jain and J. Karp,
+"Neutron, 64 MeV Proton, Thermal Neutron and Alpha Single-
+Event Upset Characterization of Xilinx 20nm UltraScale Kintex
+FPGA”, pp. 228-231 (2015).
+
+ 
+
+2016 Workshop Record
+Editor: Bert Vermeire
+IEEE Catalog Number CFP16422-CDR
+ISBN: 978-1-5090-6080-1
+
+ 
+
+[1] David M. Hiemstra," Guide to the 2015 IEEE Radiation
+Effects Data Workshop Record”, pp. 1-6 (2016).
+
+[2] Vasily S. Anashin, Aleksandr E. Koziukov, Konstantin Zh.
+Faradian, Sergey A. Yakovlev, Aleksey V.Perebeynos, Artur V.
+Vlasov, Pavel A.Chubunov, Alexey S. Borisov, and Alexey A.
+Kryukov, " Collation of the Electronic Components Intended to
+Spacecraft Equipment Critical to SEE”, pp. 7-9 (2016).
+
+388
+
+[3] Michael J. Campola, Shannon Alt, Dakai Chen, Alvin J.
+Boutte, Kenneth A. LaBel, Jonathan A. Pellish, Raymond L.
+Ladbury, Megan C. Casey, Jean-Marie Lauenstein, Michael A.
+Xapsos,, Donna J. Cochran, Robert A. Gigliuto, Edward P.
+Wilcox, Martha V. O’Bryan, “Compendium of Total Ionizing
+Dose and Displacement Damage Results from NASA Goddard
+Spaceflight Center”, pp. 10-18 (2016).
+
+[4] Martha V. O’Bryan, Carl M. Szabo, Edward P. Wilcox,
+Melanie D. Berg, Kenneth A. LaBel, Dakai Chen, Michael J.
+Campola, Megan C. Casey, Jean-Marie Lauenstein, Raymond
+L. Ladbury, Jonathan A. Pellish, and Stanley A. Ikpe,
+“Compendium of Single Event Effect Results from NASA
+Goddard Space Flight Center”, pp. 19-30 (2016).
+
+[5] T.R. Oldham and J.H. Lee, “Compendium of Ball Aerospace
+TID and SEE Test Results”, pp.31-35 (2016).
+
+[6] Leif Z. Scheick, “Recent Gallium Nitride Power HEMT
+Single-Event Testing Results”, pp. 36 (2016).
+
+[7] J. S. George, J. R. Srour, M. Tockstein, B. Kwan, A. Wright,
+J. Bonsall, R. Koga, and S. C. Davis, “SEE and TID Effects in
+Transistors and Voltage Reference Devices”, pp. 42-49 (2016).
+
+[8] N. W. van Vonno, L. G. Pearce, J. S. Gill, and F. Ballou,
+and K. A. Scott, “Displacement Damage Testing of Intersil
+Analog and Power Management Parts”, pp. 50-57 (2016).
+
+[9] Farokh Irom, Gregory R. Allen, and Bernard G. Rax,
+“Measurements of Proton Displacement Damage in Several
+Commercial Optocouplers”, pp. 58-62 (2016).
+
+[10] Gregory R. Allen, Farokh Irom, Leif Scheick, Sergeh
+Vartanian, and Michael O’Connor, “Heavy Ion Induced Single-
+Event Latchup Screening of Integrated Circuits Using
+Commercial Off-the-Shelf Evaluation Boards”, pp. 63-69
+(2016).
+
+[11] J. Cruz-Colon, Thang Trinh, V. Zhu, B. A. Dahl, and R. C.
+
+Baumann, “Radiation Evaluation of the TPS7H3301-SP Linear
+
+Regulator for Double Data Rate (DDR) Applications” pp. 70-74
+(2016).
+
+[12] M. Nancekievill, S. Watson, P. R. Green, and B. Lennox,
+“Radiation Tolerance of Commercial-Off-The-Shelf
+Components Deployed in an Underground Nuclear
+Decommissioning Embedded System”, pp 75-79 (2016).
+
+[13] S. Davis, R. Koga, and J. George, “Proton and Heavy Ion
+Sensitivity of Commercial Instrumentation and Precision
+Operational Amplifiers”, pp. 80-87 (2016).
+
+[14] Alexander S. Bakerenkov, Alexander S. Rodin, Vladislav
+A. Felitsyn, Pavel A. Chubunov, Vasily S. Anashin,
+“Multifunctional Equipment and Test Results for Total Ionizing
+Dose Testing of Analog Integrated Circuits”, pp.88-91 (2016).
+
+[15] Kirby Kruckmeyer and Thang Trinh, “ELDRS
+Characterization to 300 krad of Texas Instruments High Speed
+Amplifier LMH6702”, pp. 92-95 (2016)
+
+[16] Benjamin Buck, Kyle Bojanowski, and Andrew
+Cunningham, “Heavy-Ion Testing Results for Several
+Commercial and Military Grade Parts”, pp. 96-102 (2016).
+[17] R. Koga, J. George, S. Davis, B. Buck, K. Bojanowski, and
+A. Cunningham, “Heavy Ion and Proton Induced Radiation
+Effects on Commercial Analog Switch Microcircuits”, pp. 103-
+109 (2016).
+
+[18] Michael Campola, Carolyn Thayer, John Doty, and Edward
+Wilcox, “Single Event Effects Testing of a Commercial-Off-
+The-Shelf Analog-to-Digital Converter in a Camera
+Application”, pp. 110-112 (2016).
+
+[19] Sriram Narayanan, Wade VonBergen, Joel Cruz-Colon,
+and Veera Narayanan, “Single Event Effects Characterization of
+TI ADS1282-SP High Resolution ADC”, pp.113-117 (2016).
+
+[20] Adalin Benedetto, James Salzman, Michael Tostanoski,
+and Joseph Benedetto, “The Use of 14-Mev Monoenergetic
+Neutrons to Improve the Single Event Latch-Up Response of
+the Texas Instruments VSP1221”, pp. 118-121 (2016).
+
+[21] Mirco Andreotti, Wander Baldini, Roberto Calabrese,
+Angelo Cotta Ramusino, Massimiliano Fiorini, Eleonora Luppi,
+Roberto Malaguti, Luca Minzoni, Luciano Libero Pappalardo,
+Luca Tomassetti, Mateusz Baszczyk, , Piotr Dorosz, Wojciech
+Kucewicz, Andrea Candelori, Serena Mattiazzo, Luca
+Silvestrin, Paolo Carniti, Lorenzo Cassina, Andrea Giachero,
+Claudio Gotti, Matteo Maino, and Gianluigi Pessina, “Radiation
+Hardness of the CLARO8 ASIC: A Fast Single-Photon
+Counting Chip for theLHCb Experiment at CERN”, pp. 122-
+125 (2016).
+
+[22] Alfio Zanchi, Mark Yao, Manuel Cabanas-Holmen, Barry
+Meaker, and Anthony Amort, “Total Ionizing Dose
+Characterization of an 8-bit 200-MSps Switched-Capacitor
+Pipeline A-to-D Converter in 32nm SOI CMOS”, pp. 126-131
+(2016).
+
+[23] Adam R. Duncan, Matthew J. Gadlage, Austin H. Roach,
+Aaron M. Williams, Matthew J. Kay, James D. Ingalls, Casey
+H. Hedge, Dobrin P. Bossev, Carl M. Szabo, and Kenneth A.
+LaBel, “Single Event Effects in 14-nm Intel Microprocessors”,
+pp. 132-140 (2016).
+
+[24] James Aarestad, David Alexander, Paul Eaton, Will Burke,
+James Salzman, and Keith Avery, “Single Event Effects Testing
+of the Hardened Texas Instruments MSP430FR5739
+Microcontroller on with Embedded Ferroelectric Memory”, pp.
+141-146 (2016).
+
+[25] Daniel Oliveira, Caio Lunardi, Philippe Navaux, Luigi
+Carro, Paolo Rech, Laercio Pilla, and Fernando Fernandes,
+“Input Size Effects on the Radiation-Sensitivity of Modern
+Parallel Processors”, pp. 147-152 (2016).
+
+[26] N. W. van Vonno, A. G. Robinson, L. G. Pearce, and E. J.
+Thomson, “Single-Event Effects and Total Dose Testing of the
+Intersil ISL72027SEH CAN Bus Transceiver”, pp. 153-160
+(2016).
+
+[27] Matt Von Thun, Scott Sapp, Dale Walz, Rex Anderson,
+and Teresa Farris, “SEL and TID Test Results on a Radiation
+Hardened Bus Switch Family”, pp. 161-165 (2016).
+
+[28] Matt Von Thun, Derek Bass, Dale Walz, Rex Anderson,
+
+and Teresa Farris, “SEL and TID Test Results of a Hardened
+CAN Transceiver’, pp. 166-169 (2016).
+
+389
+
+[29] David M. Hiemstra, Valeri Kirischian, and Jakub Brelski,
+“Single Event Upset Characterization of the Kintex UltraScale
+Field Programmable Gate Array Using Proton Irradiation”, pp.
+170-174 (2016).
+
+[30] David S. Lee, Gary Swift, and Michael Wirthlin, “An
+Analysis of High-Current Events Observed on Xilinx 7-Series
+and UltraScale Field-Programmable Gate Arrays”, pp. 175-179
+(2016).
+
+[31] Zachary K. Baker, and Heather M. Quinn, “Design and
+Test of Xilinx Embedded ECC for MicroBlaze Processors”, pp.
+180-186 (2016).
+
+[32] Jih-Jong Wang, Nadia Rezzak, Stephen Varela, Durwyn
+Dsilva, and Sean Cui, “Single Event Effects Testing on the
+SERDES, Fabric Flip-Flops and PLL in a Radiation-Hardened
+Flash-Based FPGA—RT4G150”, pp. 187-192 (2016).
+
+[33] William Rudge, Cody Dinkins, William Boesch, Dave
+Vail, Josh Bruckmeyer, and Gary Swift, “SEL Site Localization
+Using Masking and PEM Imaging Techniques: A Case Study
+on Xilinx 28nm 7-Series FPGAs”, pp. 193-198 (2016).
+
+[34] Mehran Amrbar and Steven M. Guertin, “Total Ionizing
+Dose Response of SDRAM, DDR2 and DDR3 Memories”, pp.
+199-204 (2016).
+
+[35] Steven M. Guertin and Mehran Amrbar, “Single Event
+Testing of SDRAM, DDR2 and DDR3 Memories” pp. 205-211
+(2016).
+
+[36] Pierre-Xiao Wang, Charles Sellier, Pierre Southiratn, Duc
+Nguyen, and Kai Grurmann, “TID/SEE Tests of the Radiation
+Hardened DDR2 SDRAM Memory Solution”, pp. 212-215
+(2016).
+
+[37] Mi Young Park, Jang—Soo Chae, Chol Lee, Jungsu Lee, Im
+Hyu Shin, and Sinae Ji, “Radiation Hardness Performance of 2
+Gbit LPDDR SDRAM Fabricated on Epitaxial Wafer for Space
+Applications”, pp. 216-219 (2016).
+
+[38] D. L. Hansen, R. Hillman, F. Meraz, J. Montoya, and G.
+Williamson, “SEE Testing of the 4 Gb Samsung and Spansion
+Flash NAND”, pp. 220-223 (2016).
+
+[39] James S. Hack, Kodie Altvater, Deas Brown, Paul Dudek,
+Douglas Jaeger, Ellwood Lane, John Lindley, Brainton Song,
+and Thomas Tittel, “Heavy Ion and Proton Test Results for
+Micron 4 Gb NAND Flash Memory”, pp. 224-230 (2016).
+
+[40] Farokh Irom, Gregory R. Allen, and Douglas J. Sheldon,
+“Heavy Ion, Proton and Electron Single-Event Effect
+Measurements of a Commercial Samsung NAND Flash
+Memory”, pp. 231-236 (2016).
+
+[41] Martin Grimm, Burkart Vob, and Elke Wendler, “3MeV
+Proton Irradiation of Commercial State of the Art Photonic
+Mixer Devices”, pp. 237-240 (2016).
+
+[42] Spencer Novak, Kathleen Richardson, Vivek Singh,
+Corentin Monmeyran, Zhaohong Han, Hongtao Lin, Neil Patel,
+Qingyang Du, Juejun Hu,bAdam Ingram, Nikolay Borodinov,
+Igor Luzinov, Roman Golovchak, and Anuradha Agarwal,
+“Effect of Gamma Exposure on Chalcogenide Glass Films for
+Microphotonic Devices”, pp. 241-244 (2016).
+[43] Maite Alvarez, P. Manzano, D. Escribano, C. Hernando,
+J.J. Jimenez, S. Sampedro, and I. Arruego, “On-Orbit
+measurements of TID and Dose Rate from Two RADFETs on
+Board NANOSAT-1B Satellite”, pp. 245-248 (2016).
+
+[44] Michael Newton, Haibin Wang, Li Chen, David M.
+Hiemstra, and Valeri Kirischian, “Laser Single Event Effects
+Response of Optek and Infineon Hall Effect Sensors”, pp. 249-
+253 (2016).
+
+[45] Michael Newton, , Haibin Wang, Li Chen, Brook Danger,
+David M. Hiemstra, and, Valeri Kirischian, “Two Photon
+Absorption Laser Facility for Single Event Effect Testing”, pp.
+254-258 (2016).
+
+[46] Aridio M. Sanchez, Victor Brisan and Anthony Difonzo,
+“TID Irradiation Facility Utilizing Novel Alanine Dosimetry”,
+pp. 259-263 (2016).
+
+[47] Alexey O. Akhmetov, Dmitry V. Bobrovsky, Alexander S.
+Tararaksin, Andrey G. Petrov, Leonid N. Kessarinskiy, Dmitry
+V. Boychenko, Alexander I. Chumakov, Alexandre Rousset,
+and Christian Chatry, “IC SEE Comparative Studies at UCL and
+JINR Heavy Ion Accelerators”, pp. 264-267 (2016).
+
+[48] Daohua Hu, “COTS Components Radiation Test Activity
+and Results at MSSL”, pp. 268-274 (2016).
+
+[49] Pierre Maillard, Michael Hart, Jeff Barton, Paula Chang,
+Michael Welter, Robert Le, Restu Ismail, and Eric Crabill,
+“Single-event Upsets Characterization & Evaluation of Xilinx
+UltraScale™ Soft Error Mitigation (SEM IP) Tool”, pp. 275-
+278 (2016).
+
+[50] Michael Shannon, Spencer Mickum, and Zachary Hope,
+“Design Baseline Considerations for a High Dose Rate
+Irradiator for Total Dose Effects Testing”, pp. 279-283 (2016).
+
+ 
+
+2017 Workshop Record
+Editor: J. S. George
+IEEE Catalog Number CFP17NSR-CDR
+ISBN 987-1-5386-3750-0
+
+ 
+
+[1] Farokh Irom, Gregory R. Allen, and Sergeh Vartanian,
+“Single-Event Latchup Measurements on COTS Electronic
+Devices for Use in ISS Payloads”, pp. 1 - 6 (2017).
+
+[2] Gregory R. Allen, Sergeh Vartanian, Farokh Irom, Leif Z.
+Scheick, Philippe Adell, Michael D. O’Connor, and Steven M.
+Guertin, “2017 Compendium of Recent Test Results of Single
+Event Effects Conducted by the Jet Propulsion Laboratory’ s
+Radiation Effects Group”, pp. 7 - 15 (2017).
+
+[3] Amanda N. Bozovich, and Farokh Irom, “Compendium of
+Single Event Transient (SET) and Total Ionizing Dose (TID)
+Test Results for Commonly Used Voltage Comparators”,
+
+pp. 16 - 36 (2017).
+
+[4] Alyson D. Topper, Michael J. Campola, Dakai Chen, Megan
+C. Casey, Ka-Yen Yau, Donna J. Cochran, Kenneth A. LaBel,
+Raymond L. Ladbury, Timothy K. Mondy, Martha V. O’Bryan,
+Jonathan A. Pellish, Edward P. Wilcox, Edward J. Wyrwas, and
+Michael A. Xapsos, “Compendium of Current Total Ionizing
+Dose and Displacement Damage Results from NASA Goddard
+Space Flight Center and NASA Electronic Parts and Packaging
+Program’, pp. 37 - 47 (2017).
+
+390
+
+[5] Martha V. O’Bryan, Kenneth A. LaBel, Edward P. Wilcox,
+Dakai Chen, Michael J. Campola, Megan C. Casey, Jean Marie
+Lauenstein, Edward J. Wyrwas, Steven M. Guertin, Jonathan A.
+Pellish, and Melanie D. Berg, “Compendium of Current Single
+Event Effects Results from NASA Goddard Space Flight Center
+and NASA Electronic Parts and Packaging Program’, pp. 48 -
+56 (2017).
+
+[6] Brandon D. Reddell, Charles R. Bailey, Patrick M. O'Neill,
+Kyson V. Nguyen, Scott A. Wheeler, Razvan Gaza, Chirag
+Patel, Jaime Cooper, Theodore Kalb, Elden Beach and Larry
+Mason, “ “Compendium of Single Event Effects Test Results
+for Commercial-Off-The-Shelf and Standard Electronics for
+Low Earth Orbit and Deep Space Applications”, pp. 57 - 65
+(2017).
+
+[7] S. Danzeca, P. Peronnard, G. Foucard, G. Tsiligiannis, R.
+Secondo, R. Ferraro, C.G. McAllister, T. Borel, M. Brugger, A.
+Masi, and S. Gilardoni, “Compendium of Radiation-Induced
+Effects for Candidate Particle Accelerator Electronics”, pp. 66 -
+71 (2017).
+
+[8] Mirco Andreotti, Wander Baldini, Mateusz Baszczyk, Paolo
+Camiti, Lorenzo CassinaAngelo Cotta Ramusino, Piotr Dorosz,
+Massimiliano Fiorini, Andrea Giachero, Claudio Gotti,
+Wojciech Kucewicz, Eleonora Luppi, Matteo Maino, Roberto
+Malaguti, Serena Mattiazzo, Luca Minzoni, Ilaria Neri,
+Gianluigi Pessina, Luca Silvestrin, Luca Tomassetti, “A Fast
+and Radiation-Hard Single-Photon Counting ASIC for the
+Upgrade of the LHCb RICH Detector at CERN”, pp. 72 - 75
+(2017).
+
+[9] Felipe G. H. Leite, Vitor A. P. Aguiar, Nemitala Added,
+Renato Giacomini, Nilberto H. Medina, 1, Roberto B. B. Santos,
+and Marcilei A. G. Silveira, “Fast and Low-Cost Soft Error
+Testing of a COTS Microcontroller with Alpha Particle
+Source”, pp. 76 - 78 (2017).
+
+[10] Eugeny V. Mitin, Ekaterina N. Nekrasova, Vasily S.
+Anashin, and Aleksandr E. Koziukov, “Research of Noncontact
+Laser-Based Approach for DUT Heating during Single-Event
+Effect Tests with Heavy Ion Exposure’, pp. 79 - 82 (2017).
+
+[11] Janilee Y. Benitez, Alexander Donoghue, Michael B.
+Johnson, Wang Lu, Brien Ninemire, Larry Phair, Damon S.
+Todd, Daniel Xie, “Recent Cocktail Beam Developments at the
+88-Inch Cyclotron for SEE Testing”, pp. 83 - 87 (2017).
+
+[12] Alexander Donoghue, Larry Phair, Michael B. Johnson,
+Brien Ninemire, Scott Small, Reba Siero, Thomas L. Gimpel,
+“Selectable Fluence Accuracy at the BASE Heavy Ion Facility’,
+pp. 88 - 92 (2017).
+
+[13] Yaqing Chi, Bin Liang, Yongjie Sun, Yang Guo and
+Shuming Chen, “Radiation Hardness Evaluation of the YHFT-
+DV Digital Signal Processor’, pp. 93 - 96 (2017).
+
+[14] Alfio Zanchi, Manuel Cabanas-Holmen,, Paul Eaton, Will
+Burke, Roger Brees, “Single-Event Effects Characterization of a
+12-bit 200MSps A-to-D Converter in 32nm SOI CMOS with
+MilliBeam™ and Broad-Beam Heavy-Ions”, pp. 97 - 104
+(2017).
+[15] Steven C. Witczak, Jeremiah J. Horner, David C. Harms,
+Todd S. Mason, Kristin E. Marino and Glen E. Macejik,
+“Tonizing Radiation Response of the 4558 Analog Processor /
+Analog-to-Digital Converter”, pp. 105 - 108 (2017).
+
+[16] David Alexander, Alonzo Vera, James Aarestad, Gabriel
+V. Urbaitis, “Total Dose Testing of Advanced Mixed Signal
+ADC/DAC Microcireuits”, pp. 109 - 113 (2017).
+
+[17] Damien Lambert, Fran¢gois Desnoyers, Didier Thouvenot,
+Olivier Riant, Jérémy Galinat, Bruno Azais and Thierry
+Colladant, “Single Event Upsets Induced by a few MeV
+Neutrons in SRAMs and FPGAs”, pp. 114 - 118 (2017).
+
+[18] John M. Bird, Michael K. Peters, Travis Z. Fullem,
+Michael J. Tostanoski, Terrence F. Deaton, Kristianto Hartojo,
+and Roy E. Strayer, Jr., “Neutron Induced Single Event Upset
+(SEU) Testing of Commercial Memory Devices with Embedded
+Error Correction Codes (ECC)’, pp. 119 - 126 (2017).
+
+[19] Haibin Wang, Qingyu Chen, Li Chen, David M. Hiemstra,
+and Valeri Kirischian -, “Single Event Upset Characterization of
+the Tegra K1 Mobile Processor Using Proton Irradiation’, pp.
+127 - 130 (2017).
+
+[20] Qingyu Chen, David M. Hiemstra, Haibin Wang, Li Chen,
+and Valeri Kirischian, -, “High Energy Proton Irradiation
+Results for the DSP Cores of the KeyStone II System-on-Chip
+(SoC) 66AK2L06”, pp. 131 - 134 (2017).
+
+[21] David M. Hiemstra, Valeri Kirischian, and Jakub Brelski,
+“Single Event Upset Characterization of the Zynq UltraScale+
+MPSoC Using Proton Irradiation”, pp. 135 - 138 (2017).
+
+[22] Pierre Maillard, Michael Hart, Jeff Barton, Jue Arver, and
+Christina Smith, “Neutron, 64 MeV Proton & Alpha Single-
+event Characterization of Xilinx 16nm FinFET Zynq®
+UltraScale+™ MPSoC”, pp. 139 - 143 (2017).
+
+[23] Yanran P. Chen, Pierre Maillard, Michael Hart, Jeff
+Barton, John Schmitz, and Patrick Kyu, “64 MeV Proton
+Single-Event Upset Characterization of Customer Memory
+Interface Design on Xilinx XCKU040 FPGA”, pp. 144 - 147
+(2017).
+
+[24] Krzysztof M. Sielewicz, Gianluca Aglieri Rinella, Matthias
+Bonora, Piero Giubilato, Matteo Lupi, Marcus J. Rossewij,
+Joachim Schambach, and Tomas Vanat, “Experimental Methods
+and Results for the Evaluation of Triple Modular Redundancy
+SEU Mitigation Techniques with the Xilinx Kintex-7 FPGA”,
+pp. 148 - 154 (2017).
+
+[25] Steven M. Guertin, and Matthew Cui, “SEE Test Results
+for the Snapdragon 820”, pp. 155 - 160 (2017).
+
+[26] Steven M. Guertin, Sergeh Vartanian, “Towards a
+Qualification Data Set: Expanded SEE Data on the P2020
+Processor’, pp. 161 - 167 (2017).
+
+[27] 8. C. Davis, R. Koga, and J. 8. George, “Proton and Heavy
+
+Ion Testing of the Microsemi Igloo2 FPGA”, pp. 168 - 173
+(2017).
+
+391
+
+[28] Romney R. Katti, “Heavy-Ion Device Cross-Section
+Response in Magnetic Tunnel Junctions for a Radiation
+Hardened 16Mb Magnetoresistive Random Access Memory
+(MRAMY)’, pp. 174 - 177 (2017).
+
+[29] Philippe C. Adell, Slaven Moro, Lionel Gouyet, Christian
+Chatry, and Bert Vermeire, “Single Event Effect Assessment of
+a 1-Mbit Commercial Magneto-resistive Random Access
+Memory (MRAM)”, pp. 178 - 181 (2017).
+
+[30] Matthew J. Gadlage, Matthew J. Kay, David I. Bruce,
+Austin H. Roach, Adam R. Duncan, Aaron M. Williams, and J.
+David Ingalls, “Total Ionizing Dose Effects in Commercial
+Floating-Gate-Alternative Non-Volatile Memories”, pp. 182 -
+186 (2017).
+
+[31] Brianna Myers, Kirby Kruckmeyer, and Thang Trinh,
+“ELDRS Characterization up to 100 krad of Texas Instruments’
+Dual Amplifier LM158”, pp. 187 - 191 (2017).
+
+[32] S. Narayanan, V. Narayanan, C. Yots, and J.Cruz-Colon,
+“Radiation Effects Characterization of TI LMH5401-SP Ultra-
+wideband Fully Differential Amplifier (FDAY’, pp. 192 - 195
+(2017).
+
+[33] V. Narayanan, S. Narayanan J.C.-Colon, and Y. Christian,
+“Radiation Effects Characterization of TI OPA4277-SP High
+Precision Operational Amplifier”, pp. 196 - 200 (2017).
+
+[34] J. Cruz-Colon, V. Narayanan, W. N. Vonbergen, R. G.
+Roybal, and R. C. Baumann,, “Radiation Evaluation of the
+CDCLVP111-SP Low Voltage 1:10 LVPECL Clock
+Distributor’, pp. 201 - 206 (2017).
+
+[35] Matt Von Thun, Dale Walz, Radu Dumitru, Anthony
+Wilson, and Teresa Farris, “SEU Characterization of an
+Embedded 130nm Compiled SRAM in Heavy Ion and Proton
+Environments”, pp. 207 - 211 (2017).
+
+[36] Anthony L. Wilson, Dale Walz, Younes Lotfi, Ken Merkel,
+Raytheon Ktech,, Matt Von Thun, and Teresa Farris, “Heavy
+Ion and TID Characterization of 3.3 V Voltage Supervisors “,
+pp. 212 - 218 (2017).
+
+[37] Bart H. McGuyer, Randall J. Milanowski, Slaven Moro,
+Norman Hall, and Bert Vermeire, “Proton Testing Results for
+Kaman KD-5100 Differential Inductive Position Measuring
+Systems”, pp. 219 - 223 (2017).
+
+[38] Randall Milanowski, Raichelle Aniceto, Fred Hardy, Bert
+Vermeire, Michael Jacox, Slaven Moro, and Kerri Cahoy,
+“Proton Radiation Effects Assessment of a Commercial 12-
+Megapixel CMOS Imager”, pp. 224 - 230 (2017).
+
+[39] Raichelle Aniceto, Slaven Moro, Randall Milanowski,
+Christopher Isabelle, Norman Hall, Bert Vermeire, and Kerri
+Cahoy, “Single Event Effect and Total Ionizing Dose
+Assessment of Commercial Optical Coherent DSP ASIC”, pp.
+231 - 236 (2017).
+
+[40] Akin Akturk, James M. McGarrity, Richard Wilkins,
+Prairie View, Adam Markowski, and Brendan Cusack, “Space
+and Terrestrial Radiation Response of Silicon Carbide Power
+MOSFETs”, pp. 237 - 241 (2017).
+[41] D. L. Hansen, “Proton Cross-Sections from Heavy-Ion
+Data in GaAs Devices”, pp. 242 - 248 (2017).
+
+[42] N. W. van Vonno, O. Mansilla, J. S. Gill, W. H. Newman,
+LG. Pearce, and E. J. Thomson, “Displacement Damage
+Testing of the Intersil ISL70023SEH and ISL70024SEH
+Gallium Nitride Power Transistors”, pp. 249 - 254 (2017).
+
+[43] N. W. van Vonno, O. Mansilla, J. S. Gill, W. H. Newman,
+L. G. Pearce, and E. J. Thomson, “Destructive Single-Event
+Effects Testing of the Intersil ISL70023SEH and ISL70024SEH
+Gallium Nitride Power Transistors”, pp. 255 - 260 (2017).
+
+[44] W. H. Newman, N. W. van Vonno, O. Mansilla, L. G.
+Pearce, and E. J. Thomson, “A Radiation Hardened, High-
+Voltage, High-Precision Analog Family’, pp. 261 - 265 (2017).
+
+[45] M. W. McCurdy, R. D. Schrimpf, D. M. Fleetwood, K.
+Bole, and B. S. Poling, “1.8 MeV Proton Testing of Thermally
+Stabilized GaN HEMT RF Power Devices in Three Operational
+Modes”, pp. 266 - 270 (2017).
+
+[46] Jean-Marie Lauenstein, Megan C. Casey, Edward P.
+Wilcox, Anthony M. Phan, Hak S. Kim, Alyson D. Topper,
+Raymond L. Ladbury, and Kenneth A. LaBel, “Recent
+Radiation Test Results for Trench Power MOSFETs”, pp. 271 -
+278 (2017).
+
+[47] D. Lasi, M. Tulej, M. B. Neuland, P. Wurz, T. S.
+Carzaniga, K. P. Nesteruk, S. Braccini, and H. R. Elsener,
+“Testing the Radiation Hardness of Thick-Film Resistors for a
+Time-Of-Flight Mass Spectrometer at Jupiter with 18 MeV
+Protons’, pp. 279 - 287 (2017).
+
+[48] M. Pinto, P. Assis, M. Ferreira, P. Gongalves, M.
+Muschitiello, and C. Poivey, “Representativeness of 60Co
+testing for EEE components to be flown in JUICE”, pp. 288 -
+293 (2017).
+
+[49] Alexander S. Bakerenkov, Alexander S. Rodin, Viacheslav
+S. Pershenkov, Vladislav A. Felitsyn, and Yury D. Bursian,
+“The Impact of Annealing on the Following Radiation
+Degradation Rate of Bipolar Devices”, pp. 294 - 297 (2017).
+
+[50] Alexander S. Bakerenkov, Vladislav A. Felitsyn, Vasily V.
+Orlov, Alexander S. Rodin, and Gennady I. Zebrev,, “Total
+Dose Radiation Response of n-Channel Enhancement Mode
+Field Effect Transistors over Wide Operation Temperature
+Range”, pp. 298 - 300 (2017).
+
+392
+
+[51] Mathieu Sureau, Russell Stevens, Marco Leuenberger,
+
+Nadia Rezzak, and Dorian Johnson, “TID, ELDRS and SEE
+Hardening and Testing on Mixed Signal Telemetry LX7730
+Controller’, pp. 301 - 308 (2017).
+
+[52] R. Koga, 8. Davis, J. George, “Heavy Ion and Proton
+Induced Radiation Effects on Differential Bus Transceiver
+Microcireuits”, pp. 309 - 314 (2017).
+
+[53] L. Artola,, A. Al Youssef, S. Ducret, R. Buiron, S. Parola,
+G. Hubert, and C. Poivey, “Single Event Transient and
+Functional Interrupt in Readout Integrated Circuit of Infrared
+Image Sensors at Low Temperatures”, pp. 315 - 319 (2017).
+
+[54] P. Manzano, M. Alvarez, S. Sampedro, M.J. Rivas, I.
+Traseira, J. Manzano, J.R. Mingo, A. Martin-Ortega, and N.
+Andrés, “Heavy ion latch-up test on dsPIC microcontroller to be
+used in ExoMars 2020 mission”, pp. 320 - 323 (2017).
+
+[55] Edward P. Wilcox, Michael J. Campola, Seshagiri
+Nadendla, Madhusudan Kadari, and Robert A. Gigliuto, -, “An
+Improved SEL Test of the ADV212 Video Codec”, pp. 324 -
+327 (2017).
+
+[56] Robert L. Shuler, “Configuration Tests of RHBD Library
+with DICE, TAG4, Dual Rail, TMR and New 10T Voting Latch
+using UMC 65 and XFAB 180 nm”, pp. 328 - 333 (2017).
+
+[57] Andrew T. Kelly, John C. Rodgers, Stephen Johnson,
+Ronald D. Brown, and Aaron Adamson, “Single Event Effects
+Characterization of BAE Systems RADNET™ 1848-PS
+RapidIO® Packet Switch”, pp. 334 - 339 (2017).
+
+[58] D.L. Hansen, R. Hillman, F. Meraz, J. Montoya, and G.
+Williamson, “Architectural Consequences of Radiation
+Performance in a Flash NAND Device”, pp. 340 - 345 (2017).
+
+[59] D.L. Hansen, F. Meraz, J. Montoya, S. Roberg, and G.
+Williamson, “Radiation Testing of a Flash NAND Device”,
+pp. 346 - 349 (2017).
+
+[60] Jacques Dubeau, Sampath S. Hakmana Witharana, Roy J.
+Peterson, Maxim Kiselev, and Edna M. Sacay, “Measurement
+of the Neutron Field Characteristics Inside and Outside the
+Vault of a 70 MeV Cyclotron”, pp. 350 - 353 (2017).
+
+[61] David M. Hiemstra, “Guide to the 2016 IEEE Radiation
+Effects Data Workshop Record”, pp. 354 - 360 (2017).
+
